@@ -3,9 +3,20 @@ Expanded set of Unciode CLDR "Transform Rules" in LDML (XML) format located in t
 
 There is no promise that these transliteration files are accurate or complete or are fully compatible with Unicode/CLDR/ICU/LDML.
 
-## ./trules --help
+##Usage
+The `trules` executable has three main uses. 
 
-```trules [-h] [-r] [-t <TESTFILE>] [-c <SOURCE>-<TARGET>-<VARIANT>]
+1. The default use is to run through the words and "testdata.txt" and print out transliteration results. A different file of test data can be specified with the `-t` flag.
+
+2. The `-c` flag will create a new LDML-like template in the transforms/ directory.
+
+3. The `-r` flag will rebuild the transliteration models from the transforms/ directory.
+
+
+#####Help Command 
+
+```
+trules [-h] [-r] [-t <TESTFILE>] [-c <SOURCE>-<TARGET>-<VARIANT>]
 
 Transliterate some letters.
 
@@ -20,7 +31,8 @@ optional arguments:
                         Default=testdata.txt
   -c <SOURCE>-<TARGET>-<VARIANT>, --create-xml <SOURCE>-<TARGET>-<VARIANT>
                         Create an empty xml template in the transforms folder
-                        for a new ruleset```
+                        for a new ruleset
+```
 
 ## Helpful Links
 
