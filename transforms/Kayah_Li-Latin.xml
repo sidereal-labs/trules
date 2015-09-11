@@ -26,9 +26,9 @@
 			<tRule> ꤣꤨ ↔ ơu ; </tRule>
 			<tRule> ꤣꤩ ↔ ơê ; </tRule>
 			<tRule> ꤣꤪ ↔ ơo ; </tRule>
-			<tRule> ꤢ꤫ ↔ \u0301 ; </tRule>
-			<tRule> ꤢ꤬ ↔ \u0304 ; </tRule>
-			<tRule> ꤢ꤭ ↔ \u0300 ; </tRule>
+			<tRule> \ua92b ↔ \u0301 ; # decided to use acute diacritic for high tone, this might conflict with circumflex e and o above </tRule>
+			<tRule> \ua92c ↔ \u0304 ; # decided to use macron diacritic for medium tone, this might conflict with circumflex e and oabove </tRule>
+			<tRule> \ua92d ↔ \u0300 ; # decided to use grave diacritic for low tone, this might conflict with circumflex e and o above</tRule>
 			<tRule> ꤊ ↔ k ; </tRule>
 			<tRule> ꤌ ↔ g ; </tRule>
 			<tRule> ꤎ ↔ s ; </tRule>
