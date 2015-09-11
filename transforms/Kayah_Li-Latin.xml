@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Kayah_Li' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ꤋ ↔ kh ; </tRule>
+			<tRule> ꤞ ↔ th ; </tRule>
+			<tRule> ꤏ ↔ sh ; </tRule>
+			<tRule> ꤐ ↔ zh ; </tRule>
+			<tRule> ꤍ ↔ ng ; </tRule>
+			<tRule> ꤓ ↔ ht ; </tRule>
+			<tRule> ꤑ ↔ ny ; </tRule>
+			<tRule> ꤖ ↔ ph ; </tRule>
+			<tRule> ꤢ ↔ a ; </tRule>
+			<tRule> ꤣ ↔ ơ ; </tRule>
+			<tRule> ꤤ ↔ i ; </tRule>
+			<tRule> ꤥ ↔ ô ; </tRule>
+			<tRule> ꤢꤦ ↔ ư ; </tRule>
+			<tRule> ꤢꤧ ↔ e ; </tRule>
+			<tRule> ꤢꤨ ↔ u ; </tRule>
+			<tRule> ꤢꤩ ↔ ê ; </tRule>
+			<tRule> ꤢꤪ ↔ o ; </tRule>
+			<tRule> ꤣꤦ ↔ ơư ; </tRule>
+			<tRule> ꤣꤧ ↔ ưe ; </tRule>
+			<tRule> ꤣꤨ ↔ ơu ; </tRule>
+			<tRule> ꤣꤩ ↔ ơê ; </tRule>
+			<tRule> ꤣꤪ ↔ ơo ; </tRule>
+			<tRule> ꤢ꤫ ↔ \u0301 ; </tRule>
+			<tRule> ꤢ꤬ ↔ \u0304 ; </tRule>
+			<tRule> ꤢ꤭ ↔ \u0300 ; </tRule>
+			<tRule> ꤊ ↔ k ; </tRule>
+			<tRule> ꤌ ↔ g ; </tRule>
+			<tRule> ꤎ ↔ s ; </tRule>
+			<tRule> ꤒ ↔ t ; </tRule>
+			<tRule> ꤔ ↔ n ; </tRule>
+			<tRule> ꤕ ↔ p ; </tRule>
+			<tRule> ꤗ ↔ m ; </tRule>
+			<tRule> ꤘ ↔ d ; </tRule>
+			<tRule> ꤙ ↔ b ; </tRule>
+			<tRule> ꤚ ↔ r ; </tRule>
+			<tRule> ꤛ ↔ y ; </tRule>
+			<tRule> ꤜ ↔ l ; </tRule>
+			<tRule> ꤝ ↔ w ; </tRule>
+			<tRule> ꤟ ↔ h ; </tRule>
+			<tRule> ꤠ ↔ v ; </tRule>
+			<tRule> ꤡ ↔ c ; </tRule>
+			<tRule> ꤀ ↔ 0 ; </tRule>
+			<tRule> ꤁ ↔ 1 ; </tRule>
+			<tRule> ꤂ ↔ 2 ; </tRule>
+			<tRule> ꤃ ↔ 3 ; </tRule>
+			<tRule> ꤄ ↔ 4 ; </tRule>
+			<tRule> ꤅ ↔ 5 ; </tRule>
+			<tRule> ꤆ ↔ 6 ; </tRule>
+			<tRule> ꤇ ↔ 7 ; </tRule>
+			<tRule> ꤈ ↔ 8 ; </tRule>
+			<tRule> ꤉ ↔ 9 ; </tRule>
+			<tRule>:: NFD ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
