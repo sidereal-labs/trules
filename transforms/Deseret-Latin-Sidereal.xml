@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+    <transforms>
+        <transform source="Deseret" target="Latin" direction="both">
+            <tRule>:: NFC ; </tRule>
+            <tRule> 𐐀 ↔ iː ; </tRule>
+            <tRule> 𐐁 ↔ eɪ ; </tRule>
+            <tRule> 𐐂 ↔ ɑː ; </tRule>
+            <tRule> 𐐃 ↔ ɔː ; </tRule>
+            <tRule> 𐐄 ↔ oʊ ; </tRule>
+            <tRule> 𐐅 ↔ uː ; </tRule>
+            <tRule> 𐐆 ↔ ɪ ; </tRule>
+            <tRule> 𐐇 ↔ ɛ ; </tRule>
+            <tRule> 𐐈 ↔ æ ; </tRule>
+            <tRule> 𐐉 ↔ ɒ ; </tRule>
+            <tRule> 𐐊 ↔ ʌ ; </tRule>
+            <tRule> 𐐋 ↔ ʊ ; </tRule>
+            <tRule> 𐐌 ↔ aɪ ; </tRule>
+            <tRule> 𐐍 ↔ aʊ ; </tRule>
+            <tRule> 𐐎 ↔ w ; </tRule>
+            <tRule> 𐐏 ↔ j ; </tRule>
+            <tRule> 𐐐 ↔ h ; </tRule>
+            <tRule> 𐐑 ↔ p ; </tRule>
+            <tRule> 𐐒 ↔ b ; </tRule>
+            <tRule> 𐐓 ↔ t ; </tRule>
+            <tRule> 𐐔 ↔ d ; </tRule>
+            <tRule> 𐐕 ↔ tʃ ; </tRule>
+            <tRule> 𐐖 ↔ dʒ ; </tRule>
+            <tRule> 𐐗 ↔ k ; </tRule>
+            <tRule> 𐐘 ↔ ɡ ; </tRule>
+            <tRule> 𐐙 ↔ f ; </tRule>
+            <tRule> 𐐚 ↔ v ; </tRule>
+            <tRule> 𐐛 ↔ θ ; </tRule>
+            <tRule> 𐐜 ↔ ð ; </tRule>
+            <tRule> 𐐝 ↔ s ; </tRule>
+            <tRule> 𐐞 ↔ z ; </tRule>
+            <tRule> 𐐟 ↔ ʃ ; </tRule>
+            <tRule> 𐐠 ↔ ʒ ; </tRule>
+            <tRule> 𐐡 ↔ r ; </tRule>
+            <tRule> 𐐢 ↔ l ; </tRule>
+            <tRule> 𐐣 ↔ m ; </tRule>
+            <tRule> 𐐤 ↔ n ; </tRule>
+            <tRule> 𐐥 ↔ ŋ ; </tRule>
+            <tRule> 𐐦 ↔  ɔɪ ; </tRule>
+            <tRule> 𐐧 ↔ juː ; </tRule>
+            <tRule> 𐐨 ↔ iː ; </tRule>
+            <tRule> 𐐩 ↔ eɪ ; </tRule>
+            <tRule> 𐐪 ↔ ɑː ; </tRule>
+            <tRule> 𐐫 ↔ ɔː ; </tRule>
+            <tRule> 𐐬 ↔ oʊ ; </tRule>
+            <tRule> 𐐭 ↔ uː ; </tRule>
+            <tRule> 𐐮 ↔ ɪ ; </tRule>
+            <tRule> 𐐯 ↔ ɛ ; </tRule>
+            <tRule> 𐐰 ↔ æ ; </tRule>
+            <tRule> 𐐱 ↔ ɒ ; </tRule>
+            <tRule> 𐐲 ↔ ʌ ; </tRule>
+            <tRule> 𐐳 ↔ ʊ ; </tRule>
+            <tRule> 𐐴 ↔ aɪ ; </tRule>
+            <tRule> 𐐵 ↔ aʊ ; </tRule>
+            <tRule> 𐐶 ↔ w ; </tRule>
+            <tRule> 𐐷 ↔ j ; </tRule>
+            <tRule> 𐐸 ↔ h ; </tRule>
+            <tRule> 𐐹 ↔ p ; </tRule>
+            <tRule> 𐐺 ↔ b ; </tRule>
+            <tRule> 𐐻 ↔ t ; </tRule>
+            <tRule> 𐐼 ↔ d ; </tRule>
+            <tRule> 𐐽 ↔ tʃ ; </tRule>
+            <tRule> 𐐾 ↔ dʒ ; </tRule>
+            <tRule> 𐐿 ↔ k ; </tRule>
+            <tRule> 𐑀 ↔ ɡ ; </tRule>
+            <tRule> 𐑁 ↔ f ; </tRule>
+            <tRule> 𐑂 ↔ v ; </tRule>
+            <tRule> 𐑃 ↔ θ ; </tRule>
+            <tRule> 𐑄 ↔ ð ; </tRule>
+            <tRule> 𐑅 ↔ s ; </tRule>
+            <tRule> 𐑆 ↔ z ; </tRule>
+            <tRule> 𐑇 ↔ ʃ ; </tRule>
+            <tRule> 𐑈 ↔ ʒ ; </tRule>
+            <tRule> 𐑉 ↔ r ; </tRule>
+            <tRule> 𐑊 ↔ l ; </tRule>
+            <tRule> 𐑋 ↔ m ; </tRule>
+            <tRule> 𐑌 ↔ n ; </tRule>
+            <tRule> 𐑍 ↔ ŋ ; </tRule>
+            <tRule> 𐑎 ↔ ɔɪ ; </tRule>
+            <tRule> 𐑏 ↔ juː ; </tRule>
+        </transform>
+    </transforms>
+</supplementalData>
