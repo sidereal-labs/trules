@@ -12,15 +12,15 @@ Cyrillic	поколење
 
 Thai	สำนักงานเทศบาลนคร
 
-Han	引っつれる
-Han	內勿
-Han	直接融資
+# Han	引っつれる
+# Han	內勿
+# Han	直接融資
 
 Georgian	ასომთავრული
 
 Ogham	ᚉᚐᚈᚈᚒᚃᚃᚔᚏᚏ
 
-Japanese	引っつれる
+# Japanese	引っつれる
 
 CanadianAboriginal	ᑐᓐᖓᓱᒋᑦ ᓄᓇᕗᒥ ᒪᓕᒐᓕᐅᕐᕕᖕᒧᑦ
 CanadianAboriginal	ᑲᑎᒪᔾᔪᑎᒃᓴᑦ
@@ -46,12 +46,10 @@ LinearB	𐁁𐀓𐀠𐀴𐀍
 
 Kayah_Li	ꤊꤢ꤬ꤛꤢ꤭ ꤜꤟꤤ꤬
 
-<<<<<<< HEAD
-Deseret 𐐐𐐄𐐢𐐆𐐤𐐝 𐐓𐐅 𐐜 𐐢𐐃𐐡𐐔
-=======
+Deseret	𐐐𐐄𐐢𐐆𐐤𐐝 𐐓𐐅 𐐜 𐐢𐐃𐐡𐐔
+
 Lydian	𐤬𐤭𐤠
 Lydian	𐤬𐤳𐤦𐤭𐤲𐤬𐤩
 Lydian	𐤬𐤭𐤦𐤡
 
 Lycian	𐊗𐊕𐊐𐊎𐊆𐊍𐊆
->>>>>>> d9951f19c084d534156854568a2ac75e6def2272

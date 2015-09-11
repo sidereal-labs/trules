@@ -33,12 +33,13 @@ elif "test" in args:
 		i = 0
 		for line in fh:
 			i += 1
-			cols = line.strip().split("\t")
-			if len(cols) == 0:
-				pass
-			elif len(cols) == 2:
-				transliterate(cols[1], source=cols[0])
-			elif len(cols) == 1:
-				transliterate(cols[0])
-			else:
-				print "Incorrect formatting of ", file, "on line", str(i)
+			if not line.strip().startswith("#"):
+				cols = line.strip().split("\t")
+				if len(cols) == 0:
+					pass
+				elif len(cols) == 2:
+					transliterate(cols[1], source=cols[0])
+				elif len(cols) == 1:
+					transliterate(cols[0])
+				else:
+					print "Incorrect formatting of ", file, "on line", str(i)

@@ -2,7 +2,7 @@
 <!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
 <supplementalData>
     <transforms>
-        <transform source="Deseret" target="Latin" direction="both">
+        <transform source="Deseret" target="Latin" variant="IPA" direction="both">
             <tRule>:: NFC ; </tRule>
             <tRule> 𐐀 ↔ iː ; </tRule>
             <tRule> 𐐁 ↔ eɪ ; </tRule>
