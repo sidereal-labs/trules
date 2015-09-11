@@ -9,12 +9,15 @@ The Unicode provided transliteration rules are contained in the `transforms/cldr
 The `trules` executable has three main uses. 
 
 1. The default use is to run through the words and "testdata.txt" and print out transliteration results. A different file of test data can be specified with the `-t` flag.
+
 	Example: `trules -t othertestdata.txt`
 
 2. The `-c` flag will create a new LDML-like template in the `transforms` directory. Use a hyphen-separated string to be used as the filename (the script will append the .xml) following the pattern SOURCE-TARGET-VARIANT or just SOURCE-TARGET if no variant needs to be specified. 
+
 	Example: `trules -c Martian-Venutian-UNGEGN`
 
 3. The `-r` flag will rebuild the transliteration models from the `transforms` directory. This is necessary any time an xml file has been added or edited.
+
 	Example: `trules -r`
 
 
