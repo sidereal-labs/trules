@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Cherokee" target="Latin" direction="both">
+			<tRule>:: NFD;</tRule>
+			<tRule>Ꭰ ↔ a ; </tRule>
+			<tRule>Ꭱ ↔ e ; </tRule>
+			<tRule>Ꭲ ↔ i ; </tRule>
+			<tRule>Ꭳ ↔ o ; </tRule>
+			<tRule>Ꭴ ↔ u ; </tRule>
+			<tRule>Ꭵ ↔ v ; </tRule>
+			<tRule>Ꭶ ↔ ga ; </tRule>
+			<tRule>Ꭷ ↔ ka ; </tRule>
+			<tRule>Ꭸ ↔ ge ; </tRule>
+			<tRule>Ꭹ ↔ gi ; </tRule>
+			<tRule>Ꭺ ↔ go ; </tRule>
+			<tRule>Ꭻ ↔ gu ; </tRule>
+			<tRule>Ꭼ ↔ gv ; </tRule>
+			<tRule>Ꭽ ↔ ha ; </tRule>
+			<tRule>Ꭾ ↔ he ; </tRule>
+			<tRule>Ꭿ ↔ hi ; </tRule>
+			<tRule>Ꮀ ↔ ho ; </tRule>
+			<tRule>Ꮁ ↔ hu ; </tRule>
+			<tRule>Ꮂ ↔ hv ; </tRule>
+			<tRule>Ꮃ ↔ la ; </tRule>
+			<tRule>Ꮄ ↔ le ; </tRule>
+			<tRule>Ꮅ ↔ li ; </tRule>
+			<tRule>Ꮆ ↔ lo ; </tRule>
+			<tRule>Ꮇ ↔ lu ; </tRule>
+			<tRule>Ꮈ ↔ lv ; </tRule>
+			<tRule>Ꮉ ↔ ma ; </tRule>
+			<tRule>Ꮊ ↔ me ; </tRule>
+			<tRule>Ꮋ ↔ mi ; </tRule>
+			<tRule>Ꮌ ↔ mo ; </tRule>
+			<tRule>Ꮍ ↔ mu ; </tRule>
+			<tRule>Ᏽ ↔ mv ; </tRule>
+			<tRule>Ꮎ ↔ na ; </tRule>
+			<tRule>Ꮏ ↔ hna ; </tRule>
+			<tRule>Ꮐ ↔ nah ; </tRule>
+			<tRule>Ꮑ ↔ ne ; </tRule>
+			<tRule>Ꮒ ↔ ni ; </tRule>
+			<tRule>Ꮓ ↔ no ; </tRule>
+			<tRule>Ꮔ ↔ nu ; </tRule>
+			<tRule>Ꮕ ↔ nv ; </tRule>
+			<tRule>Ꮖ ↔ qua ; </tRule>
+			<tRule>Ꮗ ↔ que ; </tRule>
+			<tRule>Ꮘ ↔ qui ; </tRule>
+			<tRule>Ꮙ ↔ quo ; </tRule>
+			<tRule>Ꮚ ↔ quu ; </tRule>
+			<tRule>Ꮛ ↔ quv ; </tRule>
+			<tRule>Ꮝ ↔ s ; </tRule>
+			<tRule>Ꮜ ↔ sa ; </tRule>
+			<tRule>Ꮞ ↔ se ; </tRule>
+			<tRule>Ꮟ ↔ si ; </tRule>
+			<tRule>Ꮠ ↔ so ; </tRule>
+			<tRule>Ꮡ ↔ su ; </tRule>
+			<tRule>Ꮢ ↔ sv ; </tRule>
+			<tRule>Ꮣ ↔ da ; </tRule>
+			<tRule>Ꮤ ↔ ta ; </tRule>
+			<tRule>Ꮥ ↔ de ; </tRule>
+			<tRule>Ꮦ ↔ te ; </tRule>
+			<tRule>Ꮧ ↔ di ; </tRule>
+			<tRule>Ꮨ ↔ ti ; </tRule>
+			<tRule>Ꮩ ↔ do ; </tRule>
+			<tRule>Ꮪ ↔ du ; </tRule>
+			<tRule>Ꮫ ↔ dv ; </tRule>
+			<tRule>Ꮬ ↔ dla ; </tRule>
+			<tRule>Ꮭ ↔ tla ; </tRule>
+			<tRule>Ꮮ ↔ tle ; </tRule>
+			<tRule>Ꮯ ↔ tli ; </tRule>
+			<tRule>Ꮰ ↔ tlo ; </tRule>
+			<tRule>Ꮱ ↔ tlu ; </tRule>
+			<tRule>Ꮲ ↔ tlv ; </tRule>
+			<tRule>Ꮳ ↔ tsa ; </tRule>
+			<tRule>Ꮴ ↔ tse ; </tRule>
+			<tRule>Ꮵ ↔ tsi ; </tRule>
+			<tRule>Ꮶ ↔ tso ; </tRule>
+			<tRule>Ꮷ ↔ tsu ; </tRule>
+			<tRule>Ꮸ ↔ tsv ; </tRule>
+			<tRule>Ꮹ ↔ wa ; </tRule>
+			<tRule>Ꮺ ↔ we ; </tRule>
+			<tRule>Ꮻ ↔ wi ; </tRule>
+			<tRule>Ꮼ ↔ wo ; </tRule>
+			<tRule>Ꮽ ↔ wu ; </tRule>
+			<tRule>Ꮾ ↔ wv ; </tRule>
+			<tRule>Ꮿ ↔ ya ; </tRule>
+			<tRule>Ᏸ ↔ ye ; </tRule>
+			<tRule>Ᏹ ↔ yi ; </tRule>
+			<tRule>Ᏺ ↔ yo ; </tRule>
+			<tRule>Ᏻ ↔ yu ; </tRule>
+			<tRule>Ᏼ ↔ yv ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
+

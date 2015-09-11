@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Avestan" target="Latin" direction="both" draft="unconfirmed">
+			<tRule>𐬀 ↔ a ; </tRule>
+			<tRule>𐬁 ↔ ā ; </tRule>
+			<tRule>𐬂 ↔ å ; </tRule>
+			<tRule>𐬃 ↔ ā̊ ; </tRule>
+			<tRule>𐬄 ↔ ą ; </tRule>
+			<tRule>𐬅 ↔ ą̇ ; </tRule>
+			<tRule>𐬆 ↔ ə ; </tRule>
+			<tRule>𐬇 ↔ ə̄ ; </tRule>
+			<tRule>𐬈 ↔ e ; </tRule>
+			<tRule>𐬉 ↔ ē ; </tRule>
+			<tRule>𐬊 ↔ o ; </tRule>
+			<tRule>𐬋 ↔ ō ; </tRule>
+			<tRule>𐬌 ↔ i ; </tRule>
+			<tRule>𐬍 ↔ ī ; </tRule>
+			<tRule>𐬎 ↔ u ; </tRule>
+			<tRule>𐬏 ↔ ū ; </tRule>
+			<tRule>𐬐 ↔ k ; </tRule>
+			<tRule>𐬑 ↔ x ; </tRule>
+			<tRule>𐬒 ↔ x́ ; </tRule>
+			<tRule>𐬓 ↔ xʷ ; </tRule>
+			<tRule>𐬔 ↔ g ; </tRule>
+			<tRule>𐬕 ↔ ġ ; </tRule>
+			<tRule>𐬖 ↔ γ ; </tRule>
+			<tRule>𐬗 ↔ c ; </tRule>
+			<tRule>𐬘 ↔ j ; </tRule>
+			<tRule>𐬙 ↔ t ; </tRule>
+			<tRule>𐬚 ↔ ϑ ; </tRule>
+			<tRule>𐬛 ↔ d ; </tRule>
+			<tRule>𐬜 ↔ δ ; </tRule>
+			<tRule>𐬝 ↔ t̰ ; </tRule>
+			<tRule>𐬞 ↔ p ; </tRule>
+			<tRule>𐬟 ↔ f ; </tRule>
+			<tRule>𐬠 ↔ b ; </tRule>
+			<tRule>𐬡 ↔ β ; </tRule>
+			<tRule>𐬢 ↔ ŋ ; </tRule>
+			<tRule>𐬣 ↔ ŋ́ ; </tRule>
+			<tRule>𐬤 ↔ ŋʷ ; </tRule>
+			<tRule>𐬥 ↔ n ; </tRule>
+			<tRule>𐬦 ↔ ń ; </tRule>
+			<tRule>𐬧 ↔ ṇ ; </tRule>
+			<tRule>𐬨 ↔ m ; </tRule>
+			<tRule>𐬩 ↔ m̨ ; </tRule>
+			<tRule>𐬪 ↔ ẏ ; </tRule>
+			<tRule>𐬫 ↔ y ; </tRule>
+			<tRule>𐬬 ↔ v ; </tRule>
+			<tRule>𐬭 ↔ r ; </tRule>
+			<tRule>𐬮 ↔ l ; </tRule>
+			<tRule>𐬯 ↔ s ; </tRule>
+			<tRule>𐬰 ↔ z ; </tRule>
+			<tRule>𐬱 ↔ š ; </tRule>
+			<tRule>𐬲 ↔ ž ; </tRule>
+			<tRule>𐬳 ↔ š́ ; </tRule>
+			<tRule>𐬴 ↔ ṣ̌ ; </tRule>
+			<tRule>𐬵 ↔ h ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

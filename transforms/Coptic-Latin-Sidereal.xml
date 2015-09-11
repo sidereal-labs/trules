@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Coptic" target="Latin" direction="both">
+			<tRule>:: NFC ; </tRule>
+			<tRule>ⲟⲩ ↔ ou ; </tRule>
+			<tRule>Ⲁ ↔ A ; </tRule>
+			<tRule>ⲁ ↔ a  ; </tRule>
+			<tRule>Ⲃ ↔ B ; </tRule>
+			<tRule>ⲃ ↔ b ; </tRule>
+			<tRule>Ⲅ ↔ G  ; </tRule>
+			<tRule>ⲅ ↔ g  ; </tRule>
+			<tRule>Ⲇ ↔ D  ; </tRule>
+			<tRule>ⲇ ↔ d  ; </tRule>
+			<tRule>Ⲉ ↔ E  ; </tRule>
+			<tRule>ⲉ ↔ e  ; </tRule>
+			<tRule>Ⲋ ↔ '' ; </tRule>
+			<tRule>ⲋ ↔ '' ; </tRule>
+			<tRule>Ⲍ ↔ Z  ; </tRule>
+			<tRule>ⲍ ↔ z  ; </tRule>
+			<tRule>Ⲏ ↔ Ē ; </tRule>
+			<tRule>ⲏ ↔ ē ; </tRule>
+			<tRule>Ⲑ ↔ Th ; </tRule>
+			<tRule>ⲑ ↔ th ; </tRule>
+			<tRule>Ⲓ ↔ I  ; </tRule>
+			<tRule>ⲓ ↔ i  ; </tRule>
+			<tRule>Ⲕ ↔ K  ; </tRule>
+			<tRule>ⲕ ↔ k  ; </tRule>
+			<tRule>Ⲗ ↔ L  ; </tRule>
+			<tRule>ⲗ ↔ l  ; </tRule>
+			<tRule>Ⲙ ↔ M  ; </tRule>
+			<tRule>ⲙ ↔ m  ; </tRule>
+			<tRule>Ⲛ ↔ N  ; </tRule>
+			<tRule>ⲛ ↔ n  ; </tRule>
+			<tRule>Ⲝ ↔ Ks ; </tRule>
+			<tRule>ⲝ ↔ ks ; </tRule>
+			<tRule>Ⲟ ↔ O  ; </tRule>
+			<tRule>ⲟ ↔ o  ; </tRule>
+			<tRule>Ⲡ ↔ P  ; </tRule>
+			<tRule>ⲡ ↔ p  ; </tRule>
+			<tRule>Ⲣ ↔ R ; </tRule>
+			<tRule>ⲣ ↔ r  ; </tRule>
+			<tRule>Ⲥ ↔ S ; </tRule>
+			<tRule>ⲥ ↔ s  ; </tRule>
+			<tRule>Ⲧ ↔ T  ; </tRule>
+			<tRule>ⲧ ↔ t  ; </tRule>
+			<tRule>Ⲩ ↔ U ; </tRule>
+			<tRule>ⲩ ↔ u ; </tRule>
+			<tRule>Ⲫ ↔ Ph ; </tRule>
+			<tRule>ⲫ ↔ ph ; </tRule>
+			<tRule>Ⲭ ↔ Kh  ; </tRule>
+			<tRule>ⲭ ↔ kh  ; </tRule>
+			<tRule>Ⲯ ↔ Ps ; </tRule>
+			<tRule>ⲯ ↔ ps ; </tRule>
+			<tRule>Ⲱ ↔ Ō ; </tRule>
+			<tRule>ⲱ ↔ ō ; </tRule>
+			<tRule>Ϣ ↔ Sh ; </tRule>
+			<tRule>ϣ ↔ sh ; </tRule>
+			<tRule>Ϥ ↔ F ; </tRule>
+			<tRule>ϥ ↔ f ; </tRule>
+			<tRule>Ϧ ↔ X ; </tRule>
+			<tRule>Ⳉ ↔ X  ; </tRule>
+			<tRule>ϧ ↔ x ; </tRule>
+			<tRule>ⳉ ↔ x  ; </tRule>
+			<tRule>Ϩ ↔ H  ; </tRule>
+			<tRule>ϩ ↔ h  ; </tRule>
+			<tRule>Ϫ ↔ J ; </tRule>
+			<tRule>ϫ ↔ j ; </tRule>
+			<tRule>Ϭ ↔ Q ; </tRule>
+			<tRule>ϭ ↔ q ; </tRule>
+			<tRule>Ϯ ↔ Ti ; </tRule>
+			<tRule>ϯ ↔ ti ; </tRule>
+			<tRule>Ⳁ ↔ '' ; </tRule>
+			<tRule>ⳁ ↔ '' ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

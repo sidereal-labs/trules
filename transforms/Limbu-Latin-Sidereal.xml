@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Limbu" target="Latin" direction="both">
+			<tRule>::NFC;</tRule>
+			<tRule>ᤁᤨ ↔ |ᤁ ; </tRule>
+			<tRule>ᤰ ↔ k ; </tRule>
+			<tRule>ᤱ ↔ ng ; </tRule>
+			<tRule>ᤳ ↔ t ; </tRule>
+			<tRule>ᤴ ↔ n ; </tRule>
+			<tRule>ᤵ ↔ p ; </tRule>
+			<tRule>ᤶ ↔ m ; </tRule>
+			<tRule>ᤷ ↔ r ; </tRule>
+			<tRule>ᤸ ↔ l ; </tRule>
+			<tRule>᤺ ↔ : ; </tRule>
+			<tRule>ᤁ᤻ ↔ :k ; </tRule>
+			<tRule>ᤅ᤻ ↔ :ng ; </tRule>
+			<tRule>ᤋ᤻ ↔ :t ; </tRule>
+			<tRule>ᤏ᤻ ↔ :n ; </tRule>
+			<tRule>ᤐ᤻ ↔ :p ; </tRule>
+			<tRule>ᤔ᤻ ↔ :m ; </tRule>
+			<tRule>ᤖ᤻ ↔ :r ; </tRule>
+			<tRule>ᤗ᤻ ↔ :l ; </tRule>
+			<tRule>oᤡ ↔ i ; </tRule>
+			<tRule>oᤣ ↔ ee ; </tRule>
+			<tRule>oᤧ ↔ e ; </tRule>
+			<tRule>oᤠ ↔ a ; </tRule>
+			<tRule>oᤨ ↔ o ; </tRule>
+			<tRule>oᤥ ↔ oo ; </tRule>
+			<tRule>oᤢ ↔ u ; </tRule>
+			<tRule>oᤤ ↔ ai ; </tRule>
+			<tRule>oᤦ ↔ au ; </tRule>
+			<tRule>oᤩ ↔ j|o ; </tRule>
+			<tRule>oᤪ ↔ r|o ; </tRule>
+			<tRule>oᤫ ↔ w|o ; </tRule>
+			<tRule>ᤁ ↔ k|o ; </tRule>
+			<tRule>ᤂ ↔ kh|o ; </tRule>
+			<tRule>ᤃ ↔ g|o ; </tRule>
+			<tRule>ᤄ ↔ gh|o ; </tRule>
+			<tRule>ᤅ ↔ ng|o ; </tRule>
+			<tRule>ᤆ ↔ c|o ; </tRule>
+			<tRule>ᤇ ↔ ch|o ; </tRule>
+			<tRule>ᤈ ↔ j|o ; </tRule>
+			<tRule>ᤉ ↔ jh|o ; </tRule>
+			<tRule>ᤊ ↔ ny|o ; </tRule>
+			<tRule>ᤋ ↔ t|o ; </tRule>
+			<tRule>ᤌ ↔ th|o ; </tRule>
+			<tRule>ᤍ ↔ d|o ; </tRule>
+			<tRule>ᤎ ↔ dh|o ; </tRule>
+			<tRule>ᤏ ↔ n|o ; </tRule>
+			<tRule>ᤐ ↔ p|o ; </tRule>
+			<tRule>ᤑ ↔ ph|o ; </tRule>
+			<tRule>ᤒ ↔ b|o ; </tRule>
+			<tRule>ᤓ ↔ bh|o ; </tRule>
+			<tRule>ᤔ ↔ m|o ; </tRule>
+			<tRule>ᤕ ↔ y|o ; </tRule>
+			<tRule>ᤖ ↔ r|o ; </tRule>
+			<tRule>ᤗ ↔ l|o ; </tRule>
+			<tRule>ᤘ ↔ w|o ; </tRule>
+			<tRule>ᤙ ↔ sh|o ; </tRule>
+			<tRule>ᤚ ↔ ss|o ; </tRule>
+			<tRule>ᤛ ↔ s|o ; </tRule>
+			<tRule>ᤜ ↔ h|o ; </tRule>
+			<tRule>᤹ ↔ ' ; </tRule>
+			<tRule>\u194C ↔ loo ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

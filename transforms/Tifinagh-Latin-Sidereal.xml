@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Tifinagh" target="Latin" direction="both">
+			<tRule>ⴰ ↔ a ; </tRule>
+			<tRule>ⴱ ↔ b ; </tRule>
+			<tRule>ⴲ ↔ b ; </tRule>
+			<tRule>ⴳ ↔ g ; </tRule>
+			<tRule>ⴴ ↔ g ; </tRule>
+			<tRule>ⴵ ↔ dj ; </tRule>
+			<tRule>ⴶ ↔ dj ; </tRule>
+			<tRule>ⴷ ↔ d ; </tRule>
+			<tRule>ⴸ ↔ d ; </tRule>
+			<tRule>ⴹ ↔ ḍ ; </tRule>
+			<tRule>ⴺ ↔ ḍ ; </tRule>
+			<tRule>ⴻ ↔ e ; </tRule>
+			<tRule>ⴼ ↔ f ; </tRule>
+			<tRule>ⴽ ↔ k ; </tRule>
+			<tRule>ⴾ ↔ k ; </tRule>
+			<tRule>ⴿ ↔ k ; </tRule>
+			<tRule>ⵀ ↔ h ; </tRule>
+			<tRule>ⵁ ↔ h ; </tRule>
+			<tRule>ⵂ ↔ h ; </tRule>
+			<tRule>ⵃ ↔ ḥ ; </tRule>
+			<tRule>ⵄ ↔ ɛ ; </tRule>
+			<tRule>ⵅ ↔ kh ; </tRule>
+			<tRule>ⵆ ↔ kh ; </tRule>
+			<tRule>ⵇ ↔ q ; </tRule>
+			<tRule>ⵈ ↔ q ; </tRule>
+			<tRule>ⵉ ↔ i ; </tRule>
+			<tRule>ⵊ ↔ j ; </tRule>
+			<tRule>ⵋ ↔ j ; </tRule>
+			<tRule>ⵌ ↔ j ; </tRule>
+			<tRule>ⵍ ↔ l ; </tRule>
+			<tRule>ⵎ ↔ m ; </tRule>
+			<tRule>ⵏ ↔ n ; </tRule>
+			<tRule>ⵐ ↔ ny ; </tRule>
+			<tRule>ⵑ ↔ ng ; </tRule>
+			<tRule>ⵒ ↔ p ; </tRule>
+			<tRule>ⵓ ↔ u ; </tRule>
+			<tRule>ⵔ ↔ r ; </tRule>
+			<tRule>ⵕ ↔ ṛ ; </tRule>
+			<tRule>ⵖ ↔ gh ; </tRule>
+			<tRule>ⵗ ↔ gh ; </tRule>
+			<tRule>ⵘ ↔ gh ; </tRule>
+			<tRule>ⵙ ↔ s ; </tRule>
+			<tRule>ⵚ ↔ ṣ ; </tRule>
+			<tRule>ⵛ ↔ š ; </tRule>
+			<tRule>ⵜ ↔ t ; </tRule>
+			<tRule>ⵝ ↔ t ; </tRule>
+			<tRule>ⵞ ↔ tš ; </tRule>
+			<tRule>ⵟ ↔ ṭ ; </tRule>
+			<tRule>ⵠ ↔ v ; </tRule>
+			<tRule>ⵡ ↔ w ; </tRule>
+			<tRule>ⵢ ↔ y ; </tRule>
+			<tRule>ⵣ ↔ z ; </tRule>
+			<tRule>ⵤ ↔ z ; </tRule>
+			<tRule>ⵥ ↔ ẓ ; </tRule>
+			<tRule>ⵦ ↔ e ; </tRule>
+			<tRule>ⵧ ↔ o ; </tRule>
+			<tRule>ⵯ ↔ ʷ ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

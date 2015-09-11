@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Japanese" target="Latin" direction="both">
+			<tRule>:: NFD;</tRule>
+			<tRule>:: Han-Latin</tRule>
+			<tRule>:: Hiragana-Latin</tRule>
+		</transform>
+	</transforms>
+</supplementalData>
+

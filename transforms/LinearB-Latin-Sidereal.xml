@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="LinearB" target="Latin" direction="both">
+			<tRule>𐁁 ↔ ai ; </tRule>
+			<tRule> 𐀀 ↔ a ; </tRule>
+			<tRule> 𐀅 ↔ da ; </tRule>
+			<tRule> 𐀊 ↔ ja ; </tRule>
+			<tRule> 𐀏 ↔ ka ; </tRule>
+			<tRule> 𐀔 ↔ ma ; </tRule>
+			<tRule> 𐀙 ↔ na ; </tRule>
+			<tRule> 𐀞 ↔ pa ; </tRule>
+			<tRule> 𐀣 ↔ qa ; </tRule>
+			<tRule> 𐀨 ↔ ra ; </tRule>
+			<tRule> 𐀭 ↔ sa ; </tRule>
+			<tRule> 𐀲 ↔ ta ; </tRule>
+			<tRule> 𐀷 ↔ wa ; </tRule>
+			<tRule> 𐀼 ↔ za ; </tRule>
+			<tRule> 𐀁 ↔ e ; </tRule>
+			<tRule> 𐀆 ↔ de ; </tRule>
+			<tRule> 𐀋 ↔ je ; </tRule>
+			<tRule> 𐀐 ↔ ke ; </tRule>
+			<tRule> 𐀕 ↔ me ; </tRule>
+			<tRule> 𐀚 ↔ ne ; </tRule>
+			<tRule> 𐀟 ↔ pe ; </tRule>
+			<tRule> 𐀤 ↔ qe ; </tRule>
+			<tRule> 𐀩 ↔ re ; </tRule>
+			<tRule> 𐀮 ↔ se ; </tRule>
+			<tRule> 𐀳 ↔ te ; </tRule>
+			<tRule> 𐀸 ↔ we ; </tRule>
+			<tRule> 𐀽 ↔ ze ; </tRule>
+			<tRule> 𐀂 ↔ i ; </tRule>
+			<tRule> 𐀇 ↔ di ; </tRule>
+			<tRule> 𐀑 ↔ ki ; </tRule>
+			<tRule> 𐀖 ↔ mi ; </tRule>
+			<tRule> 𐀛 ↔ ni ; </tRule>
+			<tRule> 𐀠 ↔ pi ; </tRule>
+			<tRule> 𐀥 ↔ qi ; </tRule>
+			<tRule> 𐀪 ↔ ri ; </tRule>
+			<tRule> 𐀯 ↔ si ; </tRule>
+			<tRule> 𐀴 ↔ ti ; </tRule>
+			<tRule> 𐀹 ↔ wi ; </tRule>
+			<tRule> 𐀃 ↔ o ; </tRule>
+			<tRule> 𐀈 ↔ do ; </tRule>
+			<tRule> 𐀍 ↔ jo ; </tRule>
+			<tRule> 𐀒 ↔ ko ; </tRule>
+			<tRule> 𐀗 ↔ mo ; </tRule>
+			<tRule> 𐀜 ↔ no ; </tRule>
+			<tRule> 𐀡 ↔ po ; </tRule>
+			<tRule> 𐀦 ↔ qo ; </tRule>
+			<tRule> 𐀫 ↔ ro ; </tRule>
+			<tRule> 𐀰 ↔ so ; </tRule>
+			<tRule> 𐀵 ↔ to ; </tRule>
+			<tRule> 𐀺 ↔ wo ; </tRule>
+			<tRule> 𐀿 ↔ zo ; </tRule>
+			<tRule> 𐀄 ↔ u ; </tRule>
+			<tRule> 𐀉 ↔ du ; </tRule>
+			<tRule> 𐀓 ↔ ku ; </tRule>
+			<tRule> 𐀘 ↔ mu ; </tRule>
+			<tRule> 𐀝 ↔ nu ; </tRule>
+			<tRule> 𐀢 ↔ pu ; </tRule>
+			<tRule> 𐀬 ↔ ru ; </tRule>
+			<tRule> 𐀱 ↔ su ; </tRule>
+			<tRule> 𐀶 ↔ tu ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

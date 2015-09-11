@@ -1,0 +1,44 @@
+#!/usr/local/bin/python
+# coding: utf-8
+
+import argparse
+
+parser = argparse.ArgumentParser(description='Transliterate some letters.')
+parser.add_argument('-r', '--rebuild-transforms', action='store_true', dest='rebuild', help='Reparse xml files into transforms.json in ./transforms/ and ./transforms/cldr/ folders before running tests. Default=FALSE')
+parser.add_argument('-t', '--test-file', metavar="<TESTFILE>", dest='test', help='Test rules transforms.json on list of sample words. Default=testdata.txt', default="testdata.txt")
+parser.add_argument('-c', '--create-xml', metavar="<SOURCE>-<TARGET>-<VARIANT>", dest='newxml', help='Create an empty xml template in the transforms folder for a new ruleset', default=argparse.SUPPRESS)
+
+args = vars(parser.parse_args())
+
+if "newxml" in args:
+	with open("transforms/" + args["newxml"] + ".xml","w") as fh:
+		newxml = args["newxml"].split("-") + ["", "", ""]
+		fh.write("""<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='""" + newxml[0] + """' target='""" + newxml[1] + """' direction="both" variant='""" + newxml[1] + """'>
+			<tRule>:: NFC ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
+""")
+
+elif "test" in args:
+	if args["rebuild"]:
+		import lib.transform
+	from lib.transliterate import *
+	
+	with open(args["test"]) as fh:
+		i = 0
+		for line in fh:
+			i += 1
+			cols = line.strip().split("\t")
+			if len(cols) == 0:
+				pass
+			elif len(cols) == 2:
+				transliterate(cols[1], source=cols[0])
+			elif len(cols) == 1:
+				transliterate(cols[0])
+			else:
+				print "Incorrect formatting of ", file, "on line", str(i)

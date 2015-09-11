@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="OldItalic" target="Latin" direction="both">
+			<tRule>𐌀 ↔ a ; </tRule>
+			<tRule>𐌁 ↔ b ; </tRule>
+			<tRule>𐌂 ↔ c ; </tRule>
+			<tRule>𐌃 ↔ d ; </tRule>
+			<tRule>𐌄 ↔ e ; </tRule>
+			<tRule>𐌅 ↔ v ; </tRule>
+			<tRule>𐌆 ↔ z ; </tRule>
+			<tRule>𐌇 ↔ h ; </tRule>
+			<tRule>𐌈 ↔ þ ; </tRule>
+			<tRule>𐌉 ↔ i ; </tRule>
+			<tRule>𐌊 ↔ k ; </tRule>
+			<tRule>𐌋 ↔ l ; </tRule>
+			<tRule>𐌌 ↔ m ; </tRule>
+			<tRule>𐌍 ↔ n ; </tRule>
+			<tRule>𐌎 ↔ š ; </tRule>
+			<tRule>𐌏 ↔ o ; </tRule>
+			<tRule>𐌐 ↔ p ; </tRule>
+			<tRule>𐌑 ↔ ś ; </tRule>
+			<tRule>𐌒 ↔ q ; </tRule>
+			<tRule>𐌓 ↔ r ; </tRule>
+			<tRule>𐌔 ↔ s ; </tRule>
+			<tRule>𐌕 ↔ t ; </tRule>
+			<tRule>𐌖 ↔ u ; </tRule>
+			<tRule>𐌗 ↔ x ; </tRule>
+			<tRule>𐌘 ↔ ph ; </tRule>
+			<tRule>𐌙 ↔ ch ; </tRule>
+			<tRule>𐌚 ↔ f ; </tRule>
+			<tRule>𐌛 ↔ ř ; </tRule>
+			<tRule>𐌜 ↔ ç ; </tRule>
+			<tRule>𐌝 ↔ í ; </tRule>
+			<tRule>𐌞 ↔ ú ; </tRule>
+			<tRule>𐌠 ↔ I ; </tRule>
+			<tRule>𐌡 ↔ V ; </tRule>
+			<tRule>𐌢 ↔ X ; </tRule>
+			<tRule>𐌣 ↔ L ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

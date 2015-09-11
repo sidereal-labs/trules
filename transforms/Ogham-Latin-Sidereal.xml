@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
+<supplementalData>
+	<transforms>
+		<transform source="Ogham" target="Latin" direction="both">
+			<tRule>ᚁ ↔ b ; </tRule>
+			<tRule>ᚂ ↔ l ; </tRule>
+			<tRule>ᚃ ↔ f ; </tRule>
+			<tRule>ᚄ ↔ s ; </tRule>
+			<tRule>ᚅ ↔ n ; </tRule>
+			<tRule>ᚆ ↔ h ; </tRule>
+			<tRule>ᚇ ↔ d ; </tRule>
+			<tRule>ᚈ ↔ t ; </tRule>
+			<tRule>ᚉ ↔ c ; </tRule>
+			<tRule>ᚊ ↔ q ; </tRule>
+			<tRule>ᚋ ↔ m ; </tRule>
+			<tRule>ᚌ ↔ g ; </tRule>
+			<tRule>ᚍ ↔ ng ; </tRule>
+			<tRule>ᚎ ↔ z ; </tRule>
+			<tRule>ᚏ ↔ r ; </tRule>
+			<tRule>ᚕ ↔ ea ; </tRule>
+			<tRule>ᚖ ↔ oi ; </tRule>
+			<tRule>ᚗ ↔ ui ; </tRule>
+			<tRule>ᚘ ↔ ia ; </tRule>
+			<tRule>ᚙ ↔ ae ; </tRule>
+			<tRule>ᚐ ↔ a ; </tRule>
+			<tRule>ᚑ ↔ o ; </tRule>
+			<tRule>ᚒ ↔ u ; </tRule>
+			<tRule>ᚓ ↔ e ; </tRule>
+			<tRule>ᚔ ↔ i ; </tRule>
+			<tRule>ᚚ ↔ p ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

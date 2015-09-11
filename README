@@ -1,0 +1,16 @@
+trules [-h] [-r] [-t <TESTFILE>] [-c <SOURCE>-<TARGET>-<VARIANT>]
+
+Transliterate some letters.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -r, --rebuild-transforms
+                        Reparse xml files into transforms.json in
+                        ./transforms/ and ./transforms/cldr/ folders before
+                        running tests. Default=FALSE
+  -t <TESTFILE>, --test-file <TESTFILE>
+                        Test rules transforms.json on list of sample words.
+                        Default=testdata.txt
+  -c <SOURCE>-<TARGET>-<VARIANT>, --create-xml <SOURCE>-<TARGET>-<VARIANT>
+                        Create an empty xml template in the transforms folder
+                        for a new ruleset

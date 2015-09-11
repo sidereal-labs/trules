@@ -1,0 +1,44 @@
+Greek	διαφορετικούς
+
+Hebrew	באַאײַנפֿלוסן
+
+Arabic	واماندگی
+
+Devanagari	ख़ारिज करना
+
+Amharic	ኣኹ
+
+Cyrillic	поколење
+
+Thai	สำนักงานเทศบาลนคร
+
+Han	引っつれる
+Han	內勿
+Han	直接融資
+
+Georgian	ასომთავრული
+
+Ogham	ᚉᚐᚈᚈᚒᚃᚃᚔᚏᚏ
+
+Japanese	引っつれる
+
+CanadianAboriginal	ᑐᓐᖓᓱᒋᑦ ᓄᓇᕗᒥ ᒪᓕᒐᓕᐅᕐᕕᖕᒧᑦ
+CanadianAboriginal	ᑲᑎᒪᔾᔪᑎᒃᓴᑦ
+
+Cherokee	ᎠᎦᏙᎲᏒᎠᏍᏆᎾᎪᏗᏍᎩ
+
+Syriac	ܢܘܢܐ
+
+Coptic	ⲙⲉⲛⲧⲟⲩⲱⲓ
+
+Vai	\uA602\uA51E\uA544\uA526\uA556
+
+Limbu	ᤆᤫᤠ᤹ᤸ
+
+OldItalic	𐌇𐌀𐌓𐌉𐌊𐌀𐌔𐌕𐌉𐌕𐌄𐌉𐌅𐌀///𐌉𐌐
+
+Tifinagh	ⵜⵉⴼⵉⵏⴰⵖ
+
+Avestan	
+
+LinearB	𐁁𐀓𐀠𐀴𐀍
