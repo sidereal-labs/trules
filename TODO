@@ -37,7 +37,7 @@ U	Han
 	Yi <https://en.wikipedia.org/wiki/Yi_script#Syllabary>
 DF	Old_Italic
 	Gothic
-	Deseret
+TP	Deseret
 N	Inherited
 	Tagalog
 	Hanunoo
@@ -94,9 +94,9 @@ DF	Avestan
 	Brahmi
 	Mandaic
 	Chakma
-	Meroitic_Cursive
-	Meroitic_Hieroglyphs
-	Miao
+HARD Meroitic_Cursive
+HARD Meroitic_Hieroglyphs
+HARD Miao
 	Sharada
-	Sora_Sompeng
-	Takri
+HARD Sora_Sompeng
+HARD Takri
