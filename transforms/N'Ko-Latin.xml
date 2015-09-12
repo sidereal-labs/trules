@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source="N'Ko" target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ߓ ↔ ny ; </tRule>
+			<tRule> ߙ ↔ rr ; </tRule>
+			<tRule> ߣ ↔ gb ; </tRule>
+			<tRule> \u07EA ↔ \u07D9 ; </tRule>
+			<tRule> \u07EB ↔ \u0304 ; </tRule>
+			<tRule> \u07EC ↔ \u0303 ; </tRule>
+			<tRule> \u07ED ↔ \u0307 ; </tRule>
+			<tRule> \u07EE ↔ \u0302 ; </tRule>
+			<tRule> \u07EF ↔  ; </tRule>
+			<tRule> \u07F0 ↔  ; </tRule>
+			<tRule> \u07F1 ↔  ; </tRule>
+			<tRule> \u07F2 ↔ \u0323 ; </tRule>
+			<tRule> \u07F3 ↔ \u0308 ; </tRule>
+			<tRule> \u07FF ↔ \u02BC ; </tRule>
+			<tRule> \u07F5 ↔ \u02BB ; </tRule>
+			<tRule> \u07F6 ↔  ; </tRule>
+			<tRule> \u07F7 ↔  ; </tRule>
+			<tRule> \u07F8 ↔ , ; </tRule>
+			<tRule> \u07F9 ↔ ! ; </tRule>
+			<tRule> \u07FA ↔ \u005F ; </tRule>
+			<tRule> ߐ ↔ ɔ ; </tRule>
+			<tRule> ߏ ↔ o ; </tRule>
+			<tRule> ߎ ↔ u ; </tRule>
+			<tRule> ߍ ↔ ɛ ; </tRule>
+			<tRule> ߌ ↔ i ; </tRule>
+			<tRule> ߋ ↔ e ; </tRule>
+			<tRule> ߊ ↔ a ; </tRule>
+			<tRule> ߡ ↔ r ; </tRule>
+			<tRule> ߟ ↔ d ; </tRule>
+			<tRule> ߞ ↔ ch ; </tRule>
+			<tRule> ߝ ↔ j ; </tRule>
+			<tRule> ߜ ↔ t ; </tRule>
+			<tRule> ߛ ↔ p ; </tRule>
+			<tRule> ߚ ↔ b ; </tRule>
+			<tRule> ߒ ↔ m ; </tRule>
+			<tRule> ߦ ↔ l ; </tRule>
+			<tRule> ߥ ↔ k ; </tRule>
+			<tRule> ߤ ↔ f ; </tRule>
+			<tRule> ߢ ↔ s ; </tRule>
+			<tRule> ߘ ↔ n' ; </tRule>
+			<tRule> ߗ ↔ y ; </tRule>
+			<tRule> ߖ ↔ w ; </tRule>
+			<tRule> ߕ ↔ h ; </tRule>
+			<tRule> ߔ ↔ n ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
