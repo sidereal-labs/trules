@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Phags_Pa' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> \uA85D ↔ a ; </tRule>
+			<tRule> \uA85E ↔ i ; </tRule>
+			<tRule> \uA85F ↔ u ; </tRule>
+			<tRule> \uA860 ↔ e ; </tRule>
+			<tRule> \uA861 ↔ o ; </tRule>
+			<tRule> ꡂ ↔ g ; </tRule>
+			<tRule> ꡁ ↔ kh ; </tRule>
+			<tRule> ꡀ ↔ k ; </tRule>
+			<tRule> ꡃ ↔ ng ; </tRule>
+			<tRule> ꡊ ↔ d ; </tRule>
+			<tRule> ꡉ ↔ th ; </tRule>
+			<tRule> ꡈ ↔ t ; </tRule>
+			<tRule> ꡋ ↔ n ; </tRule>
+			<tRule> ꡆ ↔ j ; </tRule>
+			<tRule> ꡅ ↔ ch ; </tRule>
+			<tRule> ꡄ ↔ c ; </tRule>
+			<tRule> ꡇ ↔ ny ; </tRule>
+			<tRule> ꡎ ↔ b ; </tRule>
+			<tRule> ꡍ ↔ ph ; </tRule>
+			<tRule> ꡌ ↔ p ; </tRule>
+			<tRule> ꡏ ↔ m ; </tRule>
+			<tRule> ꡤ ↔ f ; </tRule>
+			<tRule> ꡰ ↔ f¹ ; </tRule>
+			<tRule> ꡤ ↔ f ; </tRule>
+			<tRule> ꡓ ↔ w ; </tRule>
+			<tRule> ꡒ ↔ dz ; </tRule>
+			<tRule> ꡑ ↔ tsh ; </tRule>
+			<tRule> ꡐ ↔ ts ; </tRule>
+			<tRule> ꡛ ↔ s ; </tRule>
+			<tRule> ꡕ ↔ z ; </tRule>
+			<tRule> ꡆ ↔ j ; </tRule>
+			<tRule> ꡅ ↔ ch ; </tRule>
+			<tRule> ꡄ ↔ c ; </tRule>
+			<tRule> ꡮ ↔ sh¹ ; </tRule>
+			<tRule> ꡚ ↔ sh ; </tRule>
+			<tRule> ꡜ ↔ h ; </tRule>
+			<tRule> ꡣ ↔ x ; </tRule>
+			<tRule> ꡯ ↔ h¹ ; </tRule>
+			<tRule> ꡖ ↔ · ; </tRule>
+			<tRule> ꡗ ↔ y ; </tRule>
+			<tRule> ꡝ ↔ ʼ ; </tRule>
+			<tRule> ꡭ ↔ y¹ ; </tRule>
+			<tRule> ꡙ ↔ l ; </tRule>
+			<tRule> ꡔ ↔ ɲ ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
