@@ -65,5 +65,8 @@ Phags_Pa	ꡏꡡꡃ ꡣꡡꡙ ꡐꡜꡞ
 Gothic    𐌰𐌼𐌴𐌽𐍁𐌹𐌸𐌰
 Gothic    𐌾𐌰𐌷𐍁𐌴𐌼𐌿𐌽𐌸𐌰𐌽
 
+Phoenician    𐤀𐤍𐤊 𐤕𐤁𐤍𐤕 𐤊𐤄𐤍 𐤏𐤔𐤕𐤓𐤕 𐤌𐤋𐤊 𐤑𐤃𐤍𐤌 𐤁𐤍
+Phoenician    𐤀𐤋 𐤉𐤊𐤍 𐤋𐤊 𐤆𐤓𐤏 𐤁𐤇𐤉𐤌 𐤕𐤇𐤕 𐤔𐤌𐤔 𐤅𐤌𐤔𐤊𐤁 𐤀𐤕 𐤓𐤐𐤀𐤌
+
 Buginese    ᨕᨒᨚ ᨆᨒᨗᨕᨘ ᨅᨛᨈᨘᨕᨊ
 Buginese    ᨅᨔ ᨈᨚ ᨅᨙᨀ 
