@@ -45,7 +45,7 @@ HARD	Buhid
 	Tagbanwa
 DF	Limbu
 	Tai_Le
-	Linear_B
+DF 	Linear_B
 	Ugaritic
 	Shavian
 	Osmanya
@@ -62,7 +62,7 @@ Hard	Kharoshthi     No IPA
 Hard	Balinese
 Hard	Cuneiform      Super Hard
 TP	Phoenician
-	Phags_Pa
+DF	Phags_Pa
 DF	Nko
 	Sundanese
 	Lepcha
@@ -73,7 +73,7 @@ DF	Kayah_Li
 	Rejang
 	Lycian
 	Carian
-	Lydian
+DP	Lydian
 	Cham
 	Tai_Tham
 	Tai_Viet
