@@ -4,32 +4,32 @@
 	<transforms>
 		<transform source='Gothic' target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
-			<tRule> 𐌰 ↔	a ; </tRule>
-			<tRule> 𐌱 ↔	b ; </tRule>
-			<tRule> 𐌲 ↔	ɡ ; </tRule>
-			<tRule> 𐌳 ↔	d ; </tRule>
-			<tRule> 𐌴 ↔	eː ; </tRule>
-			<tRule> 𐌵 ↔	kʷ ; </tRule>
-			<tRule> 𐌶 ↔	z ; </tRule>
-			<tRule> 𐌷 ↔ h ; </tRule>	
-			<tRule> 𐌸 ↔	θ ; </tRule>
-			<tRule> 𐌹 ↔	i ; </tRule>
-			<tRule> 𐌺 ↔	k ; </tRule>
-			<tRule> 𐌻 ↔ l ; </tRule>	
-			<tRule> 𐌼 ↔ m ; </tRule>	
-			<tRule> 𐌽 ↔ n ; </tRule>	
-			<tRule> 𐌾 ↔ 	j ; </tRule>
+			<tRule> 𐌰 ↔ a ; </tRule>
+			<tRule> 𐌱 ↔ b ; </tRule>
+			<tRule> 𐌲 ↔ ɡ ; </tRule>
+			<tRule> 𐌳 ↔ d ; </tRule>
+			<tRule> 𐌴 ↔ eː ; </tRule>
+			<tRule> 𐌵 ↔ kʷ ; </tRule>
+			<tRule> 𐌶 ↔ z ; </tRule>
+			<tRule> 𐌷 ↔ h ; </tRule>
+			<tRule> 𐌸 ↔ θ ; </tRule>
+			<tRule> 𐌹 ↔ i ; </tRule>
+			<tRule> 𐌺 ↔ k ; </tRule>
+			<tRule> 𐌻 ↔ l ; </tRule>
+			<tRule> 𐌼 ↔ m ; </tRule>
+			<tRule> 𐌽 ↔ n ; </tRule>
+			<tRule> 𐌾 ↔ j ; </tRule>
 			<tRule> 𐌿 ↔ ʊ ; </tRule>
 			<tRule> 𐍀 ↔ p ; </tRule>
-			<tRule> 𐍁 ↔	? ; </tRule>
+			<tRule> 𐍁 ↔ ? ; </tRule>
 			<tRule> 𐍂 ↔ r ; </tRule>
-			<tRule> 𐍃 ↔	s ; </tRule>
-			<tRule> 𐍄 ↔	t ; </tRule>
-			<tRule> 𐍅 ↔	w ; </tRule>
-			<tRule> 𐍆 ↔	f ; </tRule>
-			<tRule> 𐍇 ↔ x ; </tRule>	
-			<tRule> 𐍈 ↔	hʷ ; </tRule>
-			<tRule> 𐍉 ↔ oː ; </tRule>	
+			<tRule> 𐍃 ↔ s ; </tRule>
+			<tRule> 𐍄 ↔ t ; </tRule>
+			<tRule> 𐍅 ↔ w ; </tRule>
+			<tRule> 𐍆 ↔ f ; </tRule>
+			<tRule> 𐍇 ↔ x ; </tRule>
+			<tRule> 𐍈 ↔ hʷ ; </tRule>
+			<tRule> 𐍉 ↔ oː ; </tRule>
 			<tRule> 𐍊 ↔ ? ; </tRule>
 		</transform>
 	</transforms>
