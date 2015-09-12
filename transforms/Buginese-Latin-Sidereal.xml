@@ -27,13 +27,13 @@
 			<tRule> ᨔ ↔ sa ; </tRule>
 			<tRule> ᨕ ↔ a ; </tRule>
 			<tRule> ᨖ ↔ ha ; </tRule>
-			<tRule> ◌ᨗ ↔ ?1 ; </tRule>
-			<tRule> ◌ᨘ ↔ ?2 ; </tRule>
+			<tRule> ◌ᨗ ↔ i ; </tRule>
+			<tRule> ◌ᨘ ↔ u ; </tRule>
 			<tRule> ᨙ◌ ↔ e ; </tRule>
 			<tRule> ◌ᨚ ↔ o ; </tRule>
 			<tRule> ◌ᨛ ↔ ə ; </tRule>
-			<tRule> ᨞ ↔ ?3 ; </tRule>
-			<tRule> ᨟ ↔ ?4 ; </tRule>
+			<tRule> ᨞ ↔ ?1 ; </tRule>
+			<tRule> ᨟ ↔ ?2 ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
