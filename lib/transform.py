@@ -61,7 +61,7 @@ for file in files:
 					postctxtleft = u""
 					postctxtright = u""
 					prerevisit = 0;
-					
+
 					if "|" in post:
 						postrevisit = -1 * len(post.split("|")[1])
 						post = "".join(post.split("|")).replace("@","")
@@ -71,7 +71,7 @@ for file in files:
 					if "}" in pre:
 						prectxtright = pre.split("}")[1].strip()
 						pre = pre.split("}")[0].strip()
-						
+
 					if "|" in pre:
 						prerevisit = -1 * len(pre.split("|")[1])
 						pre = "".join(pre.split("|")).replace("@","")
@@ -81,7 +81,7 @@ for file in files:
 					if "}" in post:
 						postctxtright = post.split("}")[1].strip()
 						post = post.split("}")[0].strip()
-						
+
 					phases[-1].append([pre.encode("utf-8").replace("$space", " "), post.encode("utf-8").replace("$space", " "), prectxtleft.encode("utf-8").replace("$space", " "), prectxtright.encode("utf-8").replace("$space", " "), postrevisit, postctxtleft.encode("utf-8").replace("$space", " "), postctxtright.encode("utf-8").replace("$space", " "), prerevisit, dxn])
 				elif rule is not None and len(rule) > 0:
 					if type(phases[-1]) is "list" and len(phases[-1]) == 0:
@@ -94,9 +94,9 @@ for file in files:
 
 print "\nParsed", len(files), "files"
 print "Writing results to json/transforms.json"
-	
-with open("./json/transforms.json","w") as fh: 
+
+with open("./json/transforms.json","w") as fh:
 	json.dump(transforms, fh)
-	
+
 print "Done\n"
-	
+

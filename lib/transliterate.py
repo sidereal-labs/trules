@@ -44,7 +44,7 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 					p += 1
 					if type(phase) is list:
 						i = 0
-						while i < len(word): 
+						while i < len(word):
 							# print i, word[i]
 							r = 0
 							for rule in phase:
@@ -82,7 +82,7 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 										i += len(word) - len(orig) + rule[7]
 										# print orig, word, i
 										changed = True
-										break									
+										break
 
 							i += 1
 							#print rule[2] + rule[0] + rule[3], " -> ", rule[1], " = ", word
