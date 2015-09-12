@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Ugaritic' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐎀 ↔ ʔa ; </tRule>
+			<tRule> 𐎁 ↔ b ; </tRule>
+			<tRule> 𐎂 ↔ g ; </tRule>
+			<tRule> 𐎃 ↔ x; </tRule>
+			<tRule> 𐎄 ↔ d ; </tRule>
+			<tRule> 𐎅 ↔ h ; </tRule>
+			<tRule> 𐎆 ↔ w ; </tRule>
+			<tRule> 𐎇 ↔ z ; </tRule>
+			<tRule> 𐎈 ↔ ħ ; </tRule>
+			<tRule> 𐎉 ↔ t̴ ; </tRule>
+			<tRule> 𐎊 ↔ j ; </tRule>
+			<tRule> 𐎋 ↔ k ; </tRule>
+			<tRule> 𐎌 ↔ ʃ ; </tRule>
+			<tRule> 𐎍 ↔ l ; </tRule>
+			<tRule> 𐎎 ↔ m ; </tRule>
+			<tRule> 𐎏 ↔ ð ; </tRule>
+			<tRule> 𐎐 ↔ n ; </tRule>
+			<tRule> 𐎑 ↔ θ̣ ; </tRule>
+			<tRule> 𐎒 ↔ s ; </tRule>
+			<tRule> 𐎓 ↔ ʕ ; </tRule>
+			<tRule> 𐎔 ↔ p ; </tRule>
+			<tRule> 𐎕 ↔ s̴ ; </tRule>
+			<tRule> 𐎖 ↔ q ; </tRule>
+			<tRule> 𐎗 ↔ r ; </tRule>
+			<tRule> 𐎘 ↔ θ ; </tRule>
+			<tRule> 𐎙 ↔ ɣ ; </tRule>
+			<tRule> 𐎚 ↔ t ; </tRule>
+			<tRule> 𐎛 ↔ ʔi ; </tRule>
+			<tRule> 𐎜 ↔ ʔu ;</tRule	>
+			<tRule> 𐎝 ↔ s2 ; </tRule>
+			<tRule> 𐎟 ↔ . ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

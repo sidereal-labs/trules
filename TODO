@@ -46,7 +46,7 @@ HARD	Buhid
 DF	Limbu
 	Tai_Le
 DF 	Linear_B
-	Ugaritic
+TP	Ugaritic
 	Shavian
 	Osmanya
 	Cypriot
@@ -71,7 +71,7 @@ DF	Vai
 	Saurashtra
 DF	Kayah_Li
 	Rejang
-	Lycian
+Hard	Lycian      Hard without font support
 	Carian
 TP	Lydian
 	Cham
