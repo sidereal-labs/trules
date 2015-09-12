@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Lydian' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐤠	↔ a ; </tRule>
+			<tRule> 𐤡	↔ b ; </tRule>
+			<tRule> 𐤢	↔ g ; </tRule>
+			<tRule> 𐤣	↔ ?1 ; </tRule>
+			<tRule> 𐤤	↔ ?2 ; </tRule>
+			<tRule> 𐤥	↔ v ; </tRule>
+			<tRule> 𐤦 ↔ i ; </tRule>	
+			<tRule> 𐤧	↔ y ; </tRule>
+			<tRule> 𐤨	↔ k ; </tRule>
+			<tRule> 𐤩	↔ l ; </tRule>
+			<tRule> 𐤪	↔ l ; </tRule>
+			<tRule> 𐤫	↔ n ; </tRule>
+			<tRule> 𐤬	↔ o ; </tRule>
+			<tRule> 𐤭	↔ ?3 ; </tRule>
+			<tRule> 𐤮	↔ ?4 ; </tRule> 
+			<tRule> 𐤯 ↔ t ; </tRule>
+			<tRule> 𐤰	↔ u ; </tRule>
+			<tRule> 𐤱	↔ f ; </tRule>
+			<tRule> 𐤲	↔ q ; </tRule>
+			<tRule> 𐤳	↔ ?5 ; </tRule>
+			<tRule> 𐤴	↔ ?6 ; </tRule>
+			<tRule> 𐤵	↔ ã ; </tRule>
+			<tRule> 𐤶	↔ v ; </tRule>
+			<tRule> 𐤷 ↔ ?7 ; </tRule>
+			<tRule> 𐤸	↔ ?8 ; </tRule>
+			<tRule> 𐤹 ↔ c ; </tRule>
+			<tRule> 𐤿 ↔ ?9 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
