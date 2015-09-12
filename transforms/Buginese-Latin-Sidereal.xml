@@ -27,8 +27,8 @@
 			<tRule> ᨔ ↔ sa ; </tRule>
 			<tRule> ᨕ ↔ a ; </tRule>
 			<tRule> ᨖ ↔ ha ; </tRule>
-			<tRule> ◌ ↔ ?1 ; </tRule>ᨗ
-			<tRule> ◌ ↔ ?2 ; </tRule>ᨘ
+			<tRule> ◌ᨗ ↔ ?1 ; </tRule>
+			<tRule> ◌ᨘ ↔ ?2 ; </tRule>
 			<tRule> ᨙ◌ ↔ e ; </tRule>
 			<tRule> ◌ᨚ ↔ o ; </tRule>
 			<tRule> ◌ᨛ ↔ ə ; </tRule>
