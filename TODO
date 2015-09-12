@@ -39,9 +39,9 @@ DF	Old_Italic
 TP	Gothic
 TP	Deseret
 N	Inherited
-	Tagalog
-	Hanunoo
-	Buhid
+HARD	Tagalog
+HARD	Hanunoo
+HARD	Buhid
 	Tagbanwa
 DF	Limbu
 	Tai_Le
@@ -53,14 +53,14 @@ DF	Limbu
 	Braille
 	Buginese
 DF	Coptic
-	New_Tai_Lue
+HardNoIPA	New_Tai_Lue
 	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
 DF	Tifinagh
-	Syloti_Nagri
-	Old_Persian
-	Kharoshthi
-	Balinese
-	Cuneiform
+Hard	Syloti_Nagri  may need to translate to Bengali
+HardNoIPA	Old_Persian
+HardNoIPA	Kharoshthi
+Hard	Balinese
+SuperHard	Cuneiform
 	Phoenician
 	Phags_Pa
 DF	Nko
@@ -78,7 +78,7 @@ DF	Kayah_Li
 	Tai_Tham
 	Tai_Viet
 DF	Avestan
-	Egyptian_Hieroglyphs
+SuperHard	Egyptian_Hieroglyphs
 	Samaritan
 	Lisu
 	Bamum
@@ -89,9 +89,9 @@ DF	Avestan
 	Inscriptional_Parthian
 	Inscriptional_Pahlavi
 	Old_Turkic <https://en.wikipedia.org/wiki/Old_Turkic_alphabet>
-	Kaithi
-	Batak
-	Brahmi
+HARD	Kaithi
+HARD	Batak
+HARD	Brahmi
 	Mandaic
 	Chakma
 HARD Meroitic_Cursive

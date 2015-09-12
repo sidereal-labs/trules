@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Buginese' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ᨀ ↔ ka ; </tRule>
+			<tRule> ᨁ ↔ ga ; </tRule>
+			<tRule> ᨂ ↔ nga ; </tRule>
+			<tRule> ᨃ ↔ ngka ; </tRule>
+			<tRule> ᨄ ↔ pa ; </tRule>
+			<tRule> ᨅ ↔ ba ; </tRule>
+			<tRule> ᨆ ↔ ma ; </tRule>
+			<tRule> ᨇ ↔ mpa ; </tRule>
+			<tRule> ᨈ ↔ ta ; </tRule>
+			<tRule> ᨉ ↔ da ; </tRule>
+			<tRule> ᨊ ↔ na ; </tRule>
+			<tRule> ᨋ ↔ mra ; </tRule>
+			<tRule> ᨌ ↔ ca ; </tRule>
+			<tRule> ᨍ ↔ ja ; </tRule>
+			<tRule> ᨎ ↔ nya ; </tRule>
+			<tRule> ᨏ ↔ nca ; </tRule>
+            <tRule> ᨐ ↔ ya ; </tRule>
+            <tRule> ᨑ ↔ ra ; </tRule>
+            <tRule> ᨒ ↔ la ; </tRule>
+            <tRule> ᨓ ↔ wa ; </tRule>
+            <tRule> ᨔ ↔ sa ; </tRule>
+            <tRule> ᨕ ↔ a ; </tRule>
+            <tRule> ᨖ ↔ ha ; </tRule>
+            <tRule> ◌ ↔ ?1 ; </tRule>ᨗ
+            <tRule> ◌ ↔ ?2 ; </tRule>ᨘ
+            <tRule> ᨙ◌ ↔ e ; </tRule>
+            <tRule> ◌ᨚ ↔ o ; </tRule>
+            <tRule> ◌ᨛ ↔ ə ; </tRule>
+            <tRule> ᨞ ↔ ?3 ; </tRule>
+            <tRule> ᨟ ↔ ?4 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
