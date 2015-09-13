@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Syloti_Nagri' target='Latin' direction="both" variant="Bengali">
+			<tRule>:: NFC ; </tRule>
+			<tRule>:: Syloti_Nagri-Bengali ; </tRule>
+			<tRule>:: Bengali-Latin ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

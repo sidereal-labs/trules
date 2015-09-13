@@ -56,7 +56,7 @@ DF	Coptic
 Hard	New_Tai_Lue    No IPA
 	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
 DF	Tifinagh
-Hard	Syloti_Nagri   may need to translate to Bengali
+DF	Syloti_Nagri  
 Hard	Old_Persian    No IPA
 Hard	Kharoshthi     No IPA
 Hard	Balinese
