@@ -101,21 +101,24 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									v = newtrans.split("-")[2]
 								newreturns = transliterate(word, source=newtrans.split("-")[0], target=newtrans.split("-")[1], variant=v, this=transform["variant"], doprint=False)
 								if len(newreturns) > 0 and len(newreturns[0]["returns"]) > 0:
-									word = newreturns[0]["returns"][0]["transliteration"]
+									for newreturn in newreturns[0]["returns"]:
+										if newreturn["debug"]:
+											word = newreturn["transliteration"]
+											break
 							elif newtrans.startswith("NF"):
 								word = unicodedata.normalize(newtrans,word)
 							else:
 								# print newtrans
 								pass
-				if word != origword:
-					wordreturns.append({"transliteration": word, "variant": key})
-				else:
-					wordreturns.append({"transliteration": u"DEBUG: no change", "variant": key})
+				wordreturns.append({"transliteration": word, "variant": key, "debug": word != origword})
 		allreturns.append({"word": origword, "returns": wordreturns})
 	if doprint:
 		for x in allreturns:
 			print x["word"]
 			for y in x["returns"]:
 				print "\t" + y["variant"]
-				print "\t\t" + y["transliteration"]
+				if y["debug"]:
+					print "\t\t" + y["transliteration"]
+				else:
+					print "\t\t" + "DEBUG: NO CHANGE"
 	return allreturns

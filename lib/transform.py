@@ -26,6 +26,8 @@ for file in files:
 		for trule in transform.findall("tRule"):
 			if trule.text:
 				rule = trule.text.split(";")[0].strip()
+				rule = re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}", rule)
+				# print rule
 				while rule.find("""\u""") > -1:
 					idx = rule.find("""\u""")
 					rule = rule[:idx] + unichr(int(rule[idx+2:idx+6],16)) + rule[idx+6:]
