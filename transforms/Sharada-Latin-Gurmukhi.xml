@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Sharada' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>:: Sharada-Gurmukhi ; </tRule>
+			<tRule>:: Gurmukhi-Latin ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
