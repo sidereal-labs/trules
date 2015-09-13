@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Lisu' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>ꓐ ↔ b ; </tRule>
+			<tRule>ꓑ ↔ p ; </tRule>
+			<tRule>ꓒ ↔ pʰ ; </tRule>
+			<tRule>ꓓ ↔ d ; </tRule>
+			<tRule>ꓔ ↔ t ; </tRule>
+			<tRule>ꓕ ↔ tʰ ; </tRule>
+			<tRule>ꓖ ↔ g ; </tRule>
+			<tRule>ꓗ ↔ k ; </tRule>
+			<tRule>ꓘ ↔ kʰ ; </tRule>
+			<tRule>ꓙ ↔ dʑ ; </tRule>
+			<tRule>ꓚ ↔ tɕ ; </tRule>
+			<tRule>ꓛ ↔ tɕʰ ; </tRule>
+			<tRule>ꓜ ↔ dz ; </tRule>
+			<tRule>ꓝ ↔ ts ; </tRule>
+			<tRule>ꓞ ↔ tsʰ ; </tRule>
+			<tRule>ꓟ ↔ m ; </tRule>
+			<tRule>ꓠ ↔ n ; </tRule>
+			<tRule>ꓡ ↔ l ; </tRule>
+			<tRule>ꓢ ↔ s ; </tRule>
+			<tRule>ꓣ ↔ ʒ ; </tRule>
+			<tRule>ꓤ ↔ z ; </tRule>
+			<tRule>ꓥ ↔ ŋ ; </tRule>
+			<tRule>ꓦ ↔ h ; </tRule>
+			<tRule>ꓧ ↔ x ; </tRule>
+			<tRule>ꓨ ↔ ɦ ; </tRule>
+			<tRule>ꓩ ↔ f ; </tRule>
+			<tRule>ꓪ ↔ w ; </tRule>
+			<tRule>ꓫ ↔ ʑ ; </tRule>
+			<tRule>ꓬ ↔ ɣa; </tRule>
+			<tRule>ꓭ ↔ ɑ ; </tRule>
+			<tRule>ꓮ ↔ ɛ ; </tRule>
+			<tRule>ꓯ ↔ e ; </tRule>
+			<tRule>ꓰ ↔ ø ; </tRule>
+			<tRule>ꓱ ↔ i ; </tRule>
+			<tRule>ꓲ ↔ o ; </tRule>
+			<tRule>ꓳ ↔ u ; </tRule>
+			<tRule>ꓴ ↔ y ; </tRule>
+			<tRule>ꓶ ↔ ɯ ; </tRule>
+			<tRule>ꓷ ↔ ǝ ; </tRule>
+			<tRule>ꓸ ↔ . ; </tRule>
+			<tRule>ꓹ ↔ , ; </tRule>
+			<tRule>ꓺ ↔ .. ; </tRule>
+			<tRule>ꓻ ↔ ., ; </tRule>
+			<tRule>ꓼ ↔ ; ; </tRule>
+			<tRule>ꓽ ↔ : ; </tRule>
+			<tRule>꓾ ↔ -. ; </tRule>
+			<tRule>꓿ ↔ = ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
