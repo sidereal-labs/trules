@@ -15,7 +15,6 @@ if "newxml" in args:
 		newxml = args["newxml"].split("-") + ["", "", ""]
 		fh.write("""<?xml version="1.0" encoding="UTF-8" ?>
 <supplementalData>
-  <version number="$Revision: 11914 $"/>
 	<transforms>
 		<transform source='""" + newxml[0] + """' target='""" + newxml[1] + """' direction="both" variant='""" + newxml[1] + """'>
 			<tRule>:: NFC ; </tRule>
@@ -32,12 +31,11 @@ elif "test" in args:
 	with open(args["test"]) as fh:
 		i = 0
 		for line in fh:
+			line = line.strip()
 			i += 1
-			if not line.strip().startswith("#"):
-				cols = line.strip().split("\t")
-				if len(cols) == 0:
-					pass
-				elif len(cols) == 2:
+			if not line.startswith("#") and len(line) > 0:
+				cols = line.split("\t")
+				if len(cols) == 2:
 					transliterate(cols[1], source=cols[0])
 				elif len(cols) == 1:
 					transliterate(cols[0])

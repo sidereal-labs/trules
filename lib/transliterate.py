@@ -57,7 +57,7 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										# print "Rule",r,"broken"
+										print "Rule",r,"broken"
 										pass
 									r += 1
 									if orig != word:
@@ -73,7 +73,7 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										# print "Rule",r,"broken"
+										print "Rule",r,"broken"
 										pass
 									r += 1
 									if orig != word:
@@ -109,6 +109,8 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 								pass
 				if word != origword:
 					wordreturns.append({"transliteration": word, "variant": key})
+				else:
+					wordreturns.append({"transliteration": u"DEBUG: no change", "variant": key})
 		allreturns.append({"word": origword, "returns": wordreturns})
 	if doprint:
 		for x in allreturns:
