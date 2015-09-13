@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Sharada' target='Gurmukhi' direction="both" variant='Gurmukhi'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> \U11180 ↔ ਁ ;  # SIGN CHANDRABINDU</tRule>
+			<tRule> [\U11181-\U11182]- ↔ ਁ ; </tRule>
+			<tRule> \U11183 ↔ ਅ ;  # LETTER A</tRule>			
+			<tRule> \U11184 ↔ ਆ ;  # LETTER AA</tRule>
+			<tRule> \U11185 ↔ ਇ ;  # LETTER I</tRule>
+			<tRule> \U11186 ↔ ਈ ;  # LETTER II</tRule>
+			<tRule> \U11187 ↔ ਉ ;  # LETTER U</tRule>
+			<tRule> \U11188 ↔ ਊ ;  # LETTER UU</tRule>
+			
+			<tRule> \U1118A ↔ ੜ ;  # LETTER RRA</tRule>
+			<tRule> \U1118B ↔ \u0A0C ;  # FALLBACK : VOCALLIC LA</tRule>
+			
+			<tRule> \U1118D ↔ ਏ ;  # LETTER EE</tRule>
+			<tRule> \U1118E ↔ ਐ ;  # LETTER AI</tRule>
+			<tRule> \U1118F ↔ ਓ ;  # LETTER OO</tRule>
+			<tRule> \U11190 ↔ ਔ ;  # LETTER AU</tRule>
+			<tRule> \U11191 ↔ ਕ ;  # LETTER KA</tRule>
+			<tRule> \U11192 ↔ ਖ ;  # LETTER KHA</tRule>
+			<tRule> \U11193 ↔ ਗ ;  # LETTER GA</tRule>
+			<tRule> \U11194 ↔ ਘ ;  # LETTER GHA</tRule>
+			<tRule> \U11195 ↔ ਙ ;  # LETTER NGA</tRule>
+			<tRule> \U11196 ↔ ਚ ;  # LETTER CA</tRule>
+			<tRule> \U11197 ↔ ਛ ;  # LETTER CHA</tRule>
+			<tRule> \U11198 ↔ ਜ ;  # LETTER JA</tRule>
+			<tRule> \U11199 ↔ ਝ ;  # LETTER JHA</tRule>
+			<tRule> \U1119A ↔ ਞ ;  # LETTER NYA</tRule>
+			<tRule> \U1119B ↔ ਟ ;  # LETTER TTA</tRule>
+			<tRule> \U1119C ↔ ਠ ;  # LETTER TTHA</tRule>
+			<tRule> \U1119D ↔ ਡ ;  # LETTER DDA</tRule>
+			<tRule> \U1119E ↔ ਢ ;  # LETTER DDHA</tRule>
+			<tRule> \U1119F ↔ ਣ ;  # LETTER NNA</tRule>
+			<tRule> \U111A0 ↔ ਤ ;  # LETTER TA</tRule>
+			<tRule> \U111A1 ↔ ਥ ;  # LETTER THA</tRule>
+			<tRule> \U111A2 ↔ ਦ ;  # LETTER DA</tRule>
+			<tRule> \U111A3 ↔ ਧ ;  # LETTER DHA</tRule>
+			<tRule> \U111A4 ↔ ਨ ;  # LETTER NA</tRule>
+			<tRule> \U111A5 ↔ ਪ ;  # LETTER PA</tRule>
+			<tRule> \U111A6 ↔ ਫ ;  # LETTER PHA</tRule>
+			<tRule> \U111A7 ↔ ਬ ;  # LETTER BA</tRule>
+			<tRule> \U111A8 ↔ ਭ ;  # LETTER BHA</tRule>
+			<tRule> \U111A9 ↔ ਮ ;  # LETTER MA</tRule>
+			<tRule> \U111AA ↔ ਯ ;  # LETTER YA</tRule>
+			<tRule> \U111AB ↔ ਰ ;  # LETTER RA</tRule>
+			<tRule> \U111AC ↔ ਲ ;  # LETTER LA</tRule>
+			<tRule> \U111AD ↔ ਲ਼ ; # FALLBACK</tRule>
+			<tRule> \U111AE ↔ ਵ ;  # LETTER VA</tRule>
+			
+			<tRule> \U111AF ↔ ਸ਼ ; # ???</tRule>
+			<tRule> \U111B0 ↔ ਸ\0a3c ; # ??? </tRule>
+			
+			<tRule> \U111B1 ↔ ਸ ;  # LETTER SA</tRule>
+			<tRule> \U111B2 ↔ ਹ ;  # LETTER HA</tRule>
+			<tRule> \U111CA ↔ ਼ ;  # SIGN NUKTA</tRule>
+			<tRule> \U111B3 ↔ ਾ ;  # VOWEL SIGN AA</tRule>
+			<tRule> \U111B4 ↔ ਿ ;  # VOWEL SIGN I</tRule>
+			<tRule> \U111B5 ↔ ੀ ;  # VOWEL SIGN II</tRule>
+			<tRule> \U111B6 ↔ ੁ ;  # VOWEL SIGN U</tRule>
+			<tRule> \U111B7 ↔ ੂ ;  # VOWEL SIGN UU</tRule>
+			
+			<tRule> \U111BC ↔ ੇ ;  # VOWEL SIGN EE</tRule>
+			<tRule> \U111BD ↔ ੈ ;  # VOWEL SIGN AI</tRule>
+			<tRule> \U111BE ↔ ੋ ;  # VOWEL SIGN OO</tRule>
+			<tRule> \U111BF ↔ ੌ ;  # VOWEL SIGN AU</tRule>
+			<tRule> \U111C0 ↔ ੍ ;  # SIGN VIRAMA</tRule>
+						
+			<tRule> \U111D0 ↔ ੦ ;  # DIGIT ZERO</tRule>
+			<tRule> \U111D1 ↔ ੧ ;  # DIGIT ONE</tRule>
+			<tRule> \U111D2 ↔ ੨ ;  # DIGIT TWO</tRule>
+			<tRule> \U111D3 ↔ ੩ ;  # DIGIT THREE</tRule>
+			<tRule> \U111D4 ↔ ੪ ;  # DIGIT FOUR</tRule>
+			<tRule> \U111D5 ↔ ੫ ;  # DIGIT FIVE</tRule>
+			<tRule> \U111D6 ↔ ੬ ;  # DIGIT SIX</tRule>
+			<tRule> \U111D7 ↔ ੭ ;  # DIGIT SEVEN</tRule>
+			<tRule> \U111D8 ↔ ੮ ;  # DIGIT EIGHT</tRule>
+			<tRule> \U111D9 ↔ ੯ ;  # DIGIT NINE</tRule>
+			
+			<tRule> [\U111CD\U111DA-\U111DF] ↔ ;  </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

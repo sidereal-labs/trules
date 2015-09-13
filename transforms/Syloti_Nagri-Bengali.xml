@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Syloti_Nagri' target='Bengali' direction="both" >
+			<tRule>:: NFC ; </tRule>
+			<tRule> \uA800 ↔ অ ; </tRule>
+			<tRule> \uA801 ↔ ই ; </tRule>
+			<tRule> \uA802 ↔  ; </tRule>
+			<tRule> \uA803 ↔ উ ; </tRule>
+			<tRule> \uA804 ↔ এ ; </tRule>
+			<tRule> \uA805 ↔ ও ; </tRule>
+			<tRule> \uA806 ↔ ক্ ; </tRule>
+			<tRule> \uA807 ↔ ক ; </tRule>
+			<tRule> \uA808 ↔ খ ; </tRule>
+			<tRule> \uA809 ↔ গ ; </tRule>
+			<tRule> \uA80A ↔ ঘ ; </tRule>
+			<tRule> \uA80B ↔ কৎ ; </tRule>
+			<tRule> \uA80C ↔ চ ; </tRule>
+			<tRule> \uA80D ↔ ছ ; </tRule>
+			<tRule> \uA80E ↔ জ ; </tRule>
+			<tRule> \uA80F ↔ ঝ ; </tRule>
+			<tRule> \uA810 ↔ ট ; </tRule>
+			<tRule> \uA811 ↔ ঠ ; </tRule>
+			<tRule> \uA812 ↔ ড ; </tRule>
+			<tRule> \uA813 ↔ ঢ ; </tRule>
+			<tRule> \uA814 ↔ ত ; </tRule>
+			<tRule> \uA815 ↔ থ ; </tRule>
+			<tRule> \uA816 ↔ দ ; </tRule>
+			<tRule> \uA817 ↔ ধ ; </tRule>
+			<tRule> \uA818 ↔ ন ; </tRule>
+			<tRule> \uA819 ↔ প ; </tRule>
+			<tRule> \uA81A ↔ ; </tRule>
+			<tRule> \uA81B ↔ ব ; </tRule>
+			<tRule> \uA81C ↔ ভ ; </tRule>
+			<tRule> \uA81D ↔ ম ; </tRule>
+			<tRule> \uA81E ↔ ব় ; </tRule>
+			<tRule> \uA81F ↔ ল ; </tRule>
+			<tRule> \uA820 ↔ ভ় ; </tRule>
+			<tRule> \uA821 ↔ স ; </tRule>
+			<tRule> \uA822 ↔ হ ; </tRule>
+			<tRule> \uA823 ↔ া ; </tRule>
+			<tRule> \uA824 ↔ ি ; </tRule>
+			<tRule> \uA825 ↔ ু ; </tRule>
+			<tRule> \uA826 ↔ ে ; </tRule>
+			<tRule> \uA827 ↔ ো ; </tRule>
+			<tRule> \uA828 ↔ ; </tRule>
+			<tRule> \uA829 ↔ ; </tRule>
+			<tRule> \uA82A ↔ ; </tRule>
+			<tRule> \uA82B ↔ ; </tRule>
+			<tRule> \uA81D ↔ ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
