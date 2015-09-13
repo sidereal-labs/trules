@@ -47,7 +47,7 @@ DF	Limbu
 	Tai_Le
 DF 	Linear_B
 TP	Ugaritic
-	Shavian
+TP	Shavian
 	Osmanya
 	Cypriot
 	Braille
@@ -78,7 +78,7 @@ TP	Lydian
 	Tai_Tham
 	Tai_Viet
 DF	Avestan
-Hard	Egyptian_Hieroglyphs    Super Hard
+Hard	Egyptian_Hieroglyphs    Ultra Hard
 	Samaritan
 	Lisu
 	Bamum

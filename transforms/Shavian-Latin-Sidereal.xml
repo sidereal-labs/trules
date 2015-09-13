@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Shavian' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>𐑐 ↔ p ; </tRule>
+			<tRule>𐑑 ↔ t ; </tRule>
+			<tRule>𐑒 ↔ k ; </tRule>
+			<tRule>𐑓 ↔ f ; </tRule>
+			<tRule>𐑔 ↔ θ ; </tRule>
+			<tRule>𐑕 ↔ s ; </tRule>
+			<tRule>𐑖 ↔ ʃ ; </tRule>
+			<tRule>𐑗 ↔ tʃ ; </tRule>
+			<tRule>𐑘 ↔ j ; </tRule>
+			<tRule>𐑙 ↔ ŋ ; </tRule>
+			<tRule>𐑚 ↔ ɛ ; </tRule>
+			<tRule>𐑛 ↔ d ; </tRule>
+			<tRule>𐑜 ↔ g ; </tRule>
+			<tRule>𐑝 ↔ v ; </tRule>
+			<tRule>𐑞 ↔ ð ; </tRule>
+			<tRule>𐑟 ↔ z ; </tRule>
+			<tRule>𐑠 ↔ ʒ ; </tRule>
+			<tRule>𐑡 ↔ dʒ ; </tRule>
+			<tRule>𐑢 ↔ w ; </tRule>
+			<tRule>𐑣 ↔ h ; </tRule>
+			<tRule>𐑤 ↔ l ; </tRule>
+			<tRule>𐑥 ↔ m ; </tRule>
+			<tRule>𐑦 ↔ I ; </tRule>
+			<tRule>𐑧 ↔ ɛ ; </tRule>
+			<tRule>𐑨 ↔ æ ; </tRule>
+			<tRule>𐑩 ↔ ə ; </tRule>
+			<tRule>𐑪 ↔ ɒ ; </tRule>
+			<tRule>𐑫 ↔ ʊ ; </tRule>
+			<tRule>𐑬 ↔ aʊ ; </tRule>
+			<tRule>𐑭 ↔ ɑː ; </tRule>
+			<tRule>𐑮 ↔ r ; </tRule>
+			<tRule>𐑯 ↔ n ; </tRule>
+			<tRule>𐑰 ↔ iː ; </tRule>
+			<tRule>𐑱 ↔ eɪ ; </tRule>
+			<tRule>𐑲 ↔ aɪ ; </tRule>
+			<tRule>𐑳 ↔ ʌ ; </tRule>
+			<tRule>𐑴 ↔ oʊ ; </tRule>
+			<tRule>𐑵 ↔ uː ; </tRule>
+			<tRule>𐑶 ↔ ɔɪ ; </tRule>
+			<tRule>𐑷 ↔ ɔː ; </tRule>
+			<tRule>𐑸 ↔ ɑr ; </tRule>
+			<tRule>𐑹 ↔ ɔr~ɔər ; </tRule>
+			<tRule>𐑺 ↔ ɛər ; </tRule>
+			<tRule>𐑻 ↔ ɜr ; </tRule>
+			<tRule>𐑼 ↔ ər ; </tRule>
+			<tRule>𐑽 ↔ ɪər ; </tRule>
+			<tRule>𐑾 ↔ i.ə ; </tRule>
+			<tRule>𐑿 ↔ juː ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
