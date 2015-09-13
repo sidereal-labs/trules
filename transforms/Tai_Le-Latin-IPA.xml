@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Tai_Le' target='Latin' direction="both" variant='IPA'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ᥐ ↔ k ; </tRule>	
+			<tRule> ᥑ ↔ x ; </tRule>	
+			<tRule> ᥒ ↔ ng ; </tRule>	
+			<tRule> ᥓ ↔ ts ; </tRule>	
+			<tRule> ᥔ ↔ s ; </tRule>	
+			<tRule> ᥕ ↔ y ; </tRule>	
+			<tRule> ᥖ ↔ t ; </tRule>	
+			<tRule> ᥗ ↔ th ; </tRule>	
+			<tRule> ᥘ ↔ l ; </tRule>	
+			<tRule> ᥙ ↔ p ; </tRule>	
+			<tRule> ᥚ ↔ ph ; </tRule>	
+			<tRule> ᥛ ↔ m ; </tRule>	
+			<tRule> ᥜ ↔ f ; </tRule>	
+			<tRule> ᥝ ↔ v ; </tRule>	
+			<tRule> ᥞ ↔ h ; </tRule>	
+			<tRule> ᥟ ↔ q ; </tRule>
+ 			<tRule> ᥠ ↔ kh ; </tRule>	
+			<tRule> ᥡ ↔ tsh ; </tRule>	
+			<tRule> ᥢ ↔ n ; </tRule>	
+			<tRule> ᥣ ↔ a ; </tRule>	
+			<tRule> ᥤ ↔ i ; </tRule>	
+			<tRule> ᥥ ↔ ee ; </tRule>	
+			<tRule> ᥦ ↔ eh ; </tRule>	
+			<tRule> ᥧ ↔ u ; </tRule>	
+			<tRule> ᥨ ↔ 	oo ; </tRule>
+			<tRule> ᥩ ↔ o ; </tRule>	
+			<tRule> ᥪ ↔ ue ; </tRule>	
+			<tRule> ᥫ ↔ e ; </tRule>	
+			<tRule> ᥬ ↔ aue ; </tRule>	
+			<tRule> ᥭ ↔ ai ; </tRule>		
+			<tRule> ᥰ ↔ ?1 ; </tRule>	
+			<tRule> ᥱ ↔ ?2 ; </tRule>	
+			<tRule> ᥲ ↔ ?3 ; </tRule>	
+			<tRule> ᥳ ↔ ?4 ; </tRule>
+			<tRule> ᥴ ↔ ?5 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

@@ -82,6 +82,9 @@ Lepcha	ᰛᰩᰵ་ᰀᰪᰱ
 
 Miao	𖼊𖽺𖾐 𖼣𖽔 𖼊𖽱𖾐 𖼽𖽔𖾑 𖼄𖽻 𖼎𖽐𖽑𖽦𖾑 𖼀𖽱𖾐 𖼐𖽻𖾏
 
-Lisu	M BI.. D,_
-Lisu	SI KW L SU
-Lisu	ꞱⱯ: BⱯ_ M NT -.
+Lisu	ꓟ ꓐꓲꓺ ꓓꓹ
+Lisu	ꓢꓲ ꓗꓪ ꓡ ꓢꓴ
+Lisu	Ʇꓮꓽ ꓐꓮ ꓟ ꓠꓕ ꓾
+
+Tai_Le	ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ 
+
