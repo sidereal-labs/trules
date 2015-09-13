@@ -48,7 +48,7 @@ DF	Limbu
 DF 	Linear_B
 TP	Ugaritic
 TP	Shavian
-	Osmanya
+TP	Osmanya
 	Cypriot
 	Braille
 TP	Buginese
@@ -65,7 +65,7 @@ TP	Phoenician
 DF	Phags_Pa
 DF	Nko
 	Sundanese
-	Lepcha
+TP	Lepcha             Some modifiers left out
 	Ol_Chiki
 DF	Vai
 	Saurashtra

@@ -74,3 +74,8 @@ Buginese	ᨅᨔ ᨈᨚ ᨅᨙᨀ
 Shavian	𐑒𐑪𐑯𐑝𐑦𐑒𐑑
 
 Syloti_Nagri	ꠜꠤꠋ ꠢꠦꠍ꠆ꠕ ꠃꠀꠂꠘꠥ
+
+Osmanya	𐒛𐒆𐒖𐒒𐒖𐒔𐒖
+
+Lepcha	ᰕᰫ་ᰊᰪᰰ་ᰆᰧᰶ ᰛᰩᰵ་ᰀᰪᰱ ᰛᰪᰮ་ᰀᰪᰱ
+Lepcha	ᰛᰩᰵ་ᰀᰪᰱ

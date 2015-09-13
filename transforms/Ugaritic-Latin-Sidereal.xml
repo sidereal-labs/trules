@@ -2,7 +2,7 @@
 <supplementalData>
   <version number="$Revision: 11914 $"/>
 	<transforms>
-		<transform source='Ugaritic' target='Latin' direction="both" variant='Latin'>
+		<transform source='Ugaritic' target='Latin' direction="both" variant='IPA'>
 			<tRule>:: NFC ; </tRule>
 			<tRule> 𐎀 ↔ ʔa ; </tRule>
 			<tRule> 𐎁 ↔ b ; </tRule>
