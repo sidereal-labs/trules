@@ -2,47 +2,47 @@
 <supplementalData>
   <version number="$Revision: 11914 $"/>
 	<transforms>
-		<transform source='Osmanya' target='Latin' direction="both" variant='Latin'>
+		<transform source='Osmanya' target='Latin' direction="both" variant='IPA'>
 			<tRule>:: NFC ; </tRule>
-			<tRule> 𐒀 ↔ ʔ ; </tRule>
-			<tRule> 𐒁 ↔ b ; </tRule>
-			<tRule> 𐒂 ↔ t ; </tRule>
-			<tRule> 𐒃 ↔ tʃ ; </tRule>
-			<tRule> 𐒄 ↔ ħ ; </tRule>
-			<tRule> 𐒅 ↔ χ ; </tRule>
+			<tRule> 𐒀 ↔	ʔ ; </tRule>
+			<tRule> 𐒁 ↔ b ; </tRule>	
+			<tRule> 𐒂 ↔ t ; </tRule> 	
+			<tRule> 𐒃 ↔ tʃ ; </tRule>	
+			<tRule> 𐒄 ↔	ħ ; </tRule>
+			<tRule> 𐒅 ↔	χ ; </tRule>
 			<tRule> 𐒆 ↔ d ; </tRule>
-			<tRule> 𐒇 ↔ r ; </tRule>
-			<tRule> 𐒈 ↔ s ; </tRule>
-			<tRule> 𐒉 ↔ ʃ ; </tRule>
-			<tRule> 𐒊 ↔ ɖ ; </tRule>
-			<tRule> 𐒋 ↔ ʕ ; </tRule>
-			<tRule> 𐒌 ↔ g ; </tRule>
-			<tRule> 𐒍 ↔ f ; </tRule>
-			<tRule> 𐒎 ↔ ɢ ; </tRule>
+			<tRule> 𐒇 ↔	r ; </tRule>
+			<tRule> 𐒈 ↔	s ; </tRule>
+			<tRule> 𐒉 ↔	ʃ ; </tRule>
+			<tRule> 𐒊 ↔ ɖ ; </tRule>	
+			<tRule> 𐒋 ↔ ʕ ; </tRule>	
+			<tRule> 𐒌 ↔	g ; </tRule>
+			<tRule> 𐒍 ↔ f ; </tRule>	
+			<tRule> 𐒎 ↔ ɢ ; </tRule>	
 			<tRule> 𐒏 ↔ k ; </tRule>
-			<tRule> 𐒐 ↔ l ; </tRule>
-			<tRule> 𐒑 ↔ m ; </tRule>
-			<tRule> 𐒒 ↔ n ; </tRule>
+			<tRule> 𐒐 ↔	l ; </tRule>
+			<tRule> 𐒑 ↔	m ; </tRule>
+			<tRule> 𐒒 ↔	n ; </tRule>
 			<tRule> 𐒓 ↔ w, ʉː, uː ; </tRule>
-			<tRule> 𐒔 ↔ h ; </tRule>
-			<tRule> 𐒕 ↔ j, iː, ɪː ; </tRule>
+			<tRule> 𐒔 ↔	h ; </tRule>
+			<tRule> 𐒕 ↔	j, iː, ɪː ; </tRule>
 			<tRule> 𐒖 ↔ æ, ɑ ; </tRule>
-			<tRule> 𐒗 ↔ e, ɛ ; </tRule>
-			<tRule> 𐒘 ↔ i, ɪ ; </tRule>
-			<tRule> 𐒙 ↔ ɞ, ɔ ; </tRule>
-			<tRule> 𐒚 ↔ ʉ, u ; </tRule>
-			<tRule> 𐒛 ↔ æː, ɑː ; </tRule>
+			<tRule> 𐒗 ↔ 	e, ɛ ; </tRule>
+			<tRule> 𐒘 ↔ 	i, ɪ ; </tRule>
+			<tRule> 𐒙 ↔ ɞ, ɔ ; </tRule>	
+			<tRule> 𐒚 ↔ 	ʉ, u ; </tRule>
+			<tRule> 𐒛 ↔ 	æː, ɑː ; </tRule>
 			<tRule> 𐒜 ↔ eː, ɛː ; </tRule>
 			<tRule> 𐒝 ↔ ɞː, ɔː ; </tRule>
 			<tRule> 𐒠 ↔ 0 ; </tRule>
-			<tRule> 𐒡 ↔ 1 ; </tRule>
-			<tRule> 𐒢 ↔ 2 ; </tRule>
-			<tRule> 𐒣 ↔ 3 ; </tRule>
-			<tRule> 𐒤 ↔ 4 ; </tRule>
-			<tRule> 𐒥 ↔ 5 ; </tRule>
-			<tRule> 𐒦 ↔ 6 ; </tRule>
-			<tRule> 𐒧 ↔ 7 ; </tRule>
-			<tRule> 𐒨 ↔ 8 ; </tRule>
+			<tRule> 𐒡 ↔ 1 ; </tRule> 	
+			<tRule> 𐒢 ↔ 2 ; </tRule> 	
+			<tRule> 𐒣 ↔ 3 ; </tRule>	
+			<tRule> 𐒤 ↔ 4 ; </tRule>	
+			<tRule> 𐒥 ↔ 5 ; </tRule>	
+			<tRule> 𐒦 ↔ 6 ; </tRule> 	
+			<tRule> 𐒧 ↔ 7 ; </tRule>	
+			<tRule> 𐒨 ↔ 8 ; </tRule>	
 			<tRule> 𐒩 ↔ 9 ; </tRule>
 		</transform>
 	</transforms>
