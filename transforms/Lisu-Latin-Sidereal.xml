@@ -2,7 +2,7 @@
 <supplementalData>
   <version number="$Revision: 11914 $"/>
 	<transforms>
-		<transform source='Lisu' target='Latin' direction="both" variant='Latin'>
+		<transform source='Lisu' target='Latin' direction="both">
 			<tRule>:: NFC ; </tRule>
 			<tRule>ꓐ ↔ b ; </tRule>
 			<tRule>ꓑ ↔ p ; </tRule>

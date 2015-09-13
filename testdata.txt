@@ -1,24 +1,24 @@
-Greek	διαφορετικούς
-
-Hebrew	באַאײַנפֿלוסן
-
-Arabic	واماندگی
-
-Devanagari	ख़ारिज करना
-
-Amharic	ኣኹ
-
-Cyrillic	поколење
-
-Thai	สำนักงานเทศบาลนคร
-
+# Greek	διαφορετικούς
+#
+# Hebrew	באַאײַנפֿלוסן
+#
+# Arabic	واماندگی
+#
+# Devanagari	ख़ारिज करना
+#
+# Amharic	ኣኹ
+#
+# Cyrillic	поколење
+#
+# Thai	สำนักงานเทศบาลนคร
+#
 # Han	引っつれる
 # Han	內勿
 # Han	直接融資
-
-Georgian	ასომთავრული
-
-Ogham	ᚉᚐᚈᚈᚒᚃᚃᚔᚏᚏ
+#
+# Georgian	ასომთავრული
+#
+# Ogham	ᚉᚐᚈᚈᚒᚃᚃᚔᚏᚏ
 
 # Japanese	引っつれる
 
