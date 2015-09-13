@@ -32,6 +32,9 @@ elif "test" in args:
 		i = 0
 		for line in fh:
 			line = line.strip()
+			while line.find("""\u""") > -1:
+				idx = line.find("""\u""")
+				line = line[:idx] + unichr(int(line[idx+2:idx+6],16)) + line[idx+6:]
 			i += 1
 			if not line.startswith("#") and len(line) > 0:
 				cols = line.split("\t")
