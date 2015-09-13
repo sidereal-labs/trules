@@ -21,7 +21,7 @@
 			<tRule> 𐌾 ↔ j ; </tRule>
 			<tRule> 𐌿 ↔ ʊ ; </tRule>
 			<tRule> 𐍀 ↔ p ; </tRule>
-			<tRule> 𐍁 ↔ ? ; </tRule>
+			<tRule> 𐍁 ↔ ?1 ; </tRule>
 			<tRule> 𐍂 ↔ r ; </tRule>
 			<tRule> 𐍃 ↔ s ; </tRule>
 			<tRule> 𐍄 ↔ t ; </tRule>
@@ -30,7 +30,7 @@
 			<tRule> 𐍇 ↔ x ; </tRule>
 			<tRule> 𐍈 ↔ hʷ ; </tRule>
 			<tRule> 𐍉 ↔ oː ; </tRule>
-			<tRule> 𐍊 ↔ ? ; </tRule>
+			<tRule> 𐍊 ↔ ?2 ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
