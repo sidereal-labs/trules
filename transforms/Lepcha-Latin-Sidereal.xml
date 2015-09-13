@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+  <version number="$Revision: 11914 $"/>
+	<transforms>
+		<transform source='Lepcha' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ᰀ ↔ ka ; </tRule>	
+			<tRule> ᰁ ↔ kla ; </tRule>	
+			<tRule> ᰂ ↔ kha ; </tRule>
+			<tRule> ᰃ ↔ ga ; </tRule>
+			<tRule> ᰄ ↔ gla ; </tRule>	
+			<tRule> ᰅ ↔ nga ; </tRule>	
+			<tRule> ᰆ ↔ ca ; </tRule>	
+			<tRule> ᰇ ↔ cha ; </tRule>
+			<tRule> ᰈ ↔ ja ; </tRule>	
+			<tRule> ᰉ ↔ nya ; </tRule>	
+			<tRule>ᰊ ↔ ta ; </tRule>
+			<tRule> ᰋ ↔ tha ; </tRule>	
+			<tRule> ᰌ ↔ da ; </tRule>
+			<tRule> ᰍ ↔ na ; </tRule>	
+			<tRule> ᰎ ↔ pa ; </tRule>	
+			<tRule> ᰏ ↔ pla ; </tRule>
+			<tRule> ᰐ ↔ tsa ; </tRule>
+			<tRule> ᰑ ↔ fa ; </tRule>	
+			<tRule> ᰒ ↔ fla ; </tRule>	
+			<tRule> ᰓ ↔ ba ; </tRule>	
+			<tRule> ᰔ ↔ bla ; </tRule> 	
+			<tRule> ᰕ ↔ ma ; </tRule>	
+			<tRule> ᰖ ↔ mla ; </tRule>	
+			<tRule> ᰗ ↔ tsa ; </tRule>	
+			<tRule> ᰘ ↔ tsha ; </tRule>	
+			<tRule> ᰙ ↔ za ; </tRule>	
+			<tRule> ᰚ ↔ ya ; </tRule> 	
+			<tRule> ᰛ ↔ ra ; </tRule>	
+			<tRule> ᰜ ↔ la ; </tRule>	
+			<tRule> ᰝ ↔ ha ; </tRule>	
+			<tRule> ᰞ ↔ hla ; </tRule>	
+			<tRule> ᰟ ↔ va ; </tRule>
+			<tRule> ᰠ ↔ sa ; </tRule>	
+			<tRule> ᰡ ↔ ša ; </tRule>	
+			<tRule> ᰢ ↔ ja ; </tRule>	
+			<tRule> ᰣ ↔ a ; </tRule>	ᰤ	ᰥ	ᰦ	ᰧ	ᰨ	ᰩ
+			<tRule> ᰻ ↔ ?1 ; </tRule>
+			<tRule> ᰼ ↔ ?2 ; </tRule>	
+			<tRule> ᰽ ↔ ?3 ; </tRule>	
+			<tRule> ᰾ ↔ ?4 ; </tRule>	
+			<tRule> ᰿ ↔ ?5 ; </tRule>
+			<tRule> ᱀ ↔ 0 ; </tRule>	
+			<tRule> ᱁ ↔ 1 ; </tRule>	
+			<tRule> ᱂ ↔ 2 ; </tRule>	
+			<tRule> ᱃ ↔ 3 ; </tRule>	
+			<tRule> ᱄ ↔ 4 ; </tRule>	
+			<tRule> ᱅ ↔ 5 ; </tRule>	
+			<tRule> ᱆ ↔ 6 ; </tRule>	
+			<tRule> ᱇ ↔ 7 ; </tRule>	
+			<tRule> ᱈ ↔ 8 ; </tRule>	
+			<tRule> ᱉ ↔ 9 ; </tRule>
+			<tRule> ᱍ ↔ ?6 ; </tRule>	
+			<tRule> ᱎ ↔ ?7 ; </tRule>	
+			<tRule> ᱏ ↔ ?8 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
