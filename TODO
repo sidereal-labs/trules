@@ -47,7 +47,7 @@ DF	Limbu
 TP	Tai_Le
 DF 	Linear_B
 TP	Ugaritic
-TP	Shavian
+TP	Shavian          Unreadable transliterations
 TP	Osmanya
 	Cypriot
 	Braille
@@ -57,7 +57,7 @@ DF	Coptic
 	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
 DF	Tifinagh
 DF	Syloti_Nagri  
-Hard	Old_Persian    No IPA
+TP	Old_Persian
 Hard	Kharoshthi     No IPA
 Hard	Balinese
 Hard	Cuneiform      Super Hard

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Old_Persian' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐎠 ↔ a ; </tRule>
+			<tRule> 𐎡 ↔ i ; </tRule>
+			<tRule> 𐎢 ↔  u ; </tRule>
+			<tRule> 𐎣 ↔ ka ; </tRule>
+			<tRule> 𐎤 ↔ ku ; </tRule>
+			<tRule> 𐎥 ↔ ga ; </tRule>
+			<tRule> 𐎦 ↔ gu ; </tRule>
+			<tRule> 𐎧 ↔ xa ; </tRule>
+			<tRule> 𐎨 ↔  ca ; </tRule>
+			<tRule> 𐎩 ↔  ja ; </tRule>
+			<tRule> 𐎪 ↔ ji ; </tRule>
+			<tRule> 𐎫 ↔ ta ; </tRule>
+			<tRule> 𐎬 ↔ tu ; </tRule>
+			<tRule> 𐎭 ↔ da ; </tRule>
+			<tRule> 𐎮 ↔ di ; </tRule>
+			<tRule> 𐎯 ↔ du ; </tRule>
+			<tRule> 𐎰 ↔ tha ; </tRule>
+			<tRule> 𐎱 ↔ pa ; </tRule>
+			<tRule> 𐎲 ↔ ba ; </tRule>
+			<tRule> 𐎳 ↔ fa ; </tRule>
+			<tRule> 𐎴 ↔ na ; </tRule>
+			<tRule> 𐎵 ↔ nu ; </tRule>
+            <tRule> 𐎶 ↔ ma ; </tRule>
+			<tRule> 𐎷 ↔  mi ; </tRule>
+			<tRule> 𐎸 ↔  mu ; </tRule>
+			<tRule> 𐎹 ↔ ya ; </tRule>
+			<tRule> 𐎺 ↔ va ; </tRule>
+			<tRule> 𐎻 ↔ vi ; </tRule>
+			<tRule> 𐎼 ↔ ra ; </tRule>
+			<tRule> 𐎽 ↔ ru ; </tRule>
+			<tRule> 𐎾 ↔ la ; </tRule>
+			<tRule> 𐎿 ↔ sa ; </tRule>
+			<tRule> 𐏀 ↔ za ; </tRule>
+			<tRule> 𐏁 ↔ sha ; </tRule>
+			<tRule> 𐏂 ↔ ssa ; </tRule>
+			<tRule> 𐏃 ↔ ha ; </tRule>
+			<tRule> 𐏈 ↔ auramazdaa ; </tRule>
+			<tRule> 𐏉 ↔ auramazdaa-2 ; </tRule>
+			<tRule> 𐏊 ↔ auramazdaaha ; </tRule>
+			<tRule> 𐏋 ↔ xshaayathiya ; </tRule>
+			<tRule> 𐏌 ↔ dahyaaush ; </tRule>
+			<tRule> 𐏍 ↔ dahyaaush-2 ; </tRule>
+			<tRule> 𐏎 ↔ baga ; </tRule>
+			<tRule> 𐏏 ↔ buumish ; </tRule>
+			<tRule> 𐏐 ↔ / ; </tRule>
+			<tRule> 𐏑 ↔ 1 ; </tRule>
+			<tRule> 𐏒 ↔ 2 ; </tRule>
+			<tRule> 𐏓 ↔ 10 ; </tRule>
+			<tRule> 𐏔 ↔ 20 ; </tRule>
+			<tRule> 𐏕 ↔ 100 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
