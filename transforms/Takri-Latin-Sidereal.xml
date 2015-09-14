@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Takri' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>𑚀 ↔ a ; </tRule>
+			<tRule>𑚁 ↔ aa ; </tRule>	
+			<tRule>𑚂 ↔ i ; </tRule>	
+			<tRule>𑚃 ↔ ii ; </tRule>	
+			<tRule>𑚄 ↔ u ; </tRule>	
+			<tRule>𑚅 ↔ uu ; </tRule>	
+			<tRule>𑚆 ↔ e ; </tRule>
+			<tRule>𑚇 ↔	 ai ; </tRule>
+			<tRule>𑚈 ↔ o ; </tRule>	
+			<tRule>𑚉 ↔ au ; </tRule>	
+			<tRule>𑚊 ↔ ka ; </tRule>	
+			<tRule>𑚋 ↔ kha ; </tRule>	
+			<tRule>𑚌 ↔ ga ; </tRule>	
+			<tRule>𑚍 ↔ gha ; </tRule>	
+			<tRule>𑚎 ↔ nga ; </tRule>
+			<tRule>𑚏 ↔ ca ; </tRule>
+			<tRule>𑚐 ↔ cha ; </tRule>	
+			<tRule>𑚑 ↔ ja ; </tRule>	
+			<tRule>𑚒 ↔ jha ; </tRule>	
+			<tRule>𑚓 ↔ nya ; </tRule>	
+			<tRule>𑚔 ↔ tta ; </tRule>	
+			<tRule>𑚕 ↔ ttha ; </tRule>	
+			<tRule>𑚖 ↔ dda ; </tRule>	
+			<tRule>𑚗 ↔ ddha ; 	</tRule>
+			<tRule>𑚘 ↔ nna ; </tRule>
+			<tRule>𑚙 ↔ ta ; </tRule>	
+			<tRule>𑚚 ↔ tha ; </tRule>	
+			<tRule>𑚛 ↔ da ; </tRule>	
+			<tRule>𑚜 ↔ dha ; </tRule>	
+			<tRule>𑚝 ↔ na ; </tRule>	
+			<tRule>𑚞 ↔ pa ; </tRule>	
+			<tRule>𑚟 ↔ pha ; </tRule>
+			<tRule>𑚠 ↔ ba ; </tRule>	
+			<tRule>𑚡 ↔ bha ; </tRule>	
+			<tRule>𑚢 ↔ ma ; </tRule>	
+			<tRule>𑚣 ↔ ya ; </tRule>	
+			<tRule>𑚤 ↔ ra ; </tRule>	
+			<tRule>𑚥 ↔ la ; </tRule>	
+			<tRule>𑚦 ↔ va ; </tRule>	
+			<tRule>𑚧 ↔ sha ; </tRule>	
+			<tRule>𑚨 ↔ sa ; </tRule>	
+			<tRule>𑚩 ↔ ha ; </tRule>	
+			<tRule>𑚪 ↔ rra ; </tRule>	
+			<tRule>𑚫 ↔ anusvara ; </tRule>	
+			<tRule>𑚬 ↔ visarga ; </tRule>	
+			<tRule>𑚭 ↔ aa ; </tRule>	
+			<tRule>𑚮 ↔ ii ; </tRule>	
+			<tRule>𑚯 ↔ u ; </tRule>
+			<tRule>𑚰 ↔ uu ; </tRule>	
+			<tRule>𑚱 ↔ e ; </tRule>	
+			<tRule>𑚲 ↔ ai ; </tRule>	
+			<tRule>𑚳 ↔ o ; </tRule>	
+			<tRule>𑚴 ↔ au ; </tRule>	
+			<tRule>𑚵 ↔ virama ; </tRule>	 
+			<tRule>𑚶 ↔ nukta ; </tRule>	
+			<tRule>𑚷 ↔ 0 ; </tRule>					
+			<tRule>𑛁 ↔ 1 ; </tRule>
+			<tRule>𑛂 ↔ 2 ; </tRule>	
+			<tRule>𑛃 ↔ 3 ; </tRule>	
+			<tRule>𑛄 ↔ 4 ; </tRule>	
+			<tRule>𑛅 ↔ 5 ; </tRule>	
+			<tRule>𑛆 ↔ 6 ; </tRule>	
+			<tRule>𑛇 ↔ 7 ; </tRule>	
+			<tRule>𑛈 ↔ 8 ; </tRule>	
+			<tRule>𑛉 ↔ 9 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
