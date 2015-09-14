@@ -33,6 +33,7 @@ Coptic	ⲙⲉⲛⲧⲟⲩⲱⲓ
 Coptic	ⲡⲣⲏⲧ
 
 Vai	\uA602\uA51E\uA544\uA526\uA556
+Vai	ꕀ
 
 Limbu	ᤆᤫᤠ᤹ᤸ
 
@@ -87,4 +88,35 @@ Lisu	ꓢꓲ ꓗꓪ ꓡ ꓢꓴ
 Lisu	Ʇꓮꓽ ꓐꓮ ꓟ ꓠꓕ ꓾
 
 Tai_Le	ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ 
+Tai_Le	ᥘᥛᥳ
 
+Tai_Tham	ᨶᩫ᩠ᨠ
+
+Mandaic	ࡌࡉࡀ
+
+Batak	ᯀᯀᯩᯂ᯲
+
+Tai_Viet	ꪙꪾ꫁
+
+Cham	ꨢ
+
+New_Tai_Lue	ᦓᧄᧉ
+
+Tagbanwa	ᝯᝡ
+
+Hanunoo	ᜧᜨᜳᜫ᜴
+
+Yi	ꀊꆨꌦꇁꃚꁱꂷ
+Yi	ꃅꄷꅉꀋꐚꌠ
+
+Tibetan	དབིན་ཇིའི་སྐད།
+Tibetan	ཅཻག་སྤྱི་མཐུན་རྒྱལ་ཁབ།
+
+Sinhala	කැනේඩියානු
+Sinhala	පෝලන්ත
+
+Lao	ອາແຊກບາຍຊານ
+Lao	ເບັງການ
+
+Khmer	ភាសាអាហ៊្សែរបែហ្សង់
+Khmer	អូសីតាន់
