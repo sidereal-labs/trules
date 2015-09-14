@@ -20,6 +20,8 @@ import unicodedata
 first = {}
 second = {}
 
+print "'hex'	'uni'	'name'	'nfd'	'nfc'	'nfkd'	'nfkc'"
+
 for i in xrange(16**4):
 	uni = unichr(i)
 	cat = unicodedata.category(uni)
@@ -36,7 +38,9 @@ for i in xrange(16**4):
 	nfkc = unicodedata.normalize("NFKC",uni)
 	nfkd = unicodedata.normalize("NFKD",uni)
 	width = unicodedata.east_asian_width(uni)
-	print [i, cat[0], cat, scr[0], width, unicodedata.combining(uni), unicodedata.mirrored(uni), unicodedata.bidirectional(uni), unicodedata.decomposition(uni), unicodedata.decimal(uni,None), unicodedata.numeric(uni,None), unicodedata.digit(uni,None), name, uni, nfd, nfc, nfkd, nfkc]
+	# print [i, cat[0], cat, scr[0], width, unicodedata.combining(uni), unicodedata.mirrored(uni), unicodedata.bidirectional(uni), unicodedata.decomposition(uni), unicodedata.decimal(uni,None), unicodedata.numeric(uni,None), unicodedata.digit(uni,None), name, uni, nfd, nfc, nfkd, nfkc]
+	print "\t".join([str(i), uni.encode('utf8'), name, nfd.encode('utf8'), nfc.encode('utf8'), nfkd.encode('utf8'), nfkc.encode('utf8')])
+	
 #
 # print "First"
 # for key,val in first.iteritems():

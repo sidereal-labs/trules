@@ -24,13 +24,19 @@ for file in files:
 			variant = transform.attrib["variant"]
 		# print source, target, direction
 		for trule in transform.findall("tRule"):
-			if trule.text:
+			if trule.text and len(trule.text.strip()) > 0:
 				rule = trule.text.split(";")[0].strip()
-				rule = re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}", rule)
-				# print rule
-				while rule.find("""\u""") > -1:
-					idx = rule.find("""\u""")
-					rule = rule[:idx] + unichr(int(rule[idx+2:idx+6],16)) + rule[idx+6:]
+				try:
+					while rule.find("""\u""") > -1:
+						idx = rule.find("""\u""")
+						rule = rule[:idx] + unicode(str(rule[idx:idx+6]),"unicode-escape") + rule[idx+6:]
+					while rule.find("""\U""") > -1:
+						idx = rule.find("""\U""")
+						rule = rule[:idx] + unicode(str(rule[idx:idx+10]),"unicode-escape") + rule[idx+10:]
+				except UnicodeError as e:
+					print e
+					print file
+					print trule.text
 				rule = rule.encode("utf-8")
 				if rule.find("=") > -1 and rule.startswith("$"):
 					for definition in definitions:
@@ -39,7 +45,7 @@ for file in files:
 				elif rule.find("→") > -1 or rule.find("↔") > -1 or rule.find("←") > -1:
 					for definition in definitions:
 						rule = rule.replace(definition[0], definition[1])
-					rule.replace("' '", "$space").replace("\ ", "$space")
+					rule = rule.replace("' '", "$space").replace("\ ", "$space")
 					dxn = 0
 					if rule.find("→") > -1:
 						dxn = 1
@@ -84,12 +90,12 @@ for file in files:
 						postctxtright = post.split("}")[1].strip()
 						post = post.split("}")[0].strip()
 
-					phases[-1].append([pre.encode("utf-8").replace("$space", " "), post.encode("utf-8").replace("$space", " "), prectxtleft.encode("utf-8").replace("$space", " "), prectxtright.encode("utf-8").replace("$space", " "), postrevisit, postctxtleft.encode("utf-8").replace("$space", " "), postctxtright.encode("utf-8").replace("$space", " "), prerevisit, dxn])
+					phases[-1].append([re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}",x.encode("utf-8").replace("$space", " ")) for x in [pre, post, prectxtleft, prectxtright, postctxtleft, postctxtright]] + [postrevisit, prerevisit, dxn])
 				elif rule is not None and len(rule) > 0:
 					if type(phases[-1]) is "list" and len(phases[-1]) == 0:
-						phases[-1] = rule
+						phases[-1] = re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}", rule)
 					else:
-						phases.append(rule)
+						phases.append(re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}", rule))
 					phases.append([])
 		#print phases
 		transforms[file[:-4]] = {"source": source, "target": target, "direction": direction, "phases": phases, "variant": variant}
