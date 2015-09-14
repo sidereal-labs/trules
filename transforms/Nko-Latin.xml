@@ -2,7 +2,7 @@
 <supplementalData>
   <version number="$Revision: 11914 $"/>
 	<transforms>
-		<transform source="N'Ko" target='Latin' direction="both" variant='Latin'>
+		<transform source="Nko" target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
 			<tRule> ߓ ↔ ny ; </tRule>
 			<tRule> ߙ ↔ rr ; </tRule>
