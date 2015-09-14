@@ -5,14 +5,14 @@
 			<tRule>:: NFC ; </tRule>
 			<tRule> 𐎠 ↔ a ; </tRule>
 			<tRule> 𐎡 ↔ i ; </tRule>
-			<tRule> 𐎢 ↔  u ; </tRule>
+			<tRule> 𐎢 ↔ u ; </tRule>
 			<tRule> 𐎣 ↔ ka ; </tRule>
 			<tRule> 𐎤 ↔ ku ; </tRule>
 			<tRule> 𐎥 ↔ ga ; </tRule>
 			<tRule> 𐎦 ↔ gu ; </tRule>
 			<tRule> 𐎧 ↔ xa ; </tRule>
-			<tRule> 𐎨 ↔  ca ; </tRule>
-			<tRule> 𐎩 ↔  ja ; </tRule>
+			<tRule> 𐎨 ↔ ca ; </tRule>
+			<tRule> 𐎩 ↔ ja ; </tRule>
 			<tRule> 𐎪 ↔ ji ; </tRule>
 			<tRule> 𐎫 ↔ ta ; </tRule>
 			<tRule> 𐎬 ↔ tu ; </tRule>
@@ -25,9 +25,9 @@
 			<tRule> 𐎳 ↔ fa ; </tRule>
 			<tRule> 𐎴 ↔ na ; </tRule>
 			<tRule> 𐎵 ↔ nu ; </tRule>
-            <tRule> 𐎶 ↔ ma ; </tRule>
-			<tRule> 𐎷 ↔  mi ; </tRule>
-			<tRule> 𐎸 ↔  mu ; </tRule>
+			<tRule> 𐎶 ↔ ma ; </tRule>
+			<tRule> 𐎷 ↔ mi ; </tRule>
+			<tRule> 𐎸 ↔ mu ; </tRule>
 			<tRule> 𐎹 ↔ ya ; </tRule>
 			<tRule> 𐎺 ↔ va ; </tRule>
 			<tRule> 𐎻 ↔ vi ; </tRule>
