@@ -16,6 +16,18 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 	if type(words) is not list:
 		words = [words]
 	for word in words:
+		try:
+			while word.find("""\u""") > -1:
+				idx = word.find("""\u""")
+				# word = word[:idx] + unicode(unichr(int(word[idx+2:idx+6], 16))) + word[idx+6:]
+				word = word[:idx] + unicode(str(word[idx:idx+6]),"unicode-escape") + word[idx+6:]
+			while word.find("""\U""") > -1:
+				idx = word.find("""\U""")
+				word = word[:idx] + unicode(str(word[idx:idx+10]),"unicode-escape") + word[idx+10:]
+		except UnicodeError as e:
+			print e
+			print word
+		
 		if type(word) is not unicode:
 			try:
 				word = word.decode("utf-8")
@@ -24,6 +36,7 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 			except:
 				word = word.decode("utf-16")
 		# print key, len(transform["phases"])
+
 		origword = word
 		wordreturns = []
 		for key, transform in transforms.iteritems():
@@ -57,23 +70,23 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										print "Rule",r,"broken"
+										print key, "Rule",r,"broken", rule
 										pass
 									r += 1
 									if orig != word:
 										# print i, word[i], rule[0] + " -> " + rule[1]
 										# print orig, rule[0], word
-										i += len(word) - len(orig) + rule[4]
+										i += len(word) - len(orig) + rule[6]
 										# print orig, word, i
 										changed = True
 										break
 								elif dxn == -1 and rule[8] <= 0:
 									try:
-										word = re.sub("(^.{" + str(i) + "}" + rule[5] + ")(" + rule[1] + ")(" + rule[6] + ".*)$", "\\1" + rule[0] + "\\3", word)
+										word = re.sub("(^.{" + str(i) + "}" + rule[4] + ")(" + rule[1] + ")(" + rule[5] + ".*)$", "\\1" + rule[0] + "\\3", word)
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										print "Rule",r,"broken"
+										print key, "Rule",r,"broken", rule
 										pass
 									r += 1
 									if orig != word:
