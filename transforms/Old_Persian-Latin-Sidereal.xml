@@ -47,7 +47,7 @@
 			<tRule> 𐏍 ↔ dahyaaush-2 ; </tRule>
 			<tRule> 𐏎 ↔ baga ; </tRule>
 			<tRule> 𐏏 ↔ buumish ; </tRule>
-			<tRule> 𐏐 ↔ · ;</tRule>
+			<tRule> 𐏐 ↔ $space ;</tRule>
 			<tRule> 𐏑 ↔ 1 ; </tRule>
 			<tRule> 𐏒 ↔ 2 ; </tRule>
 			<tRule> 𐏓 ↔ 10 ; </tRule>

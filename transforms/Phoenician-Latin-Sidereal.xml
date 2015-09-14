@@ -32,7 +32,7 @@
 			<tRule> 𐤙 ↔ 100 ; </tRule>
 			<tRule> 𐤚 ↔ 2 ; </tRule>
 			<tRule> 𐤛 ↔ 3 ; </tRule>
-			<tRule> 𐤟 ↔ · ; ; </tRule>
+			<tRule> 𐤟 ↔ $space ; ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
