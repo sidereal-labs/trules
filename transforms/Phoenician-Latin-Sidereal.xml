@@ -26,13 +26,13 @@
 			<tRule> 𐤓 ↔ r ; </tRule>
 			<tRule> 𐤔 ↔ s ; </tRule>
 			<tRule> 𐤕 ↔ t ; </tRule>
-			<tRule> 𐤖 ↔ ?1 ; </tRule>
-			<tRule> 𐤗 ↔ ?2 ; </tRule>
-			<tRule> 𐤘 ↔ ?3 ; </tRule>
-			<tRule> 𐤙 ↔ ?4 ; </tRule>
-			<tRule> 𐤚 ↔ ?5 ; </tRule>
-			<tRule> 𐤛 ↔ ?6 ; </tRule>
-			<tRule> 𐤟 ↔ ?7 ; </tRule>
+			<tRule> 𐤖 ↔ 1 ; </tRule>
+			<tRule> 𐤗 ↔ 10 ; </tRule>
+			<tRule> 𐤘 ↔ 20 ; </tRule>
+			<tRule> 𐤙 ↔ 100 ; </tRule>
+			<tRule> 𐤚 ↔ 2 ; </tRule>
+			<tRule> 𐤛 ↔ 3 ; </tRule>
+			<tRule> 𐤟 ↔ · ; ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

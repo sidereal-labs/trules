@@ -4,9 +4,9 @@
 	<transforms>
 		<transform source='Tai_Le' target='Latin' direction="both" variant='IPA'>
 			<tRule>:: NFC ; </tRule>
-			<tRule> ᥐ ↔ k ; </tRule>	
-			<tRule> ᥑ ↔ x ; </tRule>	
-			<tRule> ᥒ ↔ ng ; </tRule>	
+			<tRule> ᥐ ↔ ka ; </tRule>	
+			<tRule> ᥑ ↔ xa; </tRule>	
+			<tRule> ᥒ ↔ nga ; </tRule>	
 			<tRule> ᥓ ↔ ts ; </tRule>	
 			<tRule> ᥔ ↔ s ; </tRule>	
 			<tRule> ᥕ ↔ y ; </tRule>	

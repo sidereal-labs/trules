@@ -61,7 +61,7 @@ TP	Old_Persian
 Hard	Kharoshthi     No IPA
 Hard	Balinese
 Hard	Cuneiform      Super Hard
-TP	Phoenician
+TP	Phoenician         Requires clean up on some letter with multiple mappings
 DF	Phags_Pa
 DF	Nko
 	Sundanese
