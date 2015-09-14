@@ -16,11 +16,11 @@ U	Tamil
 U	Telugu
 U	Kannada
 U	Malayalam
-	Sinhala
+*	Sinhala
 U	Thai
-	Lao <https://en.wikipedia.org/wiki/Lao_alphabet>
-	Tibetan
-	Myanmar
+*	Lao <https://en.wikipedia.org/wiki/Lao_alphabet>
+*	Tibetan
+*	Myanmar
 U	Georgian
 U	Hangul
 U	Ethiopic
@@ -28,21 +28,21 @@ DF	Cherokee
 U+	Canadian_Aboriginal
 DF	Ogham
 	Runic
-	Khmer <https://en.wikipedia.org/wiki/Khmer_alphabet>
+*	Khmer <https://en.wikipedia.org/wiki/Khmer_alphabet>
 U	Mongolian
 U	Hiragana
 U	Katakana
 U	Bopomofo
 U	Han
-	Yi <https://en.wikipedia.org/wiki/Yi_script#Syllabary>
+*	Yi <https://en.wikipedia.org/wiki/Yi_script#Syllabary>
 DF	Old_Italic
 TP	Gothic
 TP	Deseret
 N	Inherited
 HARD	Tagalog
-HARD	Hanunoo
+*HARD	Hanunoo
 HARD	Buhid
-	Tagbanwa
+*	Tagbanwa
 DF	Limbu
 TP	Tai_Le
 DF 	Linear_B
@@ -53,7 +53,7 @@ TP	Osmanya
 	Braille
 TP	Buginese
 DF	Coptic
-Hard	New_Tai_Lue    No IPA
+*Hard	New_Tai_Lue    No IPA
 	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
 DF	Tifinagh
 DF	Syloti_Nagri  
@@ -66,7 +66,7 @@ DF	Phags_Pa
 DF	Nko
 	Sundanese
 TP	Lepcha             Some modifiers left out
-	Ol_Chiki
+*	Ol_Chiki
 DF	Vai
 	Saurashtra
 DF	Kayah_Li
@@ -74,9 +74,9 @@ DF	Kayah_Li
 Hard	Lycian      Hard without font support
 	Carian
 TP	Lydian
-	Cham
-	Tai_Tham
-	Tai_Viet
+*	Cham
+*	Tai_Tham
+*	Tai_Viet
 DF	Avestan
 Hard	Egyptian_Hieroglyphs    Ultra Hard
 	Samaritan
@@ -90,9 +90,9 @@ Hard	Bamum       No translation/transliteration table. Long.
 	Inscriptional_Pahlavi
 	Old_Turkic <https://en.wikipedia.org/wiki/Old_Turkic_alphabet>
 HARD	Kaithi
-HARD	Batak
+*HARD	Batak	
 HARD	Brahmi
-	Mandaic
+*	Mandaic
 	Chakma
 HARD   Meroitic_Cursive
 HARD   Meroitic_Hieroglyphs
