@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Rejang' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ꤰ ↔ ka ; </tRule>	
+			<tRule> ꤱ ↔ ga ; </tRule>	
+			<tRule> ꤲ ↔ nga ; </tRule>	
+			<tRule> ꤳ ↔ ta ; </tRule>
+			<tRule> ꤴ ↔ da ; </tRule>	
+			<tRule> ꤵ ↔ na ; </tRule>	
+			<tRule> ꤶ ↔ pa ; </tRule>	
+			<tRule> ꤷ ↔ ba ; </tRule>	
+			<tRule> ꤸ ↔ ma ; </tRule>	
+			<tRule> ꤹ ↔ ca ; </tRule>	
+			<tRule> ꤺ ↔ ja ; </tRule>	
+			<tRule> ꤻ ↔ nya ; </tRule>	
+			<tRule> ꤼ ↔ sa ; </tRule>	
+			<tRule> ꤽ ↔ ra ; </tRule>	
+			<tRule> ꤾ ↔ la ; </tRule>	
+			<tRule> ꤿ ↔ ya ; </tRule>
+			<tRule> ꥀ ↔ wa ; </tRule>	
+			<tRule> ꥁ ↔ ha ; </tRule> 	
+			<tRule> ꥂ ↔ mba ; </tRule>	
+			<tRule> ꥃ ↔ ngga ; </tRule>	
+			<tRule> ꥄ ↔ nda ; </tRule>	
+			<tRule> ꥅ ↔ nyja ; </tRule>	
+			<tRule> ꥆ ↔ a ; </tRule>
+			<tRule> \U0000A947 ↔ i </tRule>
+			<tRule> \U0000A948 ↔ u </tRule>
+			<tRule> \U0000A949 ↔ e </tRule>
+			<tRule> \U0000A94A ↔ ai </tRule>
+			<tRule> \U0000A94B ↔ o </tRule>
+			<tRule> \U0000A94C ↔ au ; </tRule>
+			<tRule> \U0000A94D ↔ eu ; </tRule>
+			<tRule> \U0000A94E ↔ ea ; </tRule>
+			<tRule> \U0000A94F ↔ ng ; </tRule>
+			<tRule> \U0000A950 ↔ n ; </tRule>
+			<tRule> \U0000A951 ↔ r ; </tRule>
+			<tRule> \U0000A952 ↔ h ; </tRule>
+			<tRule> \U0000A953 ↔ # REJANG VIRAMA ; </tRule>
+			<tRule> ꥟ ↔ # REJANG SECTION MARK ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

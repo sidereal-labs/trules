@@ -70,7 +70,7 @@ TP	Lepcha             Requires punctuation and some consonant support.
 DF	Vai
 	Saurashtra
 DF	Kayah_Li
-	Rejang
+TP	Rejang          No test data.
 TP	Lycian
 TP	Carian          No test data.
 TP	Lydian
