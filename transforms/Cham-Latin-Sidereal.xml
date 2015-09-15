@@ -59,8 +59,8 @@
 			<tRule> \U0000AA35 ↔ la ; </tRule>
 			<tRule> \U0000AA36 ↔ wa ; </tRule>
 			<tRule> ꩀ ↔ k ; </tRule>	
-			<tRule> ꩁ ↔ G ; </tRule>	
-			<tRule> ꩂ ↔ NG ; </tRule>	
+			<tRule> ꩁ ↔ g ; </tRule>	
+			<tRule> ꩂ ↔ ng ; </tRule>	
 			<tRule> \U0000AA43 ↔ ng # CHAM CONSONANT SIGN FINAL NG ;</tRule>
 			<tRule> ꩄ ↔ ch ; </tRule>	
 			<tRule> ꩅ ↔ t ; </tRule>	
