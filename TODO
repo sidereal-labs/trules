@@ -94,9 +94,9 @@ HARD	Kaithi
 HARD	Brahmi
 *	Mandaic
 	Chakma
-HARD   Meroitic_Cursive
-HARD   Meroitic_Hieroglyphs
-   Miao
+HARD    Meroitic_Cursive
+HARD    Meroitic_Hieroglyphs
+        Miao
 DF	Sharada (no test data)
-TP   Sora_Sompeng       No test data.
-TP   Takri               (no test data, Needs sign/logical mark handling)
+TP      Sora_Sompeng       No test data.
+TP      Takri               (no test data, Needs sign/logical mark handling)
