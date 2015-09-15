@@ -4,23 +4,23 @@
 		<transform source='Buhid' target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
 			<tRule>ᝀ ↔ a ; </tRule>
-            <tRule>ᝁ ↔ i ; </tRule>	
-			<tRule>ᝂ ↔ u ; </tRule>	
-			<tRule>ᝃ ↔ ka ; </tRule>	
-			<tRule>ᝄ ↔ 	ga ; </tRule>
-			<tRule>ᝅ ↔ nga ; </tRule>	
-			<tRule>ᝆ ↔ ta ; </tRule>	
+			<tRule>ᝁ ↔ i ; </tRule>
+			<tRule>ᝂ ↔ u ; </tRule>
+			<tRule>ᝃ ↔ ka ; </tRule>
+			<tRule>ᝄ ↔ ga ; </tRule>
+			<tRule>ᝅ ↔ nga ; </tRule>
+			<tRule>ᝆ ↔ ta ; </tRule>
 			<tRule>ᝇ ↔ da ; </tRule>
-			<tRule>ᝈ ↔ na ; </tRule>	
-			<tRule>ᝉ ↔ pa ; </tRule>	
-			<tRule>ᝊ ↔ ba ; </tRule>	
-			<tRule>ᝋ ↔ ma ; </tRule>	
-			<tRule>ᝌ ↔ ya ; </tRule>	
-			<tRule>ᝍ ↔ ra ; </tRule>	
-			<tRule>ᝎ ↔ la ; </tRule>	
+			<tRule>ᝈ ↔ na ; </tRule>
+			<tRule>ᝉ ↔ pa ; </tRule>
+			<tRule>ᝊ ↔ ba ; </tRule>
+			<tRule>ᝋ ↔ ma ; </tRule>
+			<tRule>ᝌ ↔ ya ; </tRule>
+			<tRule>ᝍ ↔ ra ; </tRule>
+			<tRule>ᝎ ↔ la ; </tRule>
 			<tRule>ᝏ ↔ wa ; </tRule>
-            <tRule>ᝐ ↔ sa ; </tRule>	
-            <tRule>ᝑ ↔ ha ; </tRule>	ᝒ	ᝓ
+			<tRule>ᝐ ↔ sa ; </tRule>
+			<tRule>ᝑ ↔ ha ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
