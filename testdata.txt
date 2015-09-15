@@ -128,3 +128,5 @@ Old_Persian	𐎭𐎠𐎼𐎹𐎺𐎢𐏁
 Old_Persian	𐎹𐎠𐏐𐎱𐎢𐏂
 
 Cypriot	𐠀𐠰𐠦𐠡𐠩
+
+Buhid	ᝊᝓᝑᝒᝇ
