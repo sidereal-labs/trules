@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Cham' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ꨀ ↔ a ; </tRule> 	
+			<tRule> ꨁ ↔ i ; </tRule>	
+			<tRule> ꨂ ↔ u ; </tRule>	
+			<tRule> ꨃ ↔ e ; </tRule>	
+			<tRule> ꨄ ↔ ai ; </tRule>	
+			<tRule>ꨅ ↔ o ; </tRule>	
+			<tRule> ꨆ ↔ ka ; </tRule>	
+			<tRule> ꨇ ↔ kha ; </tRule>	
+			<tRule> ꨈ ↔ ga ; </tRule>	
+			<tRule> ꨉ ↔ gha ; </tRule>	
+			<tRule> ꨊ ↔ ngue ; </tRule>	
+			<tRule> ꨋ ↔ nga ; </tRule>	
+			<tRule> ꨌ ↔ cha ; </tRule>	
+			<tRule> ꨍ ↔ chha ; </tRule>	
+			<tRule> ꨎ ↔ ja ; </tRule> 	
+			<tRule> ꨏ ↔ jha ; </tRule>
+			<tRule> ꨐ ↔ nhue ; </tRule>	
+			<tRule> ꨑ ↔ nha ; </tRule>	
+			<tRule> ꨒ ↔ nhja ; </tRule>	
+			<tRule> ꨓ ↔ ta ; </tRule>	
+			<tRule> ꨔ ↔ tha ; </tRule>	
+			<tRule> ꨕ ↔ da ; </tRule>	
+			<tRule> ꨖ ↔ dha ; </tRule>	
+			<tRule> ꨗ ↔ nue ; </tRule>	
+			<tRule> ꨘ ↔ na ; </tRule>	
+			<tRule> ꨙ ↔ dda ; </tRule>	
+			<tRule> ꨚ ↔ pa ; </tRule>	
+			<tRule> ꨛ ↔ ppa ; </tRule>	
+			<tRule> ꨜ ↔ pha ; </tRule>	
+			<tRule> ꨝ ↔ ba ; </tRule>	
+			<tRule> ꨞ ↔ bha ; </tRule>
+			<tRule> ꨟ ↔ mue ; </tRule>
+			<tRule> ꨠ ↔ ma ; </tRule>	
+			<tRule> ꨡ ↔ bba ; </tRule>	
+			<tRule> ꨢ ↔ ya ; </tRule>	
+			<tRule> ꨣ ↔ ra ; </tRule>	
+			<tRule> ꨤ ↔ la ; </tRule>	
+			<tRule> ꨥ ↔ va ; </tRule> 	
+			<tRule> ꨦ ↔ ssa ; </tRule>	
+			<tRule> ꨧ ↔ sa ; </tRule>	
+			<tRule> ꨨ ↔ ha ; </tRule>	ꨩ	ꨪ	ꨫ	ꨬ	ꨭ	ꨮ
+			<tRule> \U0000AA29 ↔ aa ; </tRule>ꨯ
+			<tRule> \U0000AA2A ↔ i ; </tRule>ꨰ
+			<tRule> \U0000AA2B ↔ ii ; </tRule>
+			<tRule> \U0000AA2C ↔ ei ; </tRule>			
+			<tRule> \U0000AA2D ↔ u ; </tRule>
+			<tRule> \U0000AA2E ↔ oe ; </tRule>
+			<tRule> \U0000AA2F ↔ o ; </tRule>
+			<tRule> \U0000AA30 ↔ ai ; </tRule>
+			<tRule> \U0000AA31 ↔ au ; </tRule>
+			<tRule> \U0000AA32 ↔ ue ; </tRule>	
+			<tRule> \U0000AA33 ↔ ya ; </tRule>
+			<tRule> \U0000AA34 ↔ ra ; </tRule>
+			<tRule> \U0000AA35 ↔ la ; </tRule>
+			<tRule> \U0000AA36 ↔ wa ; </tRule>
+			<tRule> ꩀ ↔ k ; </tRule>	
+			<tRule> ꩁ ↔ G ; </tRule>	
+			<tRule> ꩂ ↔ NG ; </tRule>	
+			<tRule> \U0000AA43 ↔ ng # CHAM CONSONANT SIGN FINAL NG ;</tRule>
+			<tRule> ꩄ ↔ ch ; </tRule>	
+			<tRule> ꩅ ↔ t ; </tRule>	
+			<tRule> ꩆ ↔ n ; </tRule>	
+			<tRule> ꩇ ↔ p ; </tRule>	
+			<tRule> ꩈ ↔ y ; </tRule>	
+			<tRule> ꩉ ↔ r ; </tRule>	
+			<tRule> ꩊ ↔ l ; </tRule>	
+			<tRule> ꩋ ↔ ss ; </tRule>	ꩌ	ꩍ		
+			<tRule> \U0000AA4C ↔ m ; </tRule>
+			<tRule> \U0000AA4D ↔ h ; </tRule>
+			<tRule> ꩐ ↔ 0 ; </tRule>	
+			<tRule> ꩑ ↔ 1 ; </tRule>	
+			<tRule> ꩒ ↔ 2 ; </tRule> 	
+			<tRule> ꩓ ↔ 3 ; </tRule>	
+			<tRule> ꩔ ↔ 4 ; </tRule>	
+			<tRule> ꩕ ↔ 5 ; </tRule>	
+			<tRule> ꩖ ↔ 6 ; </tRule>	
+			<tRule> ꩗ ↔ 7 ; </tRule>	
+			<tRule> ꩘ ↔ 8 ; </tRule>	
+			<tRule> ꩙ ↔ 9 ; </tRule>			
+			<tRule> ꩜ ↔ # CHAM PUNCTUATION SPIRAL ; </tRule>
+			<tRule> ꩝ ↔ # CHAM PUNCTUATION DANDA ; </tRule>	
+			<tRule> ꩞ ↔ # CHAM PUNCTUATION DOUBLE DANDA ; </tRule>	
+			<tRule> ꩟ ↔ # CHAM PUNCTUATION TRIPLE DANDA ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
