@@ -4,53 +4,53 @@
 	<transforms>
 		<transform source='Lisu' target='Latin' direction="both">
 			<tRule>:: NFC ; </tRule>
-			<tRule>ꓐ ↔ b ; </tRule>
-			<tRule>ꓑ ↔ p ; </tRule>
-			<tRule>ꓒ ↔ pʰ ; </tRule>
-			<tRule>ꓓ ↔ d ; </tRule>
-			<tRule>ꓔ ↔ t ; </tRule>
-			<tRule>ꓕ ↔ tʰ ; </tRule>
-			<tRule>ꓖ ↔ g ; </tRule>
-			<tRule>ꓗ ↔ k ; </tRule>
-			<tRule>ꓘ ↔ kʰ ; </tRule>
-			<tRule>ꓙ ↔ dʑ ; </tRule>
-			<tRule>ꓚ ↔ tɕ ; </tRule>
-			<tRule>ꓛ ↔ tɕʰ ; </tRule>
-			<tRule>ꓜ ↔ dz ; </tRule>
-			<tRule>ꓝ ↔ ts ; </tRule>
-			<tRule>ꓞ ↔ tsʰ ; </tRule>
-			<tRule>ꓟ ↔ m ; </tRule>
-			<tRule>ꓠ ↔ n ; </tRule>
-			<tRule>ꓡ ↔ l ; </tRule>
-			<tRule>ꓢ ↔ s ; </tRule>
-			<tRule>ꓣ ↔ ʒ ; </tRule>
-			<tRule>ꓤ ↔ z ; </tRule>
-			<tRule>ꓥ ↔ ŋ ; </tRule>
-			<tRule>ꓦ ↔ h ; </tRule>
-			<tRule>ꓧ ↔ x ; </tRule>
-			<tRule>ꓨ ↔ ɦ ; </tRule>
-			<tRule>ꓩ ↔ f ; </tRule>
-			<tRule>ꓪ ↔ w ; </tRule>
-			<tRule>ꓫ ↔ ʑ ; </tRule>
-			<tRule>ꓬ ↔ ɣa; </tRule>
-			<tRule>ꓭ ↔ ɑ ; </tRule>
-			<tRule>ꓮ ↔ ɛ ; </tRule>
-			<tRule>ꓯ ↔ e ; </tRule>
-			<tRule>ꓰ ↔ ø ; </tRule>
-			<tRule>ꓱ ↔ i ; </tRule>
-			<tRule>ꓲ ↔ o ; </tRule>
-			<tRule>ꓳ ↔ u ; </tRule>
-			<tRule>ꓴ ↔ y ; </tRule>
-			<tRule>ꓶ ↔ ɯ ; </tRule>
-			<tRule>ꓷ ↔ ǝ ; </tRule>
-			<tRule>ꓸ ↔ . ; </tRule>
-			<tRule>ꓹ ↔ , ; </tRule>
-			<tRule>ꓺ ↔ .. ; </tRule>
-			<tRule>ꓻ ↔ ., ; </tRule>
-			<tRule>ꓼ ↔ ; ; </tRule>
-			<tRule>ꓽ ↔ : ; </tRule>
-			<tRule>꓾ ↔ -. ; </tRule>
-			<tRule>꓿ ↔ = ; </tRule>
+			<tRule>ꓐ ↔ ba ; </tRule>
+			<tRule>ꓑ ↔ pa; </tRule>
+			<tRule>ꓒ ↔ pha ; </tRule>
+			<tRule>ꓓ ↔ da ; </tRule>
+			<tRule>ꓔ ↔ ta ; </tRule>
+			<tRule>ꓕ ↔ tha ; </tRule>
+			<tRule>ꓖ ↔ ga ; </tRule>
+			<tRule>ꓗ ↔ ka ; </tRule>
+			<tRule>ꓘ ↔ kha ; </tRule>
+			<tRule>ꓙ ↔ ja ; </tRule>
+			<tRule>ꓚ ↔ ca ; </tRule>
+			<tRule>ꓛ ↔ cha ; </tRule>
+			<tRule>ꓜ ↔ dza ; </tRule>
+			<tRule>ꓝ ↔ tsa ; </tRule>
+			<tRule>ꓞ ↔ tsha ; </tRule>
+			<tRule>ꓟ ↔ ma ; </tRule>
+			<tRule>ꓠ ↔ na ; </tRule>
+			<tRule>ꓡ ↔ la ; </tRule>
+			<tRule>ꓢ ↔ sa ; </tRule>
+			<tRule>ꓣ ↔ zha ; </tRule>
+			<tRule>ꓤ ↔ za ; </tRule>
+			<tRule>ꓥ ↔ nga ; </tRule>
+			<tRule>ꓦ ↔ ha ; </tRule>
+			<tRule>ꓧ ↔ xa ; </tRule>
+			<tRule>ꓨ ↔ hha ; </tRule>
+			<tRule>ꓩ ↔ fa ; </tRule>
+			<tRule>ꓪ ↔ wa ; </tRule>
+			<tRule>ꓫ ↔ sha ; </tRule>
+			<tRule>ꓬ ↔ ya; </tRule>
+			<tRule>ꓭ ↔ gha ; </tRule>
+			<tRule>ꓮ ↔ a ; </tRule>
+			<tRule>ꓯ ↔ ae ; </tRule>
+			<tRule>ꓰ ↔ e ; </tRule>
+			<tRule>ꓱ ↔ eu ; </tRule>
+			<tRule>ꓲ ↔ i ; </tRule>
+			<tRule>ꓳ ↔ o ; </tRule>
+			<tRule>ꓴ ↔ u ; </tRule>
+			<tRule>ꓶ ↔ ue ; </tRule>
+			<tRule>ꓷ ↔ oe ; </tRule>
+			<tRule>ꓸ ↔ # LISU LETTER TONE MYA TI ; </tRule>
+			<tRule>ꓹ ↔ # LISU LETTER TONE NA PO ;</tRule>
+			<tRule>ꓺ ↔ # LISU LETTER TONE MYA CYA ;</tRule>
+			<tRule>ꓻ ↔ # LISU LETTER TONE MYA BO ; </tRule>
+			<tRule>ꓼ ↔ # LISU LETTER TONE MYA NA ; </tRule>
+			<tRule>ꓽ ↔ # LISU LETTER TONE MYA JEU ; </tRule>
+			<tRule>꓾ ↔ , ; </tRule>
+			<tRule>꓿ ↔ . ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

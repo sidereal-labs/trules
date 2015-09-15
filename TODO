@@ -61,7 +61,7 @@ TP	Old_Persian
 Hard	Kharoshthi     No IPA
 Hard	Balinese
 Hard	Cuneiform      Super Hard
-TP	Phoenician         Some characters map to multiple letters
+TP	Phoenician         Needs to be converted to Hebrew first.
 DF	Phags_Pa
 DF	Nko
 	Sundanese
@@ -80,7 +80,7 @@ TP	Lydian
 DF	Avestan
 Hard	Egyptian_Hieroglyphs    Ultra Hard
 	Samaritan
-TP	Lisu
+TP	Lisu            Requires letter tone support.
 Hard	Bamum       No translation/transliteration table. Long.
 	Javanese
 	Meetei_Mayek
