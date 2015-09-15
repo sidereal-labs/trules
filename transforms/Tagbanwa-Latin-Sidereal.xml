@@ -19,8 +19,8 @@
 			<tRule> ᝮ ↔ la ; </tRule>	
 			<tRule> ᝯ ↔ wa ; </tRule>
 			<tRule> ᝰ ↔ sa ; </tRule>
-			<tRule> \U0001772 ↔ # VOWEL SIGN I </tRule>		ᝲ
-			<tRule> \U0001773 ↔ # VOWEL SIGN U </tRule>ᝳ
+			<tRule> \U00001772 ↔ # VOWEL SIGN I </tRule>		ᝲ
+			<tRule> \U00001773 ↔ # VOWEL SIGN U </tRule>ᝳ
 		</transform>
 	</transforms>
 </supplementalData>
