@@ -74,7 +74,7 @@ DF	Kayah_Li
 TP	Lycian
 	Carian
 TP	Lydian
-*	Cham
+TP	Cham            Requires punctuation support.
 *	Tai_Tham
 TP	Tai_Viet
 DF	Avestan
