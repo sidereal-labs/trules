@@ -3,6 +3,35 @@
 	<transforms>
 		<transform source='Lycian' target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
+			<tRule>𐊀 ↔ a ; </tRule>	
+			<tRule>𐊁 ↔ e ; </tRule>	
+			<tRule>𐊂 ↔ b ; </tRule>	
+			<tRule>𐊃 ↔ bh ; </tRule>	
+			<tRule>𐊄 ↔ g ; </tRule>	
+			<tRule>𐊅 ↔ d ; </tRule>	
+			<tRule>𐊆 ↔ i ; </tRule>	
+			<tRule>𐊇 ↔ w ; </tRule>	
+			<tRule>𐊈 ↔ z ; </tRule>	
+			<tRule>𐊉 ↔ th ; </tRule>	
+			<tRule>𐊊 ↔ j ; </tRule>	
+			<tRule>𐊋 ↔ k ; </tRule>	
+			<tRule>𐊌 ↔ q ; </tRule>	
+			<tRule>𐊍 ↔ l ; </tRule>	
+			<tRule>𐊎 ↔ m ; </tRule>	
+			<tRule>𐊏 ↔ n ; </tRule>
+			<tRule>𐊐 ↔ mm ; </tRule>	
+			<tRule>𐊑 ↔ nn ; </tRule>	
+			<tRule>𐊒 ↔ u ; </tRule>	
+			<tRule>𐊓 ↔ p ; </tRule>	
+			<tRule>𐊔 ↔ kk ; </tRule>	
+			<tRule>𐊕 ↔ r ; </tRule>	
+			<tRule>𐊖 ↔ s ; </tRule>	
+			<tRule>𐊗 ↔ t ; </tRule>	
+			<tRule>𐊘 ↔ tt ; </tRule>	
+			<tRule>𐊙 ↔ an ; </tRule>	
+			<tRule>𐊚 ↔ en ; </tRule>	
+			<tRule>𐊛 ↔ h ; </tRule>	
+			<tRule>𐊜 ↔ x ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
