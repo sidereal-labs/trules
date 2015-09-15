@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Tagalog' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ᜀ ↔ a ; </tRule>
+			<tRule> ᜁ ↔ i ; </tRule>
+			<tRule> ᜂ ↔ u ; </tRule>
+			<tRule> ᜃ ↔ ka ; </tRule>
+			<tRule> ᜄ ↔ ga ; </tRule>
+			<tRule> ᜅ ↔ nga ; </tRule>
+			<tRule> ᜆ ↔ ta ; </tRule>
+			<tRule> ᜇ ↔ da ; </tRule>
+			<tRule> ᜈ ↔ na ; </tRule>
+			<tRule> ᜉ ↔ pa ; </tRule>
+			<tRule> ᜊ ↔ ba ; </tRule>
+			<tRule> ᜋ ↔ ma ; </tRule>
+			<tRule> ᜌ ↔ ya ; </tRule>
+			<tRule> ᜎ ↔ la ; </tRule>
+			<tRule> ᜏ ↔ wa ; </tRule>
+			<tRule> ᜐ ↔ sa ; </tRule>
+			<tRule> ᜑ ↔ ha ; </tRule>
+			<tRule> \U0001712 ↔ #VOWEL SIGN I ; </tRule>	ᜒ
+			<tRule> \U0001713 ↔ #VOWEL SIGN U ; </tRule>
+			<tRule> \U0001714 ↔ #SIGN VIRAMA ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

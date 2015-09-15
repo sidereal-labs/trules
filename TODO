@@ -39,7 +39,7 @@ DF	Old_Italic
 TP	Gothic
 TP	Deseret
 N	Inherited
-HARD	Tagalog
+TP	Tagalog         Requires vowel sign support. No test data. 
 *HARD	Hanunoo
 TP	Buhid
 *	Tagbanwa
