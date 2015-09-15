@@ -76,7 +76,7 @@ TP	Carian          No test data.
 TP	Lydian
 TP	Cham            Requires punctuation support.
 *	Tai_Tham
-TP	Tai_Viet
+	Tai_Viet
 DF	Avestan
 Hard	Egyptian_Hieroglyphs    Ultra Hard
 	Samaritan
