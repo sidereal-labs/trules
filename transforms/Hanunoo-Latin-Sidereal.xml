@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Hanunoo' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ᜠ ↔ a ; </tRule>
+			<tRule> ᜡ ↔ i ; </tRule>
+			<tRule> ᜢ ↔ u ; </tRule>
+			<tRule> ᜣ ↔ ka ; </tRule>
+			<tRule> ᜤ ↔ ga ; </tRule>
+			<tRule> ᜥ ↔ nga ; </tRule>
+			<tRule> ᜦ ↔ ta ; </tRule>
+			<tRule> ᜧ ↔ da ; </tRule>
+			<tRule> ᜨ ↔ na ; </tRule>
+			<tRule> ᜩ ↔ pa ; </tRule>
+			<tRule> ᜪ ↔ ba ; </tRule>
+			<tRule> ᜫ ↔ ma ; </tRule>
+			<tRule> ᜬ ↔ ya ; </tRule>
+			<tRule> ᜭ ↔ ra ; </tRule>
+			<tRule> ᜮ ↔ la ; </tRule>
+			<tRule> ᜯ ↔ wa ; </tRule>
+			<tRule> ᜰ ↔ sa ; </tRule>
+			<tRule> ᜱ ↔ ha ; </tRule>	ᜲ	ᜳ
+			<tRule> \U0001732 ↔ # VOWEL SIGN I </tRule>
+			<tRule> \U0001733 ↔ # VOWEL SIGN U </tRule>
+			<tRule> ᜴ ↔ # SIGN PAMUDPOD ; </tRule>
+			<tRule> ᜵ ↔ # SINGLE PUNCTUATION ; </tRule>
+			<tRule> ᜶ ↔ # DOUBLE PUNCTUATION ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

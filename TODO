@@ -40,7 +40,7 @@ TP	Gothic
 TP	Deseret
 N	Inherited
 TP	Tagalog         Requires vowel sign support. No test data. 
-*HARD	Hanunoo
+TP	Hanunoo         Requires vowel support.
 TP	Buhid
 *	Tagbanwa
 DF	Limbu
