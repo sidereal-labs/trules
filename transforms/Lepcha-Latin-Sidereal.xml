@@ -20,7 +20,7 @@
 			<tRule> ᰍ ↔ na ; </tRule>	
 			<tRule> ᰎ ↔ pa ; </tRule>	
 			<tRule> ᰏ ↔ pla ; </tRule>
-			<tRule> ᰐ ↔ tsa ; </tRule>
+			<tRule> ᰐ ↔ pha ; </tRule>
 			<tRule> ᰑ ↔ fa ; </tRule>	
 			<tRule> ᰒ ↔ fla ; </tRule>	
 			<tRule> ᰓ ↔ ba ; </tRule>	
@@ -29,7 +29,7 @@
 			<tRule> ᰖ ↔ mla ; </tRule>	
 			<tRule> ᰗ ↔ tsa ; </tRule>	
 			<tRule> ᰘ ↔ tsha ; </tRule>	
-			<tRule> ᰙ ↔ za ; </tRule>	
+			<tRule> ᰙ ↔ dza ; </tRule>	
 			<tRule> ᰚ ↔ ya ; </tRule> 	
 			<tRule> ᰛ ↔ ra ; </tRule>	
 			<tRule> ᰜ ↔ la ; </tRule>	
@@ -37,14 +37,33 @@
 			<tRule> ᰞ ↔ hla ; </tRule>	
 			<tRule> ᰟ ↔ va ; </tRule>
 			<tRule> ᰠ ↔ sa ; </tRule>	
-			<tRule> ᰡ ↔ ša ; </tRule>	
-			<tRule> ᰢ ↔ ja ; </tRule>	
-			<tRule> ᰣ ↔ a ; </tRule>	ᰤ	ᰥ	ᰦ	ᰧ	ᰨ	ᰩ
-			<tRule> ᰻ ↔ ?1 ; </tRule>
-			<tRule> ᰼ ↔ ?2 ; </tRule>	
-			<tRule> ᰽ ↔ ?3 ; </tRule>	
-			<tRule> ᰾ ↔ ?4 ; </tRule>	
-			<tRule> ᰿ ↔ ?5 ; </tRule>
+			<tRule> ᰡ ↔ sha ; </tRule>	
+			<tRule> ᰢ ↔ wa ; </tRule>	
+			<tRule> ᰣ ↔ a ; </tRule>
+			<tRule> \0001C24 ↔ ya # LEPCHA SUBJOINED LETTER YA ; </tRule>
+			<tRule> \0001C25 ↔ ra # LEPCHA SUBJOINED LETTER RA ; </tRule>
+			<tRule> \0001C26 ↔ aa # LEPCHA VOWEL SIGN AA ; </tRule>
+			<tRule> \0001C27 ↔ i # LEPCHA VOWEL SIGN I ; </tRule>
+			<tRule> \0001C28 ↔ o # LEPCHA VOWEL SIGN O ; </tRule>
+			<tRule> \0001C29 ↔ oo # LEPCHA VOWEL SIGN OO ; </tRule>
+			<tRule> \0001C2A ↔ u # LEPCHA VOWEL SIGN U ; </tRule>	
+			<tRule> \0001C2B ↔ uu # LEPCHA VOWEL SIGN UU ; </tRule>ᰥ
+			<tRule> \0001C2C ↔ e # LEPCHA VOWEL SIGN E ; </tRule>ᰧ	ᰨ
+			<tRule> \0001C2D ↔ k # LEPCHA CONSONANT SIGN K ; </tRule>ᰩ
+			<tRule> \0001C2E ↔ m # LEPCHA CONSONANT SIGN M ; </tRule>
+			<tRule> \0001C2F ↔ l # LEPCHA CONSONANT SIGN L ; </tRule>
+			<tRule> \0001C30 ↔ n # LEPCHA CONSONANT SIGN N ; </tRule>
+			<tRule> \0001C31 ↔ p # LEPCHA CONSONANT SIGN P ; </tRule>
+			<tRule> \0001C32 ↔ r # LEPCHA CONSONANT SIGN R ; </tRule>
+			<tRule> \0001C33 ↔ t # LEPCHA CONSONANT SIGN T ; </tRule>
+			<tRule> \0001C34 ↔ # LEPCHA CONSONANT SIGN NYIN-DO ; </tRule>
+			<tRule> \0001C35 ↔ # LEPCHA CONSONANT SIGN KANG ; </tRule>
+			<tRule> \0001C36 ↔ # LEPCHA SIGN RAN ; </tRule>
+			<tRule> \0001C37 ↔ # LEPCHA SIGN NUKTA ; </tRule>
+			<tRule> ᰻ ↔ # LEPCHA PUNCTUATION TA-ROL ; </tRule>
+			<tRule> ᰼ ↔ # LEPCHA PUNTUATION NYET THYOOM TA-ROL ; </tRule>	
+			<tRule> ᰽ ↔ # LEPCHA PUNCTUATION CER-WA ; </tRule><tRule> ᰾ ↔ # LEPCHA PUNCTUATION TSHOOK CER-WA ; </tRule>	
+			<tRule> ᰿ ↔ # LEPCHA PUNCTUATION TSHOOK ; </tRule>
 			<tRule> ᱀ ↔ 0 ; </tRule>	
 			<tRule> ᱁ ↔ 1 ; </tRule>	
 			<tRule> ᱂ ↔ 2 ; </tRule>	
@@ -55,9 +74,9 @@
 			<tRule> ᱇ ↔ 7 ; </tRule>	
 			<tRule> ᱈ ↔ 8 ; </tRule>	
 			<tRule> ᱉ ↔ 9 ; </tRule>
-			<tRule> ᱍ ↔ ?6 ; </tRule>	
-			<tRule> ᱎ ↔ ?7 ; </tRule>	
-			<tRule> ᱏ ↔ ?8 ; </tRule>
+			<tRule> ᱍ ↔ tta # LEPCHA LETTER TTA ; </tRule>	
+			<tRule> ᱎ ↔ ttha # LEPCHA LETTER TTHA ; </tRule>
+			<tRule> ᱏ ↔ dda # LEPCHA LETTER DDA ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

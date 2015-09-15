@@ -65,7 +65,7 @@ TP	Phoenician         Some characters map to multiple letters
 DF	Phags_Pa
 DF	Nko
 	Sundanese
-TP	Lepcha             Some modifiers left out
+TP	Lepcha             Requires punctuation and some consonant support. 
 *	Ol_Chiki
 DF	Vai
 	Saurashtra
