@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Cypriot' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>𐠀 ↔ a ; </tRule	>
+			<tRule>𐠁 ↔ e ; </tRule	>
+			<tRule>𐠂 ↔ i ; </tRule>
+			<tRule>𐠃 ↔ o ; </tRule>
+			<tRule>𐠄 ↔ u ; </tRule>
+			<tRule>𐠅 ↔ ja ; </tRule>
+			<tRule>𐠈 ↔ jo ; </tRule>
+			<tRule>𐠊 ↔ ka ; </tRule>
+			<tRule>𐠋 ↔ ke ; </tRule>
+			<tRule>𐠌 ↔ ki ; </tRule>
+			<tRule>𐠍 ↔ ko ; </tRule>
+			<tRule>𐠎 ↔ ku ; </tRule>
+			<tRule>𐠏 ↔ la ; </tRule>
+			<tRule>𐠐 ↔ le ; </tRule>
+			<tRule>𐠑 ↔ li ; </tRule>
+			<tRule>𐠒 ↔ lo ; </tRule>
+			<tRule>𐠓 ↔ lu ; </tRule>
+			<tRule>𐠔 ↔ ma ; </tRule>
+			<tRule>𐠕 ↔ me ; </tRule>
+			<tRule>𐠖 ↔ mi ; </tRule>
+			<tRule>𐠗 ↔ mo ; </tRule>
+			<tRule>𐠘 ↔ mu ; </tRule>
+			<tRule>𐠙 ↔ na ; </tRule>
+			<tRule>𐠚 ↔ ne ; </tRule>
+			<tRule>𐠛 ↔ ni ; </tRule>
+			<tRule>𐠜 ↔ no ; </tRule>
+			<tRule>𐠝 ↔ nu ; </tRule>
+			<tRule>𐠞 ↔ pa ; </tRule>
+			<tRule>𐠟 ↔ pe ; </tRule>
+			<tRule>𐠠 ↔ pi ; </tRule>
+			<tRule>𐠡 ↔ po ; </tRule>
+			<tRule>𐠢 ↔ pu ; </tRule>
+			<tRule>𐠣 ↔ ra ; </tRule>
+			<tRule>𐠤 ↔ re ; </tRule>
+			<tRule>𐠥 ↔ ri ; </tRule>
+			<tRule>𐠦 ↔ ro ; </tRule>
+			<tRule>𐠧 ↔ ru ; </tRule>
+			<tRule>𐠨 ↔ sa ; </tRule>
+			<tRule>𐠩 ↔ se ; </tRule>
+			<tRule>𐠪 ↔ si ; </tRule>
+			<tRule>𐠫 ↔ so ; </tRule>
+			<tRule>𐠬 ↔ su ; </tRule>
+			<tRule>𐠭 ↔ ta ; </tRule>
+			<tRule>𐠮 ↔ te ; </tRule>
+			<tRule>𐠯 ↔ ti ; </tRule>
+			<tRule>𐠰 ↔ to ; </tRule>
+			<tRule>𐠱 ↔ tu ; </tRule>
+			<tRule>𐠲 ↔ wa ; </tRule>
+			<tRule>𐠳 ↔ we ; </tRule>
+			<tRule>𐠴 ↔ wi ; </tRule>
+			<tRule>𐠵 ↔ wo ; </tRule>
+			<tRule>𐠷 ↔ xa ; </tRule>
+			<tRule>𐠸 ↔ xe ; </tRule>
+			<tRule>𐠼 ↔ za ; </tRule>
+			<tRule>𐠿 ↔ zo ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
