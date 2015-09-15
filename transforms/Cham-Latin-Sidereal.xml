@@ -43,9 +43,9 @@
 			<tRule> ꨥ ↔ va ; </tRule> 	
 			<tRule> ꨦ ↔ ssa ; </tRule>	
 			<tRule> ꨧ ↔ sa ; </tRule>	
-			<tRule> ꨨ ↔ ha ; </tRule>	ꨩ	ꨪ	ꨫ	ꨬ	ꨭ	ꨮ
-			<tRule> \U0000AA29 ↔ aa ; </tRule>ꨯ
-			<tRule> \U0000AA2A ↔ i ; </tRule>ꨰ
+			<tRule> ꨨ ↔ ha ; </tRule>
+			<tRule> \U0000AA29 ↔ aa ; </tRule>
+			<tRule> \U0000AA2A ↔ i ; </tRule>
 			<tRule> \U0000AA2B ↔ ii ; </tRule>
 			<tRule> \U0000AA2C ↔ ei ; </tRule>			
 			<tRule> \U0000AA2D ↔ u ; </tRule>
@@ -69,7 +69,7 @@
 			<tRule> ꩈ ↔ y ; </tRule>	
 			<tRule> ꩉ ↔ r ; </tRule>	
 			<tRule> ꩊ ↔ l ; </tRule>	
-			<tRule> ꩋ ↔ ss ; </tRule>	ꩌ	ꩍ		
+			<tRule> ꩋ ↔ ss ; </tRule>		
 			<tRule> \U0000AA4C ↔ m ; </tRule>
 			<tRule> \U0000AA4D ↔ h ; </tRule>
 			<tRule> ꩐ ↔ 0 ; </tRule>	
