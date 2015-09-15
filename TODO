@@ -98,5 +98,5 @@ HARD   Meroitic_Cursive
 HARD   Meroitic_Hieroglyphs
    Miao
 DF	Sharada (no test data)
-   Sora_Sompeng
+TP   Sora_Sompeng       No test data.
 TP   Takri               (no test data, Needs sign/logical mark handling)

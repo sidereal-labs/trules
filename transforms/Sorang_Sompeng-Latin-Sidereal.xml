@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Sorang_Sompeng' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𑃐 ↔ sah ; </tRule>
+			<tRule> 𑃑 ↔ tah ; </tRule>
+			<tRule> 𑃒 ↔ bah ; </tRule>
+			<tRule> 𑃓 ↔ cah ; </tRule>
+			<tRule> 𑃔 ↔ dah ; </tRule>
+			<tRule> 𑃕 ↔ gah ; </tRule>
+			<tRule> 𑃖 ↔ mah ; </tRule>
+			<tRule> 𑃗 ↔ ngah ; </tRule>
+			<tRule> 𑃘 ↔ lah ; </tRule>
+			<tRule> 𑃙 ↔ nah ; </tRule>
+			<tRule> 𑃚 ↔ vah ; </tRule>
+			<tRule> 𑃛 ↔ pah ; </tRule>
+			<tRule> 𑃜 ↔ yah ; </tRule>
+			<tRule> 𑃝 ↔ rah ; </tRule>
+			<tRule> 𑃞 ↔ hah ; </tRule>
+			<tRule> 𑃟 ↔ kah ; </tRule>
+			<tRule> 𑃠 ↔ jah ; </tRule>
+			<tRule> 𑃡 ↔ nyah ; </tRule>
+			<tRule> 𑃢 ↔ ah ; </tRule>
+			<tRule> 𑃣 ↔ eeh ; </tRule>
+			<tRule> 𑃤 ↔ ih ; </tRule>
+			<tRule> 𑃥 ↔ uh ; </tRule>
+			<tRule> 𑃦 ↔ oh ; </tRule>
+			<tRule> 𑃧 ↔ eh ; </tRule>
+			<tRule> 𑃨 ↔ mae ; </tRule>
+			<tRule> 𑃰 ↔ 0 ; </tRule>
+			<tRule> 𑃱 ↔ 1 ; </tRule>
+			<tRule> 𑃲 ↔ 2 ; </tRule>
+			<tRule> 𑃳 ↔ 3 ; </tRule>
+			<tRule> 𑃴 ↔ 4 ; </tRule>
+			<tRule> 𑃵 ↔ 5 ; </tRule>
+			<tRule> 𑃶 ↔ 6 ; </tRule>
+			<tRule> 𑃷 ↔ 7 ; </tRule>
+			<tRule> 𑃸 ↔ 8 ; </tRule>
+			<tRule> 𑃹 ↔ 9 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
