@@ -20,9 +20,9 @@
 			<tRule> ᜏ ↔ wa ; </tRule>
 			<tRule> ᜐ ↔ sa ; </tRule>
 			<tRule> ᜑ ↔ ha ; </tRule>
-			<tRule> \U0001712 ↔ #VOWEL SIGN I ; </tRule>	ᜒ
-			<tRule> \U0001713 ↔ #VOWEL SIGN U ; </tRule>
-			<tRule> \U0001714 ↔ #SIGN VIRAMA ; </tRule>
+			<tRule> \U00001712 ↔ i ; #VOWEL SIGN I </tRule>	ᜒ
+			<tRule> \U00001713 ↔ i ; #VOWEL SIGN U </tRule>
+			<tRule> \U00001714 ↔ ; #SIGN VIRAMA </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

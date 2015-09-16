@@ -4,54 +4,54 @@
 		<transform source='Carian' target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
 			<tRule>𐊠 ↔ a ; </tRule>	
-			<tRule>𐊡 ↔ p # CARIAN LETTER P2 ; </tRule>	
+			<tRule>𐊡 ↔ p ; # CARIAN LETTER P2 </tRule>	
 			<tRule>𐊢 ↔ d ; </tRule>	
 			<tRule>𐊣 ↔ l ; </tRule>	
 			<tRule>𐊤 ↔ uuu ; </tRule>	
 			<tRule>𐊥 ↔ r ; </tRule>	
 			<tRule>𐊦 ↔ ld ; </tRule>	
-			<tRule>𐊧 ↔ a # CARIAN LETTER A2 ; </tRule>	
+			<tRule>𐊧 ↔ a ; # CARIAN LETTER A2 </tRule>	
 			<tRule>𐊨 ↔ q ; </tRule>	
 			<tRule>𐊩 ↔ b ; </tRule>	
 			<tRule>𐊪 ↔ m ; </tRule>	
 			<tRule>𐊫 ↔ o ; </tRule>	
-			<tRule>𐊬 ↔ d # CARIAN LETTER D2 ; </tRule>	
+			<tRule>𐊬 ↔ d ; # CARIAN LETTER D2 </tRule>	
 			<tRule>𐊭 ↔ t ; </tRule>	
 			<tRule>𐊮 ↔ sh ; </tRule>	
-			<tRule>𐊯 ↔ sh # CARIAN LETTER SH2 ; </tRule>
+			<tRule>𐊯 ↔ sh ; # CARIAN LETTER SH2 </tRule>
 			<tRule>𐊰 ↔ s ; </tRule>	
-			<tRule>𐊱 ↔ c # CARIAN LETTER C-18 ; </tRule>	
+			<tRule>𐊱 ↔ c ; # CARIAN LETTER C-18 </tRule>	
 			<tRule>𐊲 ↔ u ; </tRule>	
 			<tRule>𐊳 ↔ nn ; </tRule>	
 			<tRule>𐊴 ↔ x ; </tRule>	
 			<tRule>𐊵 ↔ n ; </tRule>	
-			<tRule>𐊶 ↔ tt # CARIAN LETTER TT2; </tRule>	
+			<tRule>𐊶 ↔ tt ; # CARIAN LETTER TT2 </tRule>	
 			<tRule>𐊷 ↔ p ; </tRule>	
 			<tRule>𐊸 ↔ ss ; </tRule>
 			<tRule>𐊹 ↔ i ; </tRule>	
 			<tRule>𐊺 ↔ e  ; </tRule>	
 			<tRule>𐊻 ↔ uuuu ; </tRule>	
 			<tRule>𐊼 ↔ k  ; </tRule>	
-			<tRule>𐊽 ↔ k # CARIAN LETTER K2 ; </tRule>	
+			<tRule>𐊽 ↔ k ; # CARIAN LETTER K2 </tRule>	
 			<tRule>𐊾 ↔ nd ; </tRule>	
 			<tRule>𐊿 ↔ uu ; </tRule>
 			<tRule>𐋀 ↔ g  ; </tRule>	
-			<tRule>𐋁 ↔ g # CARIAN LETTER G2 ; </tRule>	
+			<tRule>𐋁 ↔ g ; # CARIAN LETTER G2 </tRule>	
 			<tRule>𐋂 ↔ st ; </tRule>	
-			<tRule>𐋃 ↔ st # CARIAN LETTER ST2 ; </tRule>	
+			<tRule>𐋃 ↔ st ; # CARIAN LETTER ST2 </tRule>	
 			<tRule>𐋄 ↔ ng ; </tRule>	
 			<tRule>𐋅 ↔ ii  ; </tRule>	
-			<tRule>𐋆 ↔ c # CARIAN LETTER C-39 ; </tRule>	
+			<tRule>𐋆 ↔ c ; # CARIAN LETTER C-39 </tRule>	
 			<tRule>𐋇 ↔ tt  ; </tRule>	
-			<tRule>𐋈 ↔ uuu # CARIAN LETTER UUU2 ; </tRule>	
+			<tRule>𐋈 ↔ uuu ; # CARIAN LETTER UUU2 </tRule>	
 			<tRule>𐋉 ↔ rr ; </tRule>	
 			<tRule>𐋊 ↔ mb  ; </tRule>	
-			<tRule>𐋋 ↔ mb # CARIAN LETTER MB2 ; </tRule> 	
-			<tRule>𐋌 ↔ mb # CARIAN LETTER MB3 ; </tRule>	
-			<tRule>𐋍 ↔ mb # CARIAN LETTER MB4 ; </tRule>	
+			<tRule>𐋋 ↔ mb ; # CARIAN LETTER MB2 </tRule> 	
+			<tRule>𐋌 ↔ mb ; # CARIAN LETTER MB3 </tRule>	
+			<tRule>𐋍 ↔ mb ; # CARIAN LETTER MB4 </tRule>	
 			<tRule>𐋎 ↔ ld  ; </tRule>	
-			<tRule>𐋏 ↔ e # CARIAN LETTER E2 ; </tRule>
-			<tRule>𐋐 uuu # CARIAN LETTER UUU3 ; </tRule>
+			<tRule>𐋏 ↔ e ; # CARIAN LETTER E2 </tRule>
+			<tRule>𐋐 uuu ; # CARIAN LETTER UUU3 </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

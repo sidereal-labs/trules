@@ -46,8 +46,8 @@
 			<tRule>𑚨 ↔ sa ; </tRule>
 			<tRule>𑚩 ↔ ha ; </tRule>
 			<tRule>𑚪 ↔ rra ; </tRule>
-			<tRule>𑚫 ↔ anusvara ; </tRule>
-			<tRule>𑚬 ↔ visarga ; </tRule>
+			<tRule>𑚫 ↔ ; TAKRI SIGN ANUSVARA </tRule>
+			<tRule>𑚬 ↔ ; TAKRI SIGN VIARGA </tRule>
 			<tRule>𑚭 ↔ aa ; </tRule>
 			<tRule>𑚮 ↔ ii ; </tRule>
 			<tRule>𑚯 ↔ u ; </tRule>
@@ -56,8 +56,8 @@
 			<tRule>𑚲 ↔ ai ; </tRule>
 			<tRule>𑚳 ↔ o ; </tRule>
 			<tRule>𑚴 ↔ au ; </tRule>
-			<tRule>𑚵 ↔ virama ; </tRule>
-			<tRule>𑚶 ↔ nukta ; </tRule>
+			<tRule>𑚵 ↔ ; TAKRI SIGN VIRAMA </tRule>
+			<tRule>𑚶 ↔ ; TAKRI SIGN NUKTA </tRule>
 			<tRule>𑚷 ↔ 0 ; </tRule>
 			<tRule>𑛁 ↔ 1 ; </tRule>
 			<tRule>𑛂 ↔ 2 ; </tRule>

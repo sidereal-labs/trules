@@ -61,7 +61,7 @@
 			<tRule> ꩀ ↔ k ; </tRule>	
 			<tRule> ꩁ ↔ g ; </tRule>	
 			<tRule> ꩂ ↔ ng ; </tRule>	
-			<tRule> \U0000AA43 ↔ ng # CHAM CONSONANT SIGN FINAL NG ;</tRule>
+			<tRule> \U0000AA43 ↔ ng ; # CHAM CONSONANT SIGN FINAL NG </tRule>
 			<tRule> ꩄ ↔ ch ; </tRule>	
 			<tRule> ꩅ ↔ t ; </tRule>	
 			<tRule> ꩆ ↔ n ; </tRule>	
@@ -82,10 +82,10 @@
 			<tRule> ꩗ ↔ 7 ; </tRule>	
 			<tRule> ꩘ ↔ 8 ; </tRule>	
 			<tRule> ꩙ ↔ 9 ; </tRule>			
-			<tRule> ꩜ ↔ # CHAM PUNCTUATION SPIRAL ; </tRule>
-			<tRule> ꩝ ↔ # CHAM PUNCTUATION DANDA ; </tRule>	
-			<tRule> ꩞ ↔ # CHAM PUNCTUATION DOUBLE DANDA ; </tRule>	
-			<tRule> ꩟ ↔ # CHAM PUNCTUATION TRIPLE DANDA ; </tRule>
+			<tRule> ꩜ ↔ ; # CHAM PUNCTUATION SPIRAL </tRule>
+			<tRule> ꩝ ↔ ; # CHAM PUNCTUATION DANDA </tRule>	
+			<tRule> ꩞ ↔ ; # CHAM PUNCTUATION DOUBLE DANDA </tRule>	
+			<tRule> ꩟ ↔ ; # CHAM PUNCTUATION TRIPLE DANDA </tRule>
 		</transform>
 	</transforms>
 </supplementalData>

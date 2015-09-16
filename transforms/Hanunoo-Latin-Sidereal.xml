@@ -21,11 +21,11 @@
 			<tRule> ᜯ ↔ wa ; </tRule>
 			<tRule> ᜰ ↔ sa ; </tRule>
 			<tRule> ᜱ ↔ ha ; </tRule>	ᜲ	ᜳ
-			<tRule> \U0001732 ↔ # VOWEL SIGN I </tRule>
-			<tRule> \U0001733 ↔ # VOWEL SIGN U </tRule>
-			<tRule> ᜴ ↔ # SIGN PAMUDPOD ; </tRule>
-			<tRule> ᜵ ↔ # SINGLE PUNCTUATION ; </tRule>
-			<tRule> ᜶ ↔ # DOUBLE PUNCTUATION ; </tRule>
+			<tRule> \U00001732 ↔ i ; # VOWEL SIGN I </tRule>
+			<tRule> \U00001733 ↔ u ;# VOWEL SIGN U </tRule>
+			<tRule> ᜴ ↔ ; # SIGN PAMUDPOD </tRule>
+			<tRule> ᜵ ↔ ; # SINGLE PUNCTUATION </tRule>
+			<tRule> ᜶ ↔ ; # DOUBLE PUNCTUATION </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
