@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Sundanese' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> \U00001B80 ↔ ;# SUNDANESE SIGN PANYECEK  </tRule>
+			<tRule> \U00001B81 ↔ ;# SUNDANESE SIGN PANGLAYAR  </tRule>
+			<tRule> \U00001B82 ↔ ;# SUNDANESE SIGN PANGWISAD  </tRule>
+			ᮀ<tRule> ᮃ ↔ a </tRule>
+			<tRule> ᮄ ↔ i </tRule>
+			<tRule> ᮅ ↔ u </tRule>
+			<tRule> ᮆ ↔ ae ; </tRule>
+			<tRule> ᮇ ↔ o ; </tRule>
+			<tRule> ᮈ ↔ e ; </tRule>
+			<tRule> ᮉ ↔ eu ; </tRule>
+			<tRule> ᮊ ↔ ka ; </tRule>
+			<tRule> ᮋ ↔ qa ; </tRule>
+			<tRule> ᮌ ↔ ga ; </tRule>
+			<tRule> ᮍ ↔ nga ; </tRule>
+			<tRule> ᮎ ↔ ca ; </tRule>
+			<tRule> ᮏ ↔ ja ; </tRule>
+			<tRule> ᮐ ↔ za ; </tRule>
+			<tRule> ᮑ ↔ nya ; </tRule>
+			<tRule> ᮒ ↔ ta ; </tRule>
+			<tRule> ᮓ ↔ da ; </tRule>
+			<tRule> ᮔ ↔ na ; </tRule>
+			<tRule> ᮕ ↔ pa ; </tRule>
+			<tRule> ᮖ ↔ fa ; </tRule>
+			<tRule> ᮗ ↔ va ; </tRule>
+			<tRule> ᮘ ↔ ba ; </tRule>
+			<tRule> ᮙ ↔ ma ; </tRule>
+			<tRule> ᮚ ↔ ya ; </tRule>
+			<tRule> ᮛ ↔ ra ; </tRule>
+			<tRule> ᮜ ↔ la ; </tRule>
+			<tRule> ᮝ ↔ wa ; </tRule>
+			<tRule> ᮞ ↔ sa ; </tRule>
+			<tRule> ᮟ ↔ xa ; </tRule>
+			<tRule> ᮠ ↔ ha ; </tRule>
+			<tRule> \U00001BA1 ↔ ya ; # SUNDANESE CONSONANT SIGN PAMINGKAL </tRule>
+			<tRule>  \U00001BA2 ↔ ra ; # SUNDANESE CONSONANT SIGN PANYAKRA </tRule>
+			<tRule>  \U00001BA3 ↔ la ; # SUNDANESE CONSONANT SIGN PANYIKU </tRule>
+			<tRule>  \U00001BA4 ↔ i ; # SUNDANESE VOWEL SIGN PANGHULU </tRule>
+			<tRule>  \U00001BA5 ↔ u ; # SUNDANESE VOWEL SIGN PANYAKRA </tRule>
+			<tRule> \U00001BA6 ↔ ae ; # SUNDANESE VOWEL SIGN PANAELAENG </tRule>
+			<tRule>  \U00001BA7 ↔ o ; # SUNDANESE VOWEL SIGN PANOLONG </tRule>
+			<tRule>  \U00001BA8 ↔ e ; # SUNDANESE VOWEL SIGN PAMEPET </tRule>
+			<tRule>  \U00001BA9 ↔ eu ; # SUNDANESE VOWEL SIGN PANEULEUNG </tRule>
+			<tRule> \U00001BAA ↔ ; # SUNDANESE SIGN PAMAAEH </tRule>
+			<tRule> ᮫ ↔ ; # SUNDANESE SIGN VIRAMA </tRule>
+			<tRule> ᮬ ↔  ma ; # SUNDANESE CONSONANT SIGN PASANGAN MA </tRule>
+			<tRule> ᮭ ↔ wa ; # SUNDANESE CONSONANT SIGN PASANGAN WA </tRule>
+			<tRule> ᮮ ↔ kha ; </tRule>
+			<tRule> ᮯ ↔ sya ; </tRule>
+			<tRule> ᮰ ↔ 0 ; </tRule>
+			<tRule> ᮱ ↔ 1 ; </tRule>
+			<tRule> ᮲ ↔ 2 ; </tRule>
+			<tRule> ᮳ ↔ 3 ; </tRule>
+			<tRule> ᮴ ↔ 4 ; </tRule>
+			<tRule> ᮵ ↔ 5 ; </tRule>
+			<tRule> ᮶ ↔ 6 ; </tRule>
+			<tRule> ᮷ ↔ 7 ; </tRule>
+			<tRule> ᮸ ↔ 8 ; </tRule>
+			<tRule> ᮹ ↔ 9 ; </tRule>
+			<tRule> ᮺ ↔ ; # SUNDANESE AVAGRAHA </tRule>
+			<tRule> ᮻ ↔ r ; # SUNDANESE LETTER REU </tRule>
+			<tRule> ᮼ ↔ l ; # SUNDANESE LETTER LEU </tRule>
+			<tRule> ᮽ ↔ ; # SUNDANESE LETTER BHA </tRule>
+			<tRule> ᮾ ↔ k ; # SUNDANESE LETTER FINAL K </tRule>
+			<tRule> ᮿ ↔ m ; # SUNDANESE LETTER FINAL M </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
