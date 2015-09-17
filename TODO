@@ -68,7 +68,7 @@ TP	Sundanese
 TP	Lepcha             Requires punctuation and some consonant support. 
 *	Ol_Chiki
 DF	Vai
-	Saurashtra
+TP	Saurashtra
 DF	Kayah_Li
 TP	Rejang          No test data.
 TP	Lycian
