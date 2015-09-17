@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Old_South_Arabian' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐩠 ↔ h ; </tRule>	
+			<tRule> 𐩡 ↔ l ; </tRule>	
+			<tRule> 𐩢 ↔ ḥ ; </tRule>
+			<tRule> 𐩣 	↔ m ; </tRule>
+			<tRule> 𐩤 ↔ q ; </tRule>	
+			<tRule> 𐩥 ↔ w ; </tRule>	
+			<tRule> 𐩦 ↔ š ; </tRule>	
+			<tRule> 𐩧 ↔ r ; </tRule>	
+			<tRule> 𐩨 ↔ b ; </tRule>	
+			<tRule> 𐩩 ↔ t ; </tRule>	
+			<tRule> 𐩪 ↔ s ; </tRule>	
+			<tRule> 𐩫	↔ k ; </tRule>
+			<tRule> 𐩬 ↔ n ; </tRule>	
+			<tRule> 𐩭 ↔ ḫ 	; </tRule>
+			<tRule> 𐩮 ↔ ṣ ; </tRule>
+			<tRule> 𐩯 ↔ ś ; </tRule>
+			<tRule> 𐩰 ↔ f ; </tRule>
+			<tRule> 𐩱 ↔ ʼ	; </tRule>
+			<tRule> 𐩲 ↔ ʽ ; </tRule>
+			<tRule> 𐩳 ↔ ḍ ; </tRule>
+			<tRule> 𐩴 ↔ g ; </tRule>
+			<tRule> 𐩵 ↔ d ; </tRule>
+ 			<tRule> 𐩶 ↔ ġ ; </tRule>
+			<tRule> 𐩷 ↔ ṭ ; </tRule>
+			<tRule> 𐩸 ↔ z ; </tRule>
+			<tRule> 𐩹 ↔ ḏ ; </tRule>
+			<tRule> 𐩺 ↔ y ; </tRule>
+			<tRule> 𐩻 ↔ ṯ ; </tRule>
+			<tRule> 𐩼 ↔ ẓ ; </tRule>
+			<tRule> 𐩽 ↔ 1 ; </tRule> 
+			<tRule> 𐩾 ↔ 50 ; </tRule>
+			<tRule> 𐩿 ↔ ; # OLD SOUTH ARABIAN NUMBERIC INDICATOR </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
