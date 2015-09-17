@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Saurashtra' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			ꢀ<tRule> \U0000A880 ↔ ; SAURASHTRA SIGN ANUSVARA </tRule>
+			<tRule> \U0000A881 ↔ ; SAURASHTRA SIGN VISARGA </tRule>
+			<tRule> ꢂ ↔ a ; </tRule>
+			<tRule> ꢃ ↔ aa ; </tRule>
+			<tRule> ꢄ ↔ i ; </tRule>
+			<tRule> ꢅ ↔ ii ; </tRule>
+			<tRule> ꢆ ↔ u ; </tRule>
+			<tRule> ꢇ ↔ uu ; </tRule>
+			<tRule> ꢈ ↔ r ; </tRule>
+			<tRule> ꢉ ↔ rr ; </tRule>
+			<tRule> ꢊ ↔ l ; </tRule>
+			<tRule> ꢋ ↔ ll ; </tRule>
+			<tRule> ꢌ ↔ e ; </tRule>
+			<tRule> ꢍ ↔ ee ; </tRule>
+			<tRule> ꢎ ↔ ai ; </tRule>
+			<tRule> ꢏ ↔ o ; </tRule>
+			<tRule> ꢐ ↔ oo ; </tRule>
+			<tRule> ꢑ ↔ au ; </tRule>
+			<tRule> ꢒ ↔ ka ; </tRule>
+			<tRule> ꢓ ↔ kha ; </tRule>
+			<tRule> ꢔ ↔ ga ; </tRule>
+			<tRule> ꢕ ↔ gha ; </tRule>
+			<tRule> ꢖ ↔ nga ; </tRule>
+			<tRule> ꢗ ↔ ca ; </tRule>
+			<tRule> ꢘ ↔ cha ; </tRule>
+			<tRule> ꢙ ↔ ja ; </tRule>
+			<tRule> ꢚ ↔ jha ; </tRule>
+			<tRule> ꢛ ↔ nya ; </tRule>
+			<tRule> ꢜ ↔ tta ; </tRule>
+			<tRule> ꢝ ↔ ttha ; </tRule>
+			<tRule> ꢞ ↔ dda ; </tRule>
+			<tRule> ꢟ ↔ ddha ; </tRule>
+			<tRule> ꢠ ↔ nna ; </tRule>
+			<tRule> ꢡ ↔ ta ; </tRule>
+			<tRule> ꢢ ↔ tha ; </tRule>
+			<tRule> ꢣ ↔ da ; </tRule>
+			<tRule> ꢤ ↔ dha ; </tRule>
+			<tRule> ꢥ ↔ na ; </tRule>
+			<tRule> ꢦ ↔ pa ; </tRule>
+			<tRule> ꢧ ↔ pha ; </tRule>
+			<tRule> ꢨ ↔ ba ; </tRule>
+			<tRule> ꢩ ↔ bha ; </tRule>
+			<tRule> ꢪ ↔ ma ; </tRule>
+			<tRule> ꢫ ↔ ya ; </tRule>
+			<tRule> ꢬ ↔ ra ; </tRule>
+			<tRule> ꢭ ↔ la ; </tRule>
+			<tRule> ꢮ ↔ va ; </tRule>
+			<tRule> ꢯ ↔ sha ; </tRule>
+			<tRule> ꢰ ↔ ssa ; </tRule>
+			<tRule> ꢱ ↔ sa ; </tRule>
+			<tRule> ꢲ ↔ sa ; </tRule>
+			<tRule> ꢳ ↔ lla ; </tRule>
+			<tRule> \U0000A8B4 ↔ ; # SAURASHTRA CONSONANT SIGN HAARU </tRule>
+			<tRule> \U0000A8B5 ↔ aa ; # SAURASHTRA VOWEL SIGNꢴ AA </tRule>
+			<tRule> \U0000A8B6 ↔ i ; # SAURASHTRA VOWEL SIGN I </tRule>
+			<tRule> \U0000A8B7 ↔ ii ; # SAURASHTRA VOWEL SIGN II </tRule>
+			<tRule> \U0000A8B8 ↔ u ; # SAURASHTRA VOWEL SIGN U </tRule>
+			<tRule> \U0000A8B9 ↔ uu ; # SAURASHTRA VOWEL SIGN UU </tRule>
+			<tRule> \U0000A8BA ↔ r ; # SAURASHTRA	ꢻVOWEL SIGN VOCALIC R </tRule>
+			<tRule> \U0000A8BB ↔ rr ; # SAURASHTRA VOWEL SIGN VOCALIC RR ; </tRule>
+			<tRule> \U0000A8BC ↔ l ; # SAURASHTRA VOWEL SIGN VOCALIC L </tRule>
+			<tRule> \U0000A8BD ↔ ll ; # SAURASHTRA VOWEL SIGN VOCALIC LL </tRule>
+			<tRule> \U0000A8BE ↔ e ; # SAURASHTRA VOWEL SIGN E </tRule>
+			<tRule> \U0000A8BF ↔ ee ; # SAURASHTRA VOWEL SIGN EE </tRule>
+			<tRule> \U0000A8C0 ↔ ai ; # SAURASHTRA VOWEL SIGN AI </tRule>
+			<tRule> \U0000A8C1 ↔ ꢼo ; # SAURASHTRA VOWEL SIGN O </tRule>
+			<tRule> \U0000A8C2 ↔ oo ; # SAURASHTRA VOWEL SIGN OO </tRule>
+			<tRule> \U0000A8C3 ↔ au ; # SAURASHTRA VOWEL SIGN AU </tRule>
+			<tRule> \U0000A8C4 ↔ ; # SAURASHTRA SIGN VIRAMA </tRule>	ꣂ	ꣃ	꣄
+			<tRule>꣎ ↔ ; # SAURASHTRA DANDA </tRule>
+			<tRule>꣏ ↔ ; # SAURASHTRA DOUBLE DANDA </tRule>
+			<tRule>꣐ ↔ 0 ; </tRule>
+			<tRule>꣑ ↔ 1 ; </tRule>
+			<tRule>꣒ ↔ 2 ; </tRule>
+			<tRule>꣓ ↔ 3 ; </tRule>
+			<tRule>꣔ ↔ 4 ; </tRule>
+			<tRule>꣕ ↔ 5 ; </tRule>
+			<tRule>꣖ ↔ 6 ; </tRule>
+			<tRule>꣗ ↔ 7 ; </tRule>
+			<tRule>꣘ ↔ 8 ; </tRule>
+			<tRule>꣙ ↔ 9 ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
