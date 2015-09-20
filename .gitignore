@@ -8,3 +8,5 @@ json/transforms.json
 *.pyc
 
 *.pyc
+
+*.tsv
