@@ -6,18 +6,18 @@ import codecs
 
 trans_phases = {}
 
-with open("../json/transforms.json") as fh:
+with open("./json/transforms.json") as fh:
 	transforms = json.load(fh)	
 	i = 1
 	k = 1
 	j = 1
-	with codecs.open("../tsv/sets.tsv","w","utf-8") as setfile:
+	with codecs.open("./tsv/sets.tsv","w","utf-8") as setfile:
 		setfile.write(u'\ufeff')
 		setfile.write("\t".join(["id","name","source","target","variant","direction"]) + "\n")
-		with codecs.open("../tsv/phases.tsv","w","utf-8") as phasefile:
+		with codecs.open("./tsv/phases.tsv","w","utf-8") as phasefile:
 			phasefile.write(u'\ufeff')
 			phasefile.write("\t".join(["set_id","phase_id","forward_transform_source","forward_transform_target","forward_transform_variant","forward_filter","forward_function","reverse_transform_source","reverse_transform_target","reverse_transform_variant","reverse_filter","reverse_function"]) + "\n")
-			with codecs.open("../tsv/rules.tsv","w","utf-8") as rulesfile:
+			with codecs.open("./tsv/rules.tsv","w","utf-8") as rulesfile:
 				rulesfile.write(u'\ufeff')
 				rulesfile.write("\t".join(["id","set_id","phase_id","source","target","source_context_left","source_context_right", "target_context_left", "target_context_right","source_revisit", "target_revisit", "direction"]) + "\n")
 				for key, value in transforms.iteritems():
@@ -84,29 +84,40 @@ with open("../json/transforms.json") as fh:
 					i += 1
 					j += 1
 	
-def getPhaseOutput(i, phases):
+def getPhaseOutput(i, phases, dxn):
 	output = []
 	for phase in phases:
 		if phase[1] != "" and phase[2] != "":
 			testcond = "-".join(phase[1:4]).lower()
+			revcond = "-".join([phase[2], phase[1], phase[3]]).lower()
 			best = None
+			f = 1
 			for key, values in trans_phases.iteritems():
 				if key.lower() == testcond:
 					best = key
+					f = 1
+					break
+				elif key.lower() == revcond:
+					best = key
+					f = -1
 					break
 				elif key.lower().startswith(testcond) and values["id"] != i:
 					best = key
+					f = 1
+				elif key.lower().startswith(revcond) and values["id"] != i:
+					best = key
+					f = -1
 			if best:
 				print testcond, best
-				output += getPhaseOutput(i, trans_phases[best]["phases"])
+				output += getPhaseOutput(i, trans_phases[best]["phases"], f)
 		else:
-			output += [[str(i)] + phase]
+			output += [[str(i)] + phase + [str(dxn)]]
 	return output
 	
-with codecs.open("../tsv/phases.tsv","w","utf-8") as phasefile:
+with codecs.open("./tsv/phases.tsv","w","utf-8") as phasefile:
 	phasefile.write(u'\ufeff')
-	phasefile.write("\t".join(["set_id","phase_id","forward_transform_source","forward_transform_target","forward_transform_variant","forward_filter","forward_function","reverse_transform_source","reverse_transform_target","reverse_transform_variant","reverse_filter","reverse_function"]) + "\n")
+	phasefile.write("\t".join(["set_id","phase_id","forward_transform_source","forward_transform_target","forward_transform_variant","forward_filter","forward_function","reverse_transform_source","reverse_transform_target","reverse_transform_variant","reverse_filter","reverse_function","phase_direction"]) + "\n")
 	for key, values in trans_phases.iteritems():
-		phasefile.write("\n".join(["\t".join(x) for x in getPhaseOutput(values["id"], values["phases"])]) + "\n")
+		phasefile.write("\n".join(["\t".join(x) for x in getPhaseOutput(values["id"], values["phases"], 1)]) + "\n")
 			
 	

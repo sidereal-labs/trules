@@ -7,6 +7,7 @@ parser = argparse.ArgumentParser(description='Transliterate some letters.')
 parser.add_argument('-r', '--rebuild-transforms', action='store_true', dest='rebuild', help='Reparse xml files into transforms.json in ./transforms/ and ./transforms/cldr/ folders before running tests. Default=FALSE')
 parser.add_argument('-t', '--test-file', metavar="<TESTFILE>", dest='test', help='Test rules transforms.json on list of sample words. Default=testdata.txt', default="testdata.txt")
 parser.add_argument('-c', '--create-xml', metavar="<SOURCE>-<TARGET>-<VARIANT>", dest='newxml', help='Create an empty xml template in the transforms folder for a new ruleset', default=argparse.SUPPRESS)
+parser.add_argument('-m', '--mysql', action='store_true', dest='mysql', help='Rebuild the tsv files for mysql import', default=argparse.SUPPRESS)
 
 args = vars(parser.parse_args())
 
@@ -26,6 +27,10 @@ if "newxml" in args:
 elif "test" in args:
 	if args["rebuild"]:
 		import lib.transform
+	
+	if "mysql" in args:
+		import lib.mysqlprep
+		
 	from lib.transliterate import *
 	
 	with open(args["test"]) as fh:

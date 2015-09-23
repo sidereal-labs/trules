@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Katakana' target='Latin' direction="both" variant='Sidereal'>
+			<tRule>:: NFKC ; </tRule>
+			<tRule>:: Katakana-Latin-BGN ;</tRule>
+			<tRule>ㇷ゚ → p ; </tRule>
+			<tRule>ァ → a ; </tRule>
+			<tRule>ー → \u0304 ; </tRule>
+			
+			<tRule>ka ゚ → nga ;</tRule>
+			<tRule>ki ゚ → ngi ;</tRule>
+			<tRule>ke ゚ → nge ;</tRule>
+			<tRule>ko ゚ → ngo ;</tRule>
+			<tRule>ku ゚ → ngu ;</tRule>
+			
+			<tRule>ha ゚ → pa ;</tRule>
+			<tRule>hi ゚ → pi ;</tRule>
+			<tRule>he ゚ → pe ;</tRule>
+			<tRule>ho ゚ → po ;</tRule>
+			<tRule>hu ゚ → pu ;</tRule>
+			
+			<tRule>sa ゚ → ca ;</tRule>
+			<tRule>si ゚ → ci ;</tRule>
+			<tRule>se ゚ → ce ;</tRule>
+			<tRule>so ゚ → co ;</tRule>
+			<tRule>su ゚ → cu ;</tRule>
+			
+			<tRule>fa ゚ → pa ;</tRule>
+			<tRule>fi ゚ → pi ;</tRule>
+			<tRule>fe ゚ → pe ;</tRule>
+			<tRule>fo ゚ → po ;</tRule>
+			<tRule>fu ゚ → pu ;</tRule>
+			
+			<tRule> ka ゙ → ga </tRule>
+			<tRule> ki ゙ → gi </tRule>
+			<tRule> ke ゙ → ge </tRule>
+			<tRule> ko ゙ → go </tRule>
+			<tRule> ku ゙ → gu </tRule>
+			
+			<tRule> sa ゙ → za </tRule>
+			<tRule> si ゙ → zi </tRule>
+			<tRule> se ゙ → ze </tRule>
+			<tRule> so ゙ → zo </tRule>
+			<tRule> su ゙ → zu </tRule>
+			
+			<tRule> ta ゙ → da </tRule>
+			<tRule> ti ゙ → di </tRule>
+			<tRule> te ゙ → de </tRule>
+			<tRule> to ゙ → do </tRule>
+			<tRule> tu ゙ → du </tRule>
+			
+			<tRule> ha ゙ → ba </tRule>
+			<tRule> hi ゙ → bi </tRule>
+			<tRule> he ゙ → be </tRule>
+			<tRule> ho ゙ → bo </tRule>
+			<tRule> hu ゙ → bu </tRule>
+			
+			<tRule> wa ゙ → va </tRule>
+			<tRule> wi ゙ → vi </tRule>
+			<tRule> we ゙ → ve </tRule>
+			<tRule> wo ゙ → vo </tRule>
+			<tRule> wu ゙ → vu </tRule>
+			
+			<tRule> ra ゙ → la </tRule>
+			<tRule> ri ゙ → li </tRule>
+			<tRule> re ゙ → le </tRule>
+			<tRule> ro ゙ → lo </tRule>
+			<tRule> ru ゙ → lu </tRule>
+			
+			<tRule> fa ゙ → ba </tRule>
+			<tRule> fi ゙ → bi </tRule>
+			<tRule> fe ゙ → be </tRule>
+			<tRule> fo ゙ → bo </tRule>
+			<tRule> fu ゙ → bu </tRule>
+		</transform>
+	</transforms>
+</supplementalData>

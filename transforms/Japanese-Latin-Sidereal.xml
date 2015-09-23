@@ -2,10 +2,11 @@
 <!DOCTYPE supplementalData SYSTEM "../../common/dtd/ldmlSupplemental.dtd">
 <supplementalData>
 	<transforms>
-		<transform source="Japanese" target="Latin" direction="both">
+		<transform source="Japanese" target="Latin" direction="both" variant="Sidereal">
 			<tRule>:: NFD;</tRule>
+			<tRule> (.){[々〻] → \\2 ; </tRule>
 			<tRule>:: Han-Latin</tRule>
-			<tRule>:: Hiragana-Latin</tRule>
+			<tRule>:: Hiragana-Latin-Sidereal</tRule>
 		</transform>
 	</transforms>
 </supplementalData>

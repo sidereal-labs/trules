@@ -152,31 +152,11 @@ For terms of use, see http://www.unicode.org/copyright.html
 			<comment># transformed to Hiragana.</comment>
 			<comment># {The following mechanically generated from the</comment>
 			<comment># Unicode 3.0 data:}</comment>
-			<tRule>$xa = [ \</tRule>
-			<tRule>ぁ あ か が さ ざ \</tRule>
-			<tRule>た だ な は ば ぱ \</tRule>
-			<tRule>ま ゃ や ら ゎ わ \</tRule>
-			<tRule>];</tRule>
-			<tRule>$xi = [ \</tRule>
-			<tRule>ぃ い き ぎ し じ \</tRule>
-			<tRule>ち ぢ に ひ び ぴ \</tRule>
-			<tRule>み り ゐ \</tRule>
-			<tRule>];</tRule>
-			<tRule>$xu = [ \</tRule>
-			<tRule>ぅ う く ぐ す ず \</tRule>
-			<tRule>っ つ づ ぬ ふ ぶ \</tRule>
-			<tRule>ぷ む ゅ ゆ る ゔ \</tRule>
-			<tRule>];</tRule>
-			<tRule>$xe = [ \</tRule>
-			<tRule>ぇ え け げ せ ぜ \</tRule>
-			<tRule>て で ね へ べ ぺ \</tRule>
-			<tRule>め れ ゑ \</tRule>
-			<tRule>];</tRule>
-			<tRule>$xo = [ \</tRule>
-			<tRule>ぉ お こ ご そ ぞ \</tRule>
-			<tRule>と ど の ほ ぼ ぽ \</tRule>
-			<tRule>も ょ よ ろ を \</tRule>
-			<tRule>];</tRule>
+			<tRule>$xa = [ ぁ あ か が さ ざ た だ な は ば ぱ ま ゃ や ら ゎ わ ];</tRule>
+			<tRule>$xi = [ ぃ い き ぎ し じ ち ぢ に ひ び ぴ み り ゐ ];</tRule>
+			<tRule>$xu = [ ぅ う く ぐ す ず っ つ づ ぬ ふ ぶ ぷ む ゅ ゆ る ゔ ];</tRule>
+			<tRule>$xe = [ ぇ え け げ せ ぜ て で ね へ べ ぺ め れ ゑ ];</tRule>
+			<tRule>$xo = [ ぉ お こ ご そ ぞ と ど の ほ ぼ ぽ も ょ よ ろ を ];</tRule>
 			<tRule>あ ← $xa {ー};</tRule>
 			<tRule>い ← $xi {ー};</tRule>
 			<tRule>う ← $xu {ー};</tRule>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <supplementalData>
 	<transforms>
-		<transform source='Hanunoo' target='Latin' direction="both" variant='Latin'>
+		<transform source='Hanunoo' target='Latin' direction="both" variant='Sidereal'>
 			<tRule>:: NFC ; </tRule>
 			<tRule> ᜠ ↔ a ; </tRule>
 			<tRule> ᜡ ↔ i ; </tRule>
