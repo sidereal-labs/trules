@@ -3,36 +3,47 @@
   <version number="$Revision: 11914 $"/>
 	<transforms>
 		<transform source='Runic' target='Latin' direction="both" variant='Latin'>
-			<tRule>:: NFC ; </tRule>
-			<tRule> 𐤀 ↔ a ; </tRule>
-			<tRule> 𐤁 ↔ b ;</tRule>
-			<tRule> 𐤂 ↔ c (g) ; </tRule>
-			<tRule> 𐤃 ↔ d ; </tRule>
-			<tRule> 𐤄 ↔ e ; </tRule>
-			<tRule> 𐤅 ↔ f (u v y w) ; </tRule>
-			<tRule> 𐤆 ↔ z ; </tRule>
-			<tRule> 𐤇 ↔ h ; </tRule>
-			<tRule> 𐤈 ↔ -- ; </tRule>
-			<tRule> 𐤉 ↔ i (j) ; </tRule>
-			<tRule> 𐤊 ↔ k ; </tRule>
-			<tRule> 𐤋 ↔ l ; </tRule>
-			<tRule> 𐤌 ↔ m ; </tRule>
-			<tRule> 𐤍 ↔ n ; </tRule>
-			<tRule> 𐤎 ↔ x? ; </tRule>
-			<tRule> 𐤏 ↔ o ; </tRule>
-			<tRule> 𐤐 ↔ p ; </tRule>
-			<tRule> 𐤑 ↔ -- ; </tRule>
-			<tRule> 𐤒 ↔ q ; </tRule>
-			<tRule> 𐤓 ↔ r ; </tRule>
-			<tRule> 𐤔 ↔ s ; </tRule>
-			<tRule> 𐤕 ↔ t ; </tRule>
-			<tRule> 𐤖 ↔ ?1 ; </tRule>
-			<tRule> 𐤗 ↔ ?2 ; </tRule>
-			<tRule> 𐤘 ↔ ?3 ; </tRule>
-			<tRule> 𐤙 ↔ ?4 ; </tRule>
-			<tRule> 𐤚 ↔ ?5 ; </tRule>
-			<tRule> 𐤛 ↔ ?6 ; </tRule>
-			<tRule> 𐤟 ↔ ?7 ; </tRule>
+			<tRule> ᚠ ↔  f ; </tRule>
+			<tRule> ᚢ ↔  u ; </tRule>
+			<tRule> ᚦ ↔  þ ; </tRule>
+			<tRule> ᚨ ↔  a ; </tRule>
+			<tRule> ᚱ ↔  r ; </tRule>
+			<tRule> ᚲ ↔  k ; </tRule>
+			<tRule> ᚷ ↔  g ; </tRule>
+			<tRule> ᚹ ↔  w ; </tRule>
+			<tRule> ᚺ ↔  h ; </tRule>
+			<tRule> ᚾ ↔  n ; </tRule>
+			<tRule> ᛁ ↔  i ; </tRule>
+			<tRule> ᛃ ↔  j ; </tRule>
+			<tRule> ᛇ ↔  ï ; </tRule>
+			<tRule> ᛈ ↔  p ; </tRule>
+			<tRule> ᛉ ↔  z ; </tRule>
+			<tRule> ᛊ ↔  s ; </tRule>
+			<tRule> ᛏ ↔  t ; </tRule>
+			<tRule> ᛒ ↔  b ; </tRule>
+			<tRule> ᛖ ↔  e ; </tRule>
+			<tRule> ᛗ ↔  m ; </tRule>
+			<tRule> ᛚ ↔  l ; </tRule>
+			<tRule> ᛜ ↔  ŋ ; </tRule>
+			<tRule> ᛟ ↔  o ; </tRule>
+			<tRule> ᛞ ↔  d ; </tRule>
+			<tRule> ᚩ ↔  a ; </tRule>
+			<tRule> ᚳ ↔  k ; </tRule>
+			<tRule> ȝ ↔  g ; </tRule>
+			<tRule> ᚻ ↔  h ; </tRule>
+			<tRule> ᛄ ↔  j ; </tRule>
+			<tRule> ᛋ ↔  s ; </tRule>
+			<tRule> ᛝ ↔  ŋ ; </tRule>
+			<tRule> ᚪ ↔  a ; </tRule>
+			<tRule> ᚫ ↔  æ ; </tRule>
+			<tRule> ᚣ ↔  y ; </tRule>
+			<tRule> ᛠ ↔  ea ; </tRule>
+			<tRule> ᚬ ↔  a ; </tRule>
+			<tRule> ᚴ ↔  k ; </tRule>
+			<tRule> ᚼ ↔  h ; </tRule>
+			<tRule> ᛅ ↔  a ; </tRule>
+			<tRule> ᛘ ↔  m ; </tRule>
+			<tRule> ᛦ ↔  ʀ ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
