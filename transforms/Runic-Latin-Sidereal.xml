@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <supplementalData>
-  <version number="$Revision: 11914 $"/>
 	<transforms>
 		<transform source='Runic' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
 			<tRule> ᚦ ↔  th ; </tRule>
 			<tRule> ᛠ ↔  ea ; </tRule>
 			<tRule> ᚫ ↔  æ ; </tRule>
