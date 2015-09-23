@@ -43,12 +43,12 @@
 			<tRule>ꓴ ↔ u ; </tRule>
 			<tRule>ꓶ ↔ ue ; </tRule>
 			<tRule>ꓷ ↔ oe ; </tRule>
-			<tRule>ꓸ ↔ # LISU LETTER TONE MYA TI ; </tRule>
-			<tRule>ꓹ ↔ # LISU LETTER TONE NA PO ;</tRule>
-			<tRule>ꓺ ↔ # LISU LETTER TONE MYA CYA ;</tRule>
-			<tRule>ꓻ ↔ # LISU LETTER TONE MYA BO ; </tRule>
-			<tRule>ꓼ ↔ # LISU LETTER TONE MYA NA ; </tRule>
-			<tRule>ꓽ ↔ # LISU LETTER TONE MYA JEU ; </tRule>
+			<tRule>ꓸ ↔ ti ; # LISU LETTER TONE MYA TI </tRule>
+			<tRule>ꓹ ↔ po ; # LISU LETTER TONE NA PO </tRule>
+			<tRule>ꓺ ↔ cya ; # LISU LETTER TONE MYA CYA </tRule>
+			<tRule>ꓻ ↔ bo ; # LISU LETTER TONE MYA BO </tRule>
+			<tRule>ꓼ ↔ na ; # LISU LETTER TONE MYA NA </tRule>
+			<tRule>ꓽ ↔ jeu ; # LISU LETTER TONE MYA JEU </tRule>
 			<tRule>꓾ ↔ , ; </tRule>
 			<tRule>꓿ ↔ . ; </tRule>
 		</transform>

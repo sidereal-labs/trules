@@ -4,6 +4,8 @@ import unicodedata
 import sys
 import codecs
 
+trans_phases = {}
+
 with open("../json/transforms.json") as fh:
 	transforms = json.load(fh)	
 	i = 1
@@ -19,7 +21,12 @@ with open("../json/transforms.json") as fh:
 				rulesfile.write(u'\ufeff')
 				rulesfile.write("\t".join(["id","set_id","phase_id","source","target","source_context_left","source_context_right", "target_context_left", "target_context_right","source_revisit", "target_revisit", "direction"]) + "\n")
 				for key, value in transforms.iteritems():
-					setfile.write("\t".join([str(x) for x in [i, key, value["source"], value["target"], value["variant"], value["direction"]]]) + "\n")
+					setfile.write("\t".join([str(x) for x in [i, key, re.sub("[ _]","",value["source"]).lower(), re.sub("[ _]","",value["target"]).lower(), value["variant"], value["direction"]]]) + "\n")
+					varnt = str(value["variant"])
+					if varnt == "None":
+						varnt = ""
+					set_label = "-".join([value["source"], value["target"], varnt])
+					trans_phases[set_label] = {"id": i, "phases": []}
 					for phase in value["phases"]:
 						if type(phase) is list:
 							if len(phase) > 0:
@@ -31,11 +38,12 @@ with open("../json/transforms.json") as fh:
 										elif type(step) is int:
 											rulesfile.write(str(step))
 										else:
-											rulesfile.write(step)
+											rulesfile.write(unicodedata.normalize("NFC",step))
 										rulesfile.write("\t")
 									rulesfile.write("\n")
 									k += 1
-								phasefile.write("\t".join([str(i),str(j),"","","","","","","","","",""]) + "\n")
+								# phasefile.write("\t".join([str(i),str(j),"","","","","","","","","",""]) + "\n")
+								trans_phases[set_label]["phases"].append([str(j),"","","","","","","","","",""])
 								j += 1
 
 						elif phase.startswith("::"):
@@ -71,6 +79,34 @@ with open("../json/transforms.json") as fh:
 								reverse_filter = forward_filter
 								reverse_function = forward_function
 							
-							phasefile.write(str(i) + "\t" + str(j) + "\t" + "\t".join(["\t".join(forward_transform), forward_filter, forward_function, "\t".join(reverse_transform), reverse_filter, reverse_function]) + "\n")
+							# phasefile.write(str(i) + "\t" + str(j) + "\t" + "\t".join(["\t".join(forward_transform), forward_filter, forward_function, "\t".join(reverse_transform), reverse_filter, reverse_function]) + "\n")
+							trans_phases[set_label]["phases"].append([str(j)] + forward_transform + [forward_filter, forward_function] + reverse_transform + [reverse_filter, reverse_function])
 					i += 1
 					j += 1
+	
+def getPhaseOutput(i, phases):
+	output = []
+	for phase in phases:
+		if phase[1] != "" and phase[2] != "":
+			testcond = "-".join(phase[1:4]).lower()
+			best = None
+			for key, values in trans_phases.iteritems():
+				if key.lower() == testcond:
+					best = key
+					break
+				elif key.lower().startswith(testcond) and values["id"] != i:
+					best = key
+			if best:
+				print testcond, best
+				output += getPhaseOutput(i, trans_phases[best]["phases"])
+		else:
+			output += [[str(i)] + phase]
+	return output
+	
+with codecs.open("../tsv/phases.tsv","w","utf-8") as phasefile:
+	phasefile.write(u'\ufeff')
+	phasefile.write("\t".join(["set_id","phase_id","forward_transform_source","forward_transform_target","forward_transform_variant","forward_filter","forward_function","reverse_transform_source","reverse_transform_target","reverse_transform_variant","reverse_filter","reverse_function"]) + "\n")
+	for key, values in trans_phases.iteritems():
+		phasefile.write("\n".join(["\t".join(x) for x in getPhaseOutput(values["id"], values["phases"])]) + "\n")
+			
+	

@@ -90,7 +90,7 @@ for file in files:
 						postctxtright = post.split("}")[1].strip()
 						post = post.split("}")[0].strip()
 
-					phases[-1].append([re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}",x.encode("utf-8").replace("$space", " ")) for x in [pre, post, prectxtleft, prectxtright, postctxtleft, postctxtright]] + [postrevisit, prerevisit, dxn])
+					phases[-1].append([re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}",x.encode("utf-8").replace("$space", " ").replace("'.'","\\.")) for x in [pre, post, prectxtleft, prectxtright, postctxtleft, postctxtright]] + [postrevisit, prerevisit, dxn])
 				elif rule is not None and len(rule) > 0:
 					if type(phases[-1]) is "list" and len(phases[-1]) == 0:
 						phases[-1] = re.sub("\[\:([^\]]*)\:\]", "\\p{\\1}", rule)

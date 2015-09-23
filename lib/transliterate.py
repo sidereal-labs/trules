@@ -8,6 +8,8 @@ import sys
 
 transforms = {}
 
+debug_on = False
+
 with open("json/transforms.json") as fh:
 	transforms = json.load(fh)
 
@@ -25,8 +27,9 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 				idx = word.find("""\U""")
 				word = word[:idx] + unicode(str(word[idx:idx+10]),"unicode-escape") + word[idx+10:]
 		except UnicodeError as e:
-			print e
-			print word
+			if debug_on:
+				print e
+				print word
 		
 		if type(word) is not unicode:
 			try:
@@ -70,7 +73,8 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										print key, "Rule",r,"broken", rule
+										if debug_on:
+											print key, "Rule",r,"broken", rule
 										pass
 									r += 1
 									if orig != word:
@@ -86,7 +90,8 @@ def transliterate(words, source=None, target="Latin", variant=None, this=None, d
 									except KeyboardInterrupt:
 										sys.exit(0)
 									except:
-										print key, "Rule",r,"broken", rule
+										if debug_on:
+											print key, "Rule",r,"broken", rule
 										pass
 									r += 1
 									if orig != word:
