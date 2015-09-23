@@ -3,9 +3,12 @@
   <version number="$Revision: 11914 $"/>
 	<transforms>
 		<transform source='Runic' target='Latin' direction="both" variant='Latin'>
+			<tRule> ᚦ ↔  th ; </tRule>
+			<tRule> ᛠ ↔  ea ; </tRule>
+			<tRule> ᚫ ↔  æ ; </tRule>
+			<tRule> ᚫ ↔  ae ; </tRule>
 			<tRule> ᚠ ↔  f ; </tRule>
 			<tRule> ᚢ ↔  u ; </tRule>
-			<tRule> ᚦ ↔  þ ; </tRule>
 			<tRule> ᚨ ↔  a ; </tRule>
 			<tRule> ᚱ ↔  r ; </tRule>
 			<tRule> ᚲ ↔  k ; </tRule>
@@ -35,9 +38,7 @@
 			<tRule> ᛋ ↔  s ; </tRule>
 			<tRule> ᛝ ↔  ŋ ; </tRule>
 			<tRule> ᚪ ↔  a ; </tRule>
-			<tRule> ᚫ ↔  æ ; </tRule>
 			<tRule> ᚣ ↔  y ; </tRule>
-			<tRule> ᛠ ↔  ea ; </tRule>
 			<tRule> ᚬ ↔  a ; </tRule>
 			<tRule> ᚴ ↔  k ; </tRule>
 			<tRule> ᚼ ↔  h ; </tRule>
