@@ -91,22 +91,29 @@ def getPhaseOutput(i, phases, dxn):
 			testcond = "-".join(phase[1:4]).lower()
 			revcond = "-".join([phase[2], phase[1], phase[3]]).lower()
 			best = None
+			bscore = -1
 			f = 1
 			for key, values in trans_phases.iteritems():
 				if key.lower() == testcond:
-					best = key
-					f = 1
-					break
+					if bscore < 3:
+						best = key
+						f = 1
+						break
 				elif key.lower() == revcond:
-					best = key
-					f = -1
-					break
+					if bscore < 2:
+						best = key
+						f = -1
+						bscore = 2
 				elif key.lower().startswith(testcond) and values["id"] != i:
-					best = key
-					f = 1
+					if bscore < 1:
+						best = key
+						f = 1
+						bscore =2 
 				elif key.lower().startswith(revcond) and values["id"] != i:
-					best = key
-					f = -1
+					if bscore < 0:
+						best = key
+						f = -1
+						bscore = 0
 			if best:
 				print testcond, best
 				output += getPhaseOutput(i, trans_phases[best]["phases"], f)
