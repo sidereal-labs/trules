@@ -29,7 +29,7 @@ U+	Canadian_Aboriginal
 DF	Ogham
 GS	Runic
 *	Khmer <https://en.wikipedia.org/wiki/Khmer_alphabet>
-U	Mongolian
+*	Mongolian (Unicode provides xml for Mongolian Cyrillic but not the Mongolian script) <https://en.wikipedia.org/wiki/Mongolian_script>
 U	Hiragana
 U	Katakana
 U	Bopomofo
