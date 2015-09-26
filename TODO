@@ -50,11 +50,11 @@ TP	Ugaritic
 TP	Shavian          Unreadable transliterations
 TP	Osmanya
 TP	Cypriot
-GS	Braille
+GS	Braille	-Difficult to get full phrasal support
 TP	Buginese
 DF	Coptic
 *	New_Tai_Lue  
-	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
+GS	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
 DF	Tifinagh
 DF	Syloti_Nagri  
 TP	Old_Persian
