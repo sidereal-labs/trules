@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Glagolitic' target='Cyrillic' direction="both" variant='Cyrillic'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> Ⰰ ↔ А ; </tRule>
+			<tRule> Ⰱ ↔ Б ; </tRule>
+			<tRule> Ⰲ ↔ В ; </tRule>
+			<tRule> Ⰳ ↔ Г ; </tRule>
+			<tRule> Ⰴ ↔ Д ; </tRule>
+			<tRule> Ⰵ ↔ Є ; </tRule>
+			<tRule> Ⰶ ↔ Ж ; </tRule>
+			<tRule> Ⰷ ↔ Ѕ ; </tRule>
+			<tRule> Ⰸ ↔ З ; </tRule>
+			<tRule> Ⰹ ↔ И ; </tRule>
+			<tRule> Ⰺ ↔ Й ; </tRule>
+			<tRule> Ⰻ ↔ І ; </tRule>
+			<tRule> Ⰼ ↔ Ꙉ ; </tRule>
+			<tRule> Ⰽ ↔ К ; </tRule>
+			<tRule> Ⰾ ↔ Л ; </tRule>
+			<tRule> Ⰿ ↔ М ; </tRule>
+			<tRule> Ⱀ ↔ Н ; </tRule>
+			<tRule> Ⱁ ↔ О ; </tRule>
+			<tRule> Ⱂ ↔ П ; </tRule>
+			<tRule> Ⱃ ↔ Р ; </tRule>
+			<tRule> Ⱄ ↔ С ; </tRule>
+			<tRule> Ⱅ ↔ Т ; </tRule>
+			<tRule> Ⱆ ↔ У ; </tRule>
+			<tRule> Ⱇ ↔ Ф ; </tRule>
+			<tRule> Ⱈ ↔ Х ; </tRule>
+			<tRule> Ⱉ ↔ Ѡ ; </tRule>
+			<tRule> Ⱋ ↔ Щ ; </tRule>
+			<tRule> Ⱌ ↔ Ц ; </tRule>
+			<tRule> Ⱍ ↔ Ч ; </tRule>
+			<tRule> Ⱎ ↔ Ш ; </tRule>
+			<tRule> Ⱏ ↔ Ъ ; </tRule>
+			<tRule> ⰟⰉ ↔ Ы ; </tRule>
+			<tRule> Ⱐ ↔ Ь ; </tRule>
+			<tRule> Ⱑ ↔ Ѣ ; </tRule>
+			<tRule> Ⱖ ↔ Ё ; </tRule>
+			<tRule> Ⱓ ↔ Ю ; </tRule>
+			<tRule> Ⱔ ↔ Ѧ ; </tRule>
+			<tRule> Ⱗ ↔ Ѩ ; </tRule>
+			<tRule> Ⱘ ↔ Ѫ ; </tRule>
+			<tRule> Ⱙ ↔ Ѭ ; </tRule>
+			<tRule> Ⱚ ↔ Ѳ ; </tRule>
+			<tRule> Ⱛ ↔ Ѵ ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
