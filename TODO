@@ -19,7 +19,7 @@ U	Malayalam
 *	Sinhala
 U	Thai
 *	Lao <https://en.wikipedia.org/wiki/Lao_alphabet>
-*	Tibetan
+*	Tibetan <https://en.wikipedia.org/wiki/Wylie_transliteration>
 *	Myanmar
 U	Georgian
 U	Hangul
@@ -50,7 +50,7 @@ TP	Ugaritic
 TP	Shavian          Unreadable transliterations
 TP	Osmanya
 TP	Cypriot
-	Braille
+GS	Braille
 TP	Buginese
 DF	Coptic
 *	New_Tai_Lue  
