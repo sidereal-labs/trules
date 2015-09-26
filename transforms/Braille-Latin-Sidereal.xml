@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Braille' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ⠁ ↔ a ; </tRule>
+			<tRule> ⠃ ↔ b ; </tRule>
+			<tRule> ⠉ ↔ c ; </tRule>
+			<tRule> ⠙ ↔ d ; </tRule>
+			<tRule> ⠑ ↔ e ; </tRule>
+			<tRule> ⠋ ↔ f ; </tRule>
+			<tRule> ⠛ ↔ g ; </tRule>
+			<tRule> ⠓ ↔ h ; </tRule>
+			<tRule> ⠊ ↔ i ; </tRule>
+			<tRule> ⠚ ↔ j ; </tRule>
+			<tRule> ⠅ ↔ k ; </tRule>
+			<tRule> ⠇ ↔ l ; </tRule>
+			<tRule> ⠍ ↔ m ; </tRule>
+			<tRule> ⠝ ↔ n ; </tRule>
+			<tRule> ⠕ ↔ o ; </tRule>
+			<tRule> ⠏ ↔ p ; </tRule>
+			<tRule> ⠟ ↔ q ; </tRule>
+			<tRule> ⠗ ↔ r ; </tRule>
+			<tRule> ⠎ ↔ s ; </tRule>
+			<tRule> ⠞ ↔ t ; </tRule>
+			<tRule> ⠥ ↔ u ; </tRule>
+			<tRule> ⠧ ↔ v ; </tRule>
+			<tRule> ⠭ ↔ x ; </tRule>
+			<tRule> ⠽ ↔ y ; </tRule>
+			<tRule> ⠵ ↔ z ; </tRule>
+			<tRule> ⠺ ↔ w ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
