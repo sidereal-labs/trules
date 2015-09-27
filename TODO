@@ -54,7 +54,7 @@ GS	Braille	-Difficult to get full phrasal support
 TP	Buginese
 DF	Coptic
 *	New_Tai_Lue  
-GS	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet>
+GS	Glagolitic <https://en.wikipedia.org/wiki/Glagolitic_alphabet> #Stepped through Cyrillic
 DF	Tifinagh
 DF	Syloti_Nagri  
 TP	Old_Persian
