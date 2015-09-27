@@ -3,6 +3,37 @@
 	<transforms>
 		<transform source='Glagolitic' target='Latin' direction="both" variant='Latin'>
 			<tRule>:: NFC ; </tRule>
+			<tRule> Ⰰ ↔ A ; </tRule>
+			<tRule> Ⰱ ↔ B ; </tRule>
+			<tRule> Ⰲ ↔ V ; </tRule>
+			<tRule> Ⰳ ↔ G ; </tRule>
+			<tRule> Ⰴ ↔ D ; </tRule>
+			<tRule> Ⰵ ↔ Ê ; </tRule>
+			<tRule> Ⰶ ↔ Ž ; </tRule>
+			<tRule> Ⰷ ↔ Ẑ ; </tRule>
+			<tRule> Ⰸ ↔ Z ; </tRule>
+			<tRule> Ⰹ ↔ I ; </tRule>
+			<tRule> Ⰺ ↔ J ; </tRule>
+			<tRule> Ⰻ ↔ Í ; </tRule>
+			<tRule> Ⰽ ↔ K ; </tRule>
+			<tRule> Ⰾ ↔ L ; </tRule>
+			<tRule> Ⰿ ↔ M ; </tRule>
+			<tRule> Ⱀ ↔ N ; </tRule>
+			<tRule> Ⱁ ↔ O ; </tRule>
+			<tRule> Ⱂ ↔ P ; </tRule>
+			<tRule> Ⱃ ↔ R ; </tRule>
+			<tRule> Ⱄ ↔ S ; </tRule>
+			<tRule> Ⱅ ↔ T ; </tRule>
+			<tRule> Ⱆ ↔ U ; </tRule>
+			<tRule> Ⱇ ↔ F ; </tRule>
+			<tRule> Ⱈ ↔ H ; </tRule>
+			<tRule> Ⱋ ↔ Ŝ ; </tRule>
+			<tRule> Ⱌ ↔ C ; </tRule>
+			<tRule> Ⱍ ↔ Č ; </tRule>
+			<tRule> Ⱎ ↔ Š ; </tRule>
+			<tRule> ⰟⰉ ↔ Y ; </tRule>
+			<tRule> Ⱖ ↔ Ë ; </tRule>
+			<tRule> Ⱓ ↔ Û ; </tRule>
 		</transform>
 	</transforms>
 </supplementalData>
