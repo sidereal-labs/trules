@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Imperial_Aramaic' target='Hebrew' direction="both" variant='Hebrew'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐡀 ↔ א ; </tRule>
+			<tRule> 𐡁 ↔ ב ; </tRule>
+			<tRule> 𐡂 ↔ ג ; </tRule>
+			<tRule> 𐡃 ↔ ד ; </tRule>
+			<tRule> 𐡄 ↔ ה ; </tRule>
+			<tRule> 𐡅 ↔ ו ; </tRule>
+			<tRule> 𐡆 ↔ ז ; </tRule>
+			<tRule> 𐡇 ↔ ח ; </tRule>
+			<tRule> 𐡈 ↔ ט ; </tRule>
+			<tRule> 𐡉 ↔ י ; </tRule>
+			<tRule> 𐡊 ↔ כ ; </tRule>
+			<tRule> 𐡊 ↔ ך ; </tRule>
+			<tRule> 𐡋 ↔ ל ; </tRule>
+			<tRule> 𐡌 ↔ מ ; </tRule>
+			<tRule> 𐡌 ↔ ם ; </tRule>
+			<tRule> 𐡍 ↔ נ ; </tRule>
+			<tRule> 𐡍 ↔ ן ; </tRule>
+			<tRule> 𐡎 ↔ ס ; </tRule>
+			<tRule> 𐡏 ↔ ע ; </tRule>
+			<tRule> 𐡐 ↔ פ ; </tRule>
+			<tRule> 𐡐 ↔ ף ; </tRule>
+			<tRule> 𐡑 ↔ צ ; </tRule>
+			<tRule> 𐡑 ↔ ץ ; </tRule>
+			<tRule> 𐡒 ↔ ק ; </tRule>
+			<tRule> 𐡓 ↔ ר ; </tRule>
+			<tRule> 𐡔 ↔ ש ; </tRule>
+			<tRule> 𐡕 ↔ ת ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
