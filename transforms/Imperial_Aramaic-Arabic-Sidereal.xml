@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Imperial_Aramaic' target='Arabic' direction="both" variant='Arabic'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> 𐡀 ↔ ا ; </tRule>
+			<tRule> 𐡁 ↔ ب ; </tRule>
+			<tRule> 𐡂 ↔ ج ; </tRule>
+			<tRule> 𐡃 ↔ د ; </tRule>
+			<tRule> 𐡃 ↔ ذ ; </tRule>
+			<tRule> 𐡄 ↔ ه ; </tRule>
+			<tRule> 𐡅 ↔ و ; </tRule>
+			<tRule> 𐡆 ↔ ز ; </tRule>
+			<tRule> 𐡇 ↔ ح ; </tRule>
+			<tRule> 𐡇 ↔ خ ; </tRule>
+			<tRule> 𐡈 ↔ ط ; </tRule>
+			<tRule> 𐡈 ↔ ظ ; </tRule>
+			<tRule> 𐡉 ↔ ي ; </tRule>
+			<tRule> 𐡊 ↔ ك ; </tRule>
+			<tRule> 𐡋 ↔ ل ; </tRule>
+			<tRule> 𐡌 ↔ م ; </tRule>
+			<tRule> 𐡍 ↔ ن ; </tRule>
+			<tRule> 𐡎 ↔ س ; </tRule>
+			<tRule> 𐡏 ↔ ع ; </tRule>
+			<tRule> 𐡏 ↔ غ ; </tRule>
+			<tRule> 𐡐 ↔ ف ; </tRule>
+			<tRule> 𐡑 ↔ ص ; </tRule>
+			<tRule> 𐡑 ↔ ض ; </tRule>
+			<tRule> 𐡒 ↔ ق ; </tRule>
+			<tRule> 𐡓 ↔ ر ; </tRule>
+			<tRule> 𐡔 ↔ ش ; </tRule>
+			<tRule> 𐡕 ↔ ت ; </tRule>
+			<tRule> 𐡕 ↔ ث ; </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
