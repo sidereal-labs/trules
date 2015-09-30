@@ -84,7 +84,7 @@ TP	Lisu            Requires letter tone support.
 Hard	Bamum           Long-ish.
 	Javanese
 	Meetei_Mayek
-GS	Imperial_Aramaic
+GS	Imperial_Aramaic Have transliterations for Hebrew and Arabic, missing English still. 
 TP	Old_South_Arabian      No test data.
 	Inscriptional_Parthian
 	Inscriptional_Pahlavi
