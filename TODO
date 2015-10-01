@@ -92,7 +92,7 @@ TP	Old_South_Arabian      No test data.
 HARD	Kaithi
 *HARD	Batak	
 HARD	Brahmi
-*	Mandaic
+TP	Mandaic
 	Chakma
 HARD    Meroitic_Cursive
 HARD    Meroitic_Hieroglyphs
