@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<supplementalData>
+	<transforms>
+		<transform source='Mandaic' target='Latin' direction="both" variant='Latin'>
+			<tRule>:: NFC ; </tRule>
+			<tRule> ࡀ ↔ a </tRule>	
+			<tRule> ࡁ ↔ ab </tRule>	
+			<tRule> ࡂ ↔ ag </tRule>	
+			<tRule> ࡃ ↔ ad </tRule>	
+			<tRule> ࡄ ↔ ah </tRule>
+			<tRule> ࡅ ↔ u </tRule>	
+			<tRule> ࡆ ↔ az </tRule>	
+			<tRule> ࡇ ↔ hu </tRule>	
+			<tRule> ࡈ ↔ att </tRule>	
+			<tRule> ࡉ ↔ i </tRule>	
+			<tRule> ࡊ ↔ ak </tRule>	
+			<tRule> ࡋ ↔ al </tRule>	
+			<tRule> ࡌ ↔ am </tRule>	
+			<tRule> ࡍ ↔ an </tRule>	
+			<tRule> ࡎ ↔ as </tRule>	
+			<tRule> ࡏ ↔ in </tRule>
+			<tRule> ࡐ ↔ ap </tRule>	
+			<tRule> ࡑ ↔ asz </tRule>	
+			<tRule> ࡒ ↔ aq </tRule>	
+			<tRule> ࡓ ↔ ar </tRule>	
+			<tRule> ࡔ ↔ ash </tRule>	
+			<tRule> ࡕ ↔ at </tRule>	
+			<tRule> ࡖ ↔ di </tRule>	
+			<tRule> ࡗ ↔ kad </tRule>	
+			<tRule> ࡘ ↔ ain </tRule>	
+			<tRule> ࡙ ↔  ; # MANDAIC AFFRICATION MARK  </tRule>	
+			<tRule> ࡚ ↔ ; # MANDAIC VOCALIZATION MARK </tRule>	
+			<tRule> ࡛ ↔ ; # MANDAIC GEMINATION MARK </tRule>			
+			<tRule> ࡞ ↔ . ; # MANDAIC PUNCTUATION </tRule>
+		</transform>
+	</transforms>
+</supplementalData>
